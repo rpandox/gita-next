@@ -1,16 +1,28 @@
 # गीता — a sacred book you scroll through
 
+**Live:** https://bhagawadgita.netlify.app/
+
 A mobile-first reader for the Bhagavad Gita: one shloka per screen, scroll-snap
 vertical feed, tap to unfold meaning, chapter-end interstitials, quiet progress.
 No accounts, no gamification. Reading position persists in localStorage.
 
+The chapter index (tap the footer) expands each chapter into a grid of verse
+numbers — jump straight to any shloka, not just the chapter start.
+
 ## Run
 
 ```bash
-npm install
-npm run dev      # http://localhost:3000
-npm run build && npm start
+pnpm install
+pnpm dev         # http://localhost:3000
+pnpm build && pnpm start
 ```
+
+(`npm` works too — substitute `npm run dev` etc.)
+
+## Deploy
+
+Hosted on Netlify with `@netlify/plugin-nextjs` (see `netlify.toml`). Pushes to
+`main` deploy automatically to https://bhagawadgita.netlify.app/.
 
 Installable as a PWA; `public/sw.js` precaches all 18 chapter files and fonts
 for fully offline reading after first visit.
