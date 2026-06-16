@@ -119,6 +119,16 @@ section.s{height:100vh;height:100dvh;scroll-snap-align:start;scroll-snap-stop:al
   border:1px solid var(--acc);align-self:center}
 .ixrow .dot.read{background:var(--acc)}
 .ixrow.cur .no{color:var(--acc)}
+.ixrow .cv{flex:none;align-self:center;font-size:1rem;line-height:1;color:var(--mut);
+  transition:transform .25s ease,color .25s ease}
+.ixgroup.open .ixrow .cv{transform:rotate(180deg);color:var(--acc)}
+.vgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(2.5rem,1fr));gap:.45rem;
+  padding:.65rem 0 1.25rem}
+.vcell{padding:.5rem 0;font-size:.85rem;color:var(--mut);text-align:center;
+  border:1px solid rgba(128,128,128,.22);border:1px solid color-mix(in srgb,var(--ink) 12%,transparent);
+  border-radius:.45rem;transition:color .15s ease,border-color .15s ease}
+.vcell:hover{color:var(--ink);border-color:var(--acc)}
+.vcell.cur{color:var(--acc);border-color:var(--acc)}
 
 #veil{position:fixed;inset:0;z-index:12;background:var(--bg);opacity:0;pointer-events:none;
   transition:opacity .35s ease}
