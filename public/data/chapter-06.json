@@ -1,0 +1,1520 @@
+{
+ "chapter": 6,
+ "name": "ध्यानयोग",
+ "transliteration": "Dhyān Yog",
+ "meaning": "The Yoga of Meditation",
+ "teaching": "The mind must be befriended before it can be stilled: for the one who has conquered it, the mind is the closest ally; for the one who hasn't, it behaves like an enemy. Krishna gives the practice — seat, posture, moderation, patient return — and the image: a lamp in a windless place, unflickering. Even the practitioner who falls short loses nothing; no sincere effort on this path is ever wasted. The seat, the breath, the moderated life, the lamp in the windless place — meditation is given its complete manual, and then its safety net: no effort on this path is ever lost, across lifetimes. Its summit is the yogi who loves.",
+ "key_verses": "६.५–६ · ६.१९ · ६.२६ · ६.२९–३२ · ६.४०–४७",
+ "questions": [
+  "Right now, is your mind your friend or your opponent?",
+  "Where is your life immoderate — in eating, sleeping, effort, rest — in ways that make stillness impossible?",
+  "Arjuna admits the mind is as hard to hold as the wind. What is your actual, daily relationship with practice and patience?"
+ ],
+ "verse_count": 47,
+ "verses": [
+  {
+   "chapter": 6,
+   "verse": 1,
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच ।\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः॥",
+   "transliteration": "anāśritaḥ karmaphalaṃ kāryaṃ karma karoti yaḥ\nsa saṃnyāsī ca yogī ca na niragnirna cākriyaḥ",
+   "essence": "One who does the work that must be done without leaning on its fruit is the true sannyasi and yogi — not the one without fire or rites.",
+   "translation": "He who performs his bounden duty without depending on the fruits of his actions he is a Sannyasi and a Yogi; not he who is without fire and without action.",
+   "anvaya": [
+    {
+     "word": "अनाश्रितः कर्मफलं",
+     "meaning": "not depending on action's fruit"
+    },
+    {
+     "word": "कार्यं कर्म करोति यः",
+     "meaning": "who does the work that ought to be done"
+    },
+    {
+     "word": "सः संन्यासी च योगी च",
+     "meaning": "that one is sannyasi and yogi"
+    },
+    {
+     "word": "न निरग्निः न च अक्रियः",
+     "meaning": "not the fireless one, nor the actionless"
+    }
+   ],
+   "explanation": "The chapter opens by revoking renunciation's badges: no sacred fire, no rituals — these externals prove nothing. The double title goes instead to whoever still does the needful while no longer leaning on what it yields. Renunciation is measured at the point of motivation, not at the doorstep of the monastery.",
+   "connection": "Carries chapter 5's verdict forward: the working detached one holds both titles at once.",
+   "schools_note": null,
+   "reflection": "Do one duty today expecting nothing back — and notice you have already begun renunciation.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 2,
+   "speaker": null,
+   "devanagari": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।\nन ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन॥",
+   "transliteration": "yaṃ saṃnyāsamiti prāhuryogaṃ taṃ viddhi pāṇḍava\nna hyasaṃnyastasaṅkalpo yogī bhavati kaścana",
+   "essence": "What they call renunciation, know that as yoga, Pandava — for no one becomes a yogi without renouncing self-will.",
+   "translation": "Do thou, O Arjuna, know Yoga to be that which they call renunciation; no one verily becomes a Yogi who has not renounced thoughts.",
+   "anvaya": [
+    {
+     "word": "यं संन्यासम् इति प्राहुः",
+     "meaning": "what they call sannyasa"
+    },
+    {
+     "word": "योगं तं विद्धि पाण्डव",
+     "meaning": "know that as yoga, O Pandava"
+    },
+    {
+     "word": "न हि असंन्यस्तसङ्कल्पः",
+     "meaning": "for without renouncing sankalpa"
+    },
+    {
+     "word": "योगी भवति कश्चन",
+     "meaning": "no one becomes a yogi"
+    }
+   ],
+   "explanation": "The two words are formally merged, and the common root is named: saṅkalpa — the mind's self-willed projecting of plans and cravings. Drop that, and renunciation and yoga turn out to be one act seen from two sides. What must be given up was never the work; it was the scheming around it.",
+   "connection": "Seals 6.1's equation with its mechanism: the shared price of both paths is sankalpa.",
+   "schools_note": null,
+   "reflection": "Find the resolve hiding inside your calmest practice; sannyasa and yoga share one engine.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 3,
+   "speaker": null,
+   "devanagari": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते ।\nयोगारूढस्य तस्यैव शमः कारणमुच्यते॥",
+   "transliteration": "ārurukṣormuneryogaṃ karma kāraṇamucyate\nyogārūḍhasya tasyaiva śamaḥ kāraṇamucyate",
+   "essence": "For the sage climbing toward yoga, action is the means; for the one who has reached yoga, serenity is the means.",
+   "translation": "For a sage who wishes to attain to Yoga, action is said to be the means; for the same sage who has attained to Yoga, inaction (iescence) is said to be the means.",
+   "anvaya": [
+    {
+     "word": "आरुरुक्षोः मुनेः योगं",
+     "meaning": "for the sage desiring to ascend to yoga"
+    },
+    {
+     "word": "कर्म कारणम् उच्यते",
+     "meaning": "action is said to be the means"
+    },
+    {
+     "word": "योगारूढस्य तस्य एव",
+     "meaning": "for that same one, mounted on yoga"
+    },
+    {
+     "word": "शमः कारणम् उच्यते",
+     "meaning": "serenity is said to be the means"
+    }
+   ],
+   "explanation": "One path, two gears. The climber needs karma — engagement that scrubs and steadies; the arrived needs śama — quiet that deepens what engagement built. The error is using the wrong gear for one's actual altitude: premature stillness stalls, perpetual busyness never summits.",
+   "connection": "Resolves the act-versus-sit tension as a question of stage, not of doctrine.",
+   "schools_note": null,
+   "reflection": "Know your stage honestly today: still climbing needs action; arrived needs quiet. Prescribe accordingly.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 4,
+   "speaker": null,
+   "devanagari": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते ।\nसर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते॥",
+   "transliteration": "yadā hi nendriyārtheṣu na karmasvanuṣajjate\nsarvasaṅkalpasaṃnyāsī yogārūḍhastadocyate",
+   "essence": "When one clings neither to sense-objects nor to actions, having renounced all self-will, then one is called mounted on yoga.",
+   "translation": "When a man is not attached to the sense-objects or to actions, having renounced all thoughts, then he is said to have attained to Yoga.",
+   "anvaya": [
+    {
+     "word": "यदा हि न इन्द्रियार्थेषु",
+     "meaning": "when indeed neither to sense-objects"
+    },
+    {
+     "word": "न कर्मसु अनुषज्जते",
+     "meaning": "nor to actions one clings"
+    },
+    {
+     "word": "सर्वसङ्कल्पसंन्यासी",
+     "meaning": "renouncer of all sankalpa"
+    },
+    {
+     "word": "योगारूढः तदा उच्यते",
+     "meaning": "then one is called mounted on yoga"
+    }
+   ],
+   "explanation": "The summit-test for 6.3's gear-change: not just sense-objects released, but the subtler clinging to activity itself — the doer's addiction to doing. When both hooks are out and self-will has gone quiet, the climb is over and the sitting may rightly begin.",
+   "connection": "Defines yogārūḍha precisely, so no one shifts to stillness on self-flattery.",
+   "schools_note": null,
+   "reflection": "Mark a small milestone: one old craving that no longer argues when you pass it.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 5,
+   "speaker": null,
+   "devanagari": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+   "transliteration": "uddharedātmanātmānaṃ nātmānamavasādayet\nātmaiva hyātmano bandhurātmaiva ripurātmanaḥ",
+   "essence": "Let one lift the self by the self; let one not degrade the self. For the self alone is the self's friend, and the self alone its enemy.",
+   "translation": "One should raise oneself by one's Self alone; let not one lower oneself; for the Self alone is the friend of oneself, and the Self alone is the enemy of oneself.",
+   "anvaya": [
+    {
+     "word": "उद्धरेत् आत्मना आत्मानं",
+     "meaning": "let one raise the self by the self"
+    },
+    {
+     "word": "न आत्मानम् अवसादयेत्",
+     "meaning": "let one not sink the self"
+    },
+    {
+     "word": "आत्मा एव हि आत्मनः बन्धुः",
+     "meaning": "for the self alone is the self's friend"
+    },
+    {
+     "word": "आत्मा एव रिपुः आत्मनः",
+     "meaning": "the self alone the self's enemy"
+    }
+   ],
+   "explanation": "The Gita's psychology in one couplet: no rescuer and no saboteur ultimately stands outside you. The same instrument — mind, will, habit — is rope or weight depending on how it is held. Responsibility this total is alarming for a moment, then liberating forever: the decisive relationship of your life is already in the room. Uddhared atmanatmanam — let one lift oneself by oneself: the Gita's charter of self-responsibility, and the commentaries immediately ask which 'self' lifts which. The settled reading: the higher mind rescues the lower, the befriended will lifts the entangled one. Atmaiva hy atmano bandhuh — no rescue arrives that the inner ally has not first agreed to.",
+   "connection": "Grounds the whole meditation chapter: before posture and breath, the self must take its own side.",
+   "schools_note": "'Atmaiva hy atmano bandhuh' — the self as its own friend or enemy: commentators parse the two 'selves' as higher mind and lower (Shankara), or the soul and its embodied instrument (Ramanuja). The theistic schools add the balancing doctrine: self-effort opens the door grace walks through — 6.47 and 18.62 complete what this verse begins. None read it as excluding help; all read it as excluding excuse.",
+   "reflection": "Lift yourself by yourself once today — one act your future self would thank you for, unprompted.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 6,
+   "speaker": null,
+   "devanagari": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्॥",
+   "transliteration": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ\nanātmanastu śatrutve vartetātmaiva śatruvat",
+   "essence": "For one who has conquered the self, the self is a friend; for the unconquered, the self behaves like an enemy.",
+   "translation": "The Self is the friend of the self of him by whom the self has been conered by the Self, but to the unconered self, this Self stands in the position of an enemy, like an (external) foe.",
+   "anvaya": [
+    {
+     "word": "बन्धुः आत्मा आत्मनः तस्य",
+     "meaning": "the self is the friend of that self"
+    },
+    {
+     "word": "येन आत्मा एव आत्मना जितः",
+     "meaning": "by whom the self has been conquered by the self"
+    },
+    {
+     "word": "अनात्मनः तु शत्रुत्वे",
+     "meaning": "but for the un-self-mastered, in enmity"
+    },
+    {
+     "word": "वर्तेत आत्मा एव शत्रुवत्",
+     "meaning": "the self itself would act like an enemy"
+    }
+   ],
+   "explanation": "The condition on 6.5's friendship: it must be won. An untrained mind is not neutral — it actively works against its owner, śatruvat, *like* an enemy, sabotaging resolutions and amplifying fears. The first conquest of any contemplative life is this internal alliance. Bandhur atmatmanas tasya — the same mind, friend or foe, by one variable: whether it has been conquered into alliance. The tradition reads the verse as ending all blame: no demon required, no fate — the entire case turns on a domestic negotiation. Shatruvat, 'like an enemy': the unconquered mind does not merely fail you; it campaigns.",
+   "connection": "Sharpens 6.5: friend and enemy are not two selves but one self, before and after mastery.",
+   "schools_note": null,
+   "reflection": "Check the alliance: is your mind working for you today, or running its own administration?",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 7,
+   "speaker": null,
+   "devanagari": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः॥",
+   "transliteration": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ\nśītoṣṇasukhaduḥkheṣu tathā mānāpamānayoḥ",
+   "essence": "For the self-conquered and serene, the supreme Self stands steady — in cold and heat, joy and sorrow, honor and disgrace.",
+   "translation": "The Supreme Self of him who is self-controlled and peaceful is balanced in cold and heat, pleasure and pain, as also in honour and dishonour.",
+   "anvaya": [
+    {
+     "word": "जितात्मनः प्रशान्तस्य",
+     "meaning": "of the self-conquered, the serene"
+    },
+    {
+     "word": "परमात्मा समाहितः",
+     "meaning": "the supreme Self is steadfast, composed"
+    },
+    {
+     "word": "शीतोष्णसुखदुःखेषु",
+     "meaning": "in cold-heat, pleasure-pain"
+    },
+    {
+     "word": "तथा मानापमानयोः",
+     "meaning": "likewise in honor and dishonor"
+    }
+   ],
+   "explanation": "What the won alliance feels like: an inner presence that no longer wobbles with the weather. The three test-pairs ascend in difficulty — body (cold-heat), feeling (joy-sorrow), and the hardest, social standing (honor-disgrace). Steadiness through the last is the rarest coin.",
+   "connection": "Shows 6.6's victory cashed out: the conquered self becomes a still platform for the Supreme.",
+   "schools_note": null,
+   "reflection": "In heat or cold, praise or slight today, try staying the same temperature inside.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 8,
+   "speaker": null,
+   "devanagari": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।\nयुक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः॥",
+   "transliteration": "jñānavijñānatṛptātmā kūṭastho vijitendriyaḥ\nyukta ityucyate yogī samaloṣṭāśmakāñcanaḥ",
+   "essence": "Content in knowledge and realization, unshakable, with senses subdued — such a yogi is called harnessed, to whom clod, stone and gold are alike.",
+   "translation": "The Yogi who is satisfied with the knowledge and the wisdom (of the Self), who has conered the senses, and to whom a clod of earth, a piece of stone and gold are the same, is said to be harmonied (i.e., is said to have attained Nirvikalpa Samadhi).",
+   "anvaya": [
+    {
+     "word": "ज्ञानविज्ञानतृप्तात्मा",
+     "meaning": "whose self is content with knowledge and realization"
+    },
+    {
+     "word": "कूटस्थः विजितेन्द्रियः",
+     "meaning": "unmoving as an anvil, senses fully conquered"
+    },
+    {
+     "word": "युक्तः इति उच्यते योगी",
+     "meaning": "is called yoked, a yogi"
+    },
+    {
+     "word": "समलोष्टाश्मकाञ्चनः",
+     "meaning": "equal toward clod, stone and gold"
+    }
+   ],
+   "explanation": "Two kinds of knowing must both be present: jñāna, the learned map, and vijñāna, the terrain seen firsthand — contentment requires the second. Kūṭastha, anvil-still: the world hammers, the form holds. And the famous triad — dirt-clod, stone, gold — measures freedom by the wallet's loosened grip.",
+   "connection": "Continues the portrait of 6.7: inner steadiness shown against value itself.",
+   "schools_note": null,
+   "reflection": "Look once at gold and once at gravel with the same eyes — just to feel what the sages feel.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 9,
+   "speaker": null,
+   "devanagari": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु ।\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते॥",
+   "transliteration": "suhṛnmitrāryudāsīnamadhyasthadveṣyabandhuṣu\nsādhuṣvapi ca pāpeṣu samabuddhirviśiṣyate",
+   "essence": "One who is equal-minded toward well-wishers, friends, foes, neutrals, mediators, the hateful, kin, and toward saints and sinners alike — excels.",
+   "translation": "He who is of the same mind to the good-hearted, friends, enemies, the indifferent, the neutral, the hateful, the relatives, the righteous and the unrighteous, excels.",
+   "anvaya": [
+    {
+     "word": "सुहृन्मित्रार्युदासीन-",
+     "meaning": "toward well-wishers, friends, enemies, neutrals"
+    },
+    {
+     "word": "मध्यस्थद्वेष्यबन्धुषु",
+     "meaning": "mediators, the hateful, and relatives"
+    },
+    {
+     "word": "साधुषु अपि च पापेषु",
+     "meaning": "also toward the virtuous and the sinful"
+    },
+    {
+     "word": "समबुद्धिः विशिष्यते",
+     "meaning": "one of equal mind excels"
+    }
+   ],
+   "explanation": "The hardest equality: people. Nine categories — the whole social spectrum from the one who loves you to the one who hates you, from saint to sinner — met with sama-buddhi, an evenness of regard. Not blindness to difference, but a refusal to let difference dictate the heart's temperature.",
+   "connection": "Completes 6.7–8: equanimity proven against things, then against persons — the steeper slope.",
+   "schools_note": null,
+   "reflection": "Apply one even-mindedness today across the hardest span: well-wisher, stranger, and someone who hurt you.",
+   "background": "Krishna continues unbroken into the discipline of meditation, first redefining its candidate: the true sannyasi-yogi is the one who does his duty without leaning on results. He gives the ladder — action the means for the climber, serenity for the arrived — and the famous charter of self-rescue: lift yourself by yourself; the mind is friend or foe."
+  },
+  {
+   "chapter": 6,
+   "verse": 10,
+   "speaker": null,
+   "devanagari": "योगी युञ्जीत सततमात्मानं रहसि स्थितः ।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः॥",
+   "transliteration": "yogī yuñjīta satatamātmānaṃ rahasi sthitaḥ\nekākī yatacittātmā nirāśīraparigrahaḥ",
+   "essence": "Let the yogi constantly discipline the self, remaining in solitude, alone, with mind and body controlled, free of longing and possession.",
+   "translation": "Let the Yogi try constantly to keep the mind steady, remaining in solitude, alone, with the mind and the body controlled, and free from hope and covetousness.",
+   "anvaya": [
+    {
+     "word": "योगी युञ्जीत सततम्",
+     "meaning": "let the yogi constantly yoke"
+    },
+    {
+     "word": "आत्मानं रहसि स्थितः",
+     "meaning": "the self, remaining in solitude"
+    },
+    {
+     "word": "एकाकी यतचित्तात्मा",
+     "meaning": "alone, with mind and self restrained"
+    },
+    {
+     "word": "निराशीः अपरिग्रहः",
+     "meaning": "without longing, without possessions"
+    }
+   ],
+   "explanation": "The manual begins. Four conditions before a single breath of technique: solitude, aloneness (related but distinct — one can be solitary yet mentally crowded), restraint, and the two great unburdenings — no expectations, no holdings. Meditation starts by emptying the hands.",
+   "connection": "Opens the practical core (6.10–15): the portrait of 6.7–9 now taught as a discipline.",
+   "schools_note": null,
+   "reflection": "Take ten minutes alone today — no phone, no audience, no inventory — and simply sit with yourself.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 11,
+   "speaker": null,
+   "devanagari": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः ।\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्॥",
+   "transliteration": "śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ\nnātyucchritaṃ nātinīcaṃ cailājinakuśottaram",
+   "essence": "In a clean place, having set a firm seat for oneself — neither too high nor too low — of cloth, deerskin and kusha grass.",
+   "translation": "In a clean spot, having established a firm seat of his own, neither too high nor too low, made of a cloth, a skin and Kusa-grass, one over the other.",
+   "anvaya": [
+    {
+     "word": "शुचौ देशे प्रतिष्ठाप्य",
+     "meaning": "in a clean spot, having established"
+    },
+    {
+     "word": "स्थिरम् आसनम् आत्मनः",
+     "meaning": "a firm seat of one's own"
+    },
+    {
+     "word": "न अत्युच्छ्रितं न अतिनीचं",
+     "meaning": "not too high, not too low"
+    },
+    {
+     "word": "चैलाजिनकुशोत्तरम्",
+     "meaning": "with cloth, skin, and kusha grass layered"
+    }
+   ],
+   "explanation": "The teaching descends, charmingly, to furniture — because the body's circumstances are the mind's first weather. Clean, stable, neither elevated (pride, precariousness) nor sunken (lethargy, damp): the middle height is already a metaphor the posture will repeat.",
+   "connection": "First of the concrete instructions: the outer seat prepared before the inner one.",
+   "schools_note": null,
+   "reflection": "Prepare your seat with care tonight; the body honors what the hands arrange deliberately.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 12,
+   "speaker": null,
+   "devanagari": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः ।\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये॥",
+   "transliteration": "tatraikāgraṃ manaḥ kṛtvā yatacittendriyakriyaḥ\nupaviśyāsane yuñjyādyogamātmaviśuddhaye",
+   "essence": "There, making the mind one-pointed, with thought and senses controlled, seated on the seat, let one practice yoga for self-purification.",
+   "translation": "There, having made the mind one-pointed, with the actions of the mind and the senses controlled, let him, seated on the seat, practise Yoga for the purification of the self.",
+   "anvaya": [
+    {
+     "word": "तत्र एकाग्रं मनः कृत्वा",
+     "meaning": "there, making the mind one-pointed"
+    },
+    {
+     "word": "यतचित्तेन्द्रियक्रियः",
+     "meaning": "with the activities of mind and senses restrained"
+    },
+    {
+     "word": "उपविश्य आसने युञ्ज्यात्",
+     "meaning": "sitting on the seat, let one practice"
+    },
+    {
+     "word": "योगम् आत्मविशुद्धये",
+     "meaning": "yoga, for the purification of the self"
+    }
+   ],
+   "explanation": "The aim is stamped on the practice before it starts: ātma-viśuddhaye, for purification — not for powers, visions, or even peace as a possession. Ekāgra, one-pointed: the mind's usual spray of attention gathered to a single beam. Everything that follows serves that gathering.",
+   "connection": "Names the motive that keeps 6.10–14's technique honest: cleansing, not acquiring.",
+   "schools_note": null,
+   "reflection": "Sit once today with mind gathered to a single point, even briefly — purification needs only minutes.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 13,
+   "speaker": null,
+   "devanagari": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।\nसम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्॥",
+   "transliteration": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ\nsamprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan",
+   "essence": "Holding body, head and neck erect and still, gazing at the tip of the nose, not looking around —",
+   "translation": "Let him firmly hold his body, head and neck erect and still, gazing at the tip of his nose, without looking around.",
+   "anvaya": [
+    {
+     "word": "समं कायशिरोग्रीवं",
+     "meaning": "even the body, head and neck"
+    },
+    {
+     "word": "धारयन् अचलं स्थिरः",
+     "meaning": "holding motionless, steady"
+    },
+    {
+     "word": "सम्प्रेक्ष्य नासिकाग्रं स्वं",
+     "meaning": "gazing at the tip of one's own nose"
+    },
+    {
+     "word": "दिशः च अनवलोकयन्",
+     "meaning": "and not looking around at the directions"
+    }
+   ],
+   "explanation": "The spine as plumb-line: body, head, neck stacked sama, even — alertness built into architecture. The nose-tip gaze is a leash for the eyes, the most restless of the senses; diśaś cānavalokayan, no glancing at the directions, closes the world's ten doors of distraction.",
+   "connection": "The posture of 6.11–12 completed upward: stillness made structural.",
+   "schools_note": null,
+   "reflection": "Hold the spine quietly tall for two minutes; let posture teach steadiness to the mind.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 14,
+   "speaker": null,
+   "devanagari": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।\nमनः संयम्य मच्चित्तो युक्त आसीत मत्परः॥",
+   "transliteration": "praśāntātmā vigatabhīrbrahmacārivrate sthitaḥ\nmanaḥ saṃyamya maccitto yukta āsīta matparaḥ",
+   "essence": "Serene, fearless, firm in the vow of brahmacharya, with mind restrained and thinking of me, let one sit harnessed, holding me supreme.",
+   "translation": "Serene-minded, fearless, firm in the vow of a Brahmachari, having controlled the mind, thinking of Me and balanced in mind, let him sit, having Me as his supreme goal.",
+   "anvaya": [
+    {
+     "word": "प्रशान्तात्मा विगतभीः",
+     "meaning": "of serene self, with fear departed"
+    },
+    {
+     "word": "ब्रह्मचारिव्रते स्थितः",
+     "meaning": "established in the vow of brahmacharya"
+    },
+    {
+     "word": "मनः संयम्य मच्चित्तः",
+     "meaning": "restraining the mind, with thought on me"
+    },
+    {
+     "word": "युक्तः आसीत मत्परः",
+     "meaning": "let one sit yoked, holding me supreme"
+    }
+   ],
+   "explanation": "The inner posture to match the outer: serenity, and — easy to miss — vigata-bhīḥ, fearlessness, for the silence of meditation surfaces what noise kept down. Then the object: mat-paraḥ, me as the highest. The Gita's meditation is not on emptiness but on a Person; attention needs a home, and the home offered is Krishna.",
+   "connection": "Crowns the technique: posture and breath were scaffolding; the dwelling-place is Him.",
+   "schools_note": null,
+   "reflection": "Sit with fear set down and vows picked up — serene, brahmachari in attention, aimed at the highest.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 15,
+   "speaker": null,
+   "devanagari": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति॥",
+   "transliteration": "yuñjannevaṃ sadātmānaṃ yogī niyatamānasaḥ\nśāntiṃ nirvāṇaparamāṃ matsaṃsthāmadhigacchati",
+   "essence": "Thus ever harnessing the self, the yogi of disciplined mind attains the peace that culminates in nirvana and abides in me.",
+   "translation": "Thus always keeping the mind balanced, the Yogi, with the mind controlled, attains to the peace abiding in Me, which culminates in liberation.",
+   "anvaya": [
+    {
+     "word": "युञ्जन् एवं सदा आत्मानं",
+     "meaning": "thus always yoking the self"
+    },
+    {
+     "word": "योगी नियतमानसः",
+     "meaning": "the yogi of regulated mind"
+    },
+    {
+     "word": "शान्तिं निर्वाणपरमां",
+     "meaning": "the peace whose culmination is nirvana"
+    },
+    {
+     "word": "मत्संस्थाम् अधिगच्छति",
+     "meaning": "abiding in me, attains"
+    }
+   ],
+   "explanation": "The practice section closes with its destination, and the destination has an address: śāntiṁ... mat-saṁsthām — a peace that doesn't trail off into the abstract but settles *in me*. Nirvana, the great extinguishing, turns out to be an arrival as much as a cessation. Note sadā: not a retreat's worth of yoga but a life's.",
+   "connection": "Seals 6.10–14 with the promise — peace whose far edge is union.",
+   "schools_note": null,
+   "reflection": "Practice small but practice always; nirvana is built of ordinary, repeated sittings.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 16,
+   "speaker": null,
+   "devanagari": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः ।\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन॥",
+   "transliteration": "nātyaśnatastu yogo'sti na caikāntamanaśnataḥ\nna cātisvapnaśīlasya jāgrato naiva cārjuna",
+   "essence": "Yoga is not for the one who eats too much, nor for the one who fasts to extremes; not for the over-sleeper, Arjuna, nor for the ever-wakeful.",
+   "translation": "Verily Yoga is not possible for him who eats too much, nor for him who does not eat at all, nor for him who sleeps too much, nor for him who is (always) awake, O Arjuna.",
+   "anvaya": [
+    {
+     "word": "न अत्यश्नतः तु योगः अस्ति",
+     "meaning": "yoga is not for the over-eater"
+    },
+    {
+     "word": "न च एकान्तम् अनश्नतः",
+     "meaning": "nor for one wholly abstaining from food"
+    },
+    {
+     "word": "न च अतिस्वप्नशीलस्य",
+     "meaning": "nor for one given to too much sleep"
+    },
+    {
+     "word": "जाग्रतः न एव च अर्जुन",
+     "meaning": "nor indeed for the (ever) wakeful, Arjuna"
+    }
+   ],
+   "explanation": "A verse of immense kindness to the body: four extremes disqualified, two of them ascetic. Heroic fasting and vigil are rejected as firmly as indulgence — both are violence to the instrument, and a damaged instrument plays no music. The Gita's yoga refuses to be impressed by self-harm.",
+   "connection": "Pre-empts the zealot's misreading of 6.10–15: discipline, yes; mortification, no.",
+   "schools_note": null,
+   "reflection": "Check your extremes today: too much food or none, too much sleep or none — yoga lives between.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 17,
+   "speaker": null,
+   "devanagari": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा॥",
+   "transliteration": "yuktāhāravihārasya yuktaceṣṭasya karmasu\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā",
+   "essence": "For one moderate in food and recreation, moderate in effort in actions, moderate in sleep and waking — yoga becomes the destroyer of sorrow.",
+   "translation": "Yoga becomes the destroyer of pain for him who is moderate in eating and recreation (such as walking, etc.), who is moderate in exertion in actions, who is moderate in sleep and wakefulness.",
+   "anvaya": [
+    {
+     "word": "युक्ताहारविहारस्य",
+     "meaning": "of one of moderate food and recreation"
+    },
+    {
+     "word": "युक्तचेष्टस्य कर्मसु",
+     "meaning": "of moderate exertion in actions"
+    },
+    {
+     "word": "युक्तस्वप्नावबोधस्य",
+     "meaning": "of moderate sleep and waking"
+    },
+    {
+     "word": "योगः भवति दुःखहा",
+     "meaning": "yoga becomes the slayer of sorrow"
+    }
+   ],
+   "explanation": "The positive law after 6.16's prohibitions: yukta four times — measured, fitted, tuned. Eating, playing, working, sleeping: the whole round of an ordinary day calibrated to the middle. And only on that humble foundation does the grand promise stand: duḥkha-hā, sorrow-slayer. Transcendence rests on schedule.",
+   "connection": "The middle way stated in the Gita's own words — moderation as yoga's load-bearing wall.",
+   "schools_note": null,
+   "reflection": "Tune one habit toward moderation today and watch how much pain was self-scheduled.",
+   "background": "The meditation manual proper begins, spoken on a battlefield about a solitude far from it: the secluded place, the firm seat neither too high nor too low, the upright body, the gaze at the nose-tip, the vowed and fearless mind — and the rule of moderation in food, sleep, and effort."
+  },
+  {
+   "chapter": 6,
+   "verse": 18,
+   "speaker": null,
+   "devanagari": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा॥",
+   "transliteration": "yadā viniyataṃ cittamātmanyevāvatiṣṭhate\nniḥspṛhaḥ sarvakāmebhyo yukta ityucyate tadā",
+   "essence": "When the disciplined mind rests in the Self alone, free of longing for any desire, then one is said to be harnessed.",
+   "translation": "When the perfectly controlled mind rests in the Self only, free from longing for all the objects of desires, then it is said, 'He is united'.",
+   "anvaya": [
+    {
+     "word": "यदा विनियतं चित्तम्",
+     "meaning": "when the well-regulated mind"
+    },
+    {
+     "word": "आत्मनि एव अवतिष्ठते",
+     "meaning": "rests in the Self alone"
+    },
+    {
+     "word": "निःस्पृहः सर्वकामेभ्यः",
+     "meaning": "without longing for all desires"
+    },
+    {
+     "word": "युक्तः इति उच्यते तदा",
+     "meaning": "then one is said to be yoked"
+    }
+   ],
+   "explanation": "The checkpoint: the mind no longer pacing its cage but settled — avatiṣṭhate, taking up residence — in the Self. The test is niḥspṛha, the absence of that low hum of wanting that usually runs beneath all thought. When the hum stops, the word yukta finally applies.",
+   "connection": "Defines arrival for the practice of 6.10–17, before the famous image that pictures it.",
+   "schools_note": null,
+   "reflection": "Notice an hour when the mind rests in the Self and cravings simply do not report for duty.",
+   "background": "Krishna describes the state the practice ripens into: the disciplined mind like a lamp in a windless place; the self beholding the self, satisfied; the joy beyond the senses from which one does not waver — and gives his deepest definition: yoga is the unyoking from union with pain."
+  },
+  {
+   "chapter": 6,
+   "verse": 19,
+   "speaker": null,
+   "devanagari": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः॥",
+   "transliteration": "yathā dīpo nivātastho neṅgate sopamā smṛtā\nyogino yatacittasya yuñjato yogamātmanaḥ",
+   "essence": "As a lamp in a windless place does not flicker — that is the likeness recalled of the yogi of disciplined mind, absorbed in the yoga of the Self.",
+   "translation": "As a lamp placed in a windless spot does not flicker to such is compared the Yogi of controlled mind, practising Yoga in the Self (or absorbed in the Yoga of the Self).",
+   "anvaya": [
+    {
+     "word": "यथा दीपः निवातस्थः",
+     "meaning": "as a lamp standing in a windless place"
+    },
+    {
+     "word": "न इङ्गते सा उपमा स्मृता",
+     "meaning": "does not flicker — that simile is recalled"
+    },
+    {
+     "word": "योगिनः यतचित्तस्य",
+     "meaning": "of the yogi of restrained mind"
+    },
+    {
+     "word": "युञ्जतः योगम् आत्मनः",
+     "meaning": "practicing the yoga of the Self"
+    }
+   ],
+   "explanation": "Perhaps the most beloved image in all meditation literature. The flame is not extinguished — consciousness burns at full brightness — only the flickering stops, because the wind of desire and distraction has been stilled. Steadiness without dimming: alertness and peace, finally in the same body. Yatha dipo nivata-sthah — as a lamp in a windless place does not flicker: the simile the whole meditation tradition adopted as its flag. Commentators note its double teaching: the flame is attention, the wind is desire's draft — and the practice is less about strengthening the flame than about finding, or building, the windless room.",
+   "connection": "The emblem of 6.18's settled mind — the chapter's lamp held up for all later tradition.",
+   "schools_note": null,
+   "reflection": "Find your windless place today — the corner of the day where the flame of attention stops flickering.",
+   "background": "Krishna describes the state the practice ripens into: the disciplined mind like a lamp in a windless place; the self beholding the self, satisfied; the joy beyond the senses from which one does not waver — and gives his deepest definition: yoga is the unyoking from union with pain."
+  },
+  {
+   "chapter": 6,
+   "verse": 20,
+   "speaker": null,
+   "devanagari": "यत्रोपरमते चित्तं निरुद्धं योगसेवया ।\nयत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति॥",
+   "transliteration": "yatroparamate cittaṃ niruddhaṃ yogasevayā\nyatra caivātmanātmānaṃ paśyannātmani tuṣyati",
+   "essence": "Where the mind comes to rest, restrained by the practice of yoga, and where, beholding the Self by the self, one is content in the Self —",
+   "translation": "When the mind, restrained by the practice of Yoga attains to quietude and when seeing the Self by the self, he is satisfied in his own Self.",
+   "anvaya": [
+    {
+     "word": "यत्र उपरमते चित्तं",
+     "meaning": "where the mind comes to rest"
+    },
+    {
+     "word": "निरुद्धं योगसेवया",
+     "meaning": "restrained by the service of yoga"
+    },
+    {
+     "word": "यत्र च एव आत्मना आत्मानं",
+     "meaning": "and where, by the self, the Self"
+    },
+    {
+     "word": "पश्यन् आत्मनि तुष्यति",
+     "meaning": "beholding, one is content in the Self"
+    }
+   ],
+   "explanation": "A four-verse definition of the goal begins. First mark: uparamate, the mind doesn't just slow — it comes to rest, the way water stills when the stirring stops. In that stillness the impossible-sounding event occurs: the self sees the Self, awareness catching its own light, and contentment needs no further object.",
+   "connection": "Begins the great description (6.20–23) of what the windless lamp actually illuminates.",
+   "schools_note": null,
+   "reflection": "Touch the moment in stillness where the self, seeing itself, is quietly satisfied.",
+   "background": "Krishna describes the state the practice ripens into: the disciplined mind like a lamp in a windless place; the self beholding the self, satisfied; the joy beyond the senses from which one does not waver — and gives his deepest definition: yoga is the unyoking from union with pain."
+  },
+  {
+   "chapter": 6,
+   "verse": 21,
+   "speaker": null,
+   "devanagari": "सुखमात्यन्तिकं यत्तद् बुद्धिग्राह्यमतीन्द्रियम् ।\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः॥",
+   "transliteration": "sukhamātyantikaṃ yattad buddhigrāhyamatīndriyam\nvetti yatra na caivāyaṃ sthitaścalati tattvataḥ",
+   "essence": "Where one knows that boundless happiness which is grasped by the understanding, beyond the senses — and established there, never strays from the truth —",
+   "translation": "When he (the Yogi) feels that Infinite Bliss which can be grasped by the (pure) intellect and which transcends the senses, and established wherein he never moves from the Reality.",
+   "anvaya": [
+    {
+     "word": "सुखम् आत्यन्तिकं यत् तत्",
+     "meaning": "that happiness which is ultimate, boundless"
+    },
+    {
+     "word": "बुद्धिग्राह्यम् अतीन्द्रियं",
+     "meaning": "graspable by the buddhi, beyond the senses"
+    },
+    {
+     "word": "वेत्ति यत्र न च एव अयं",
+     "meaning": "where one knows (it), and never this one"
+    },
+    {
+     "word": "स्थितः चलति तत्त्वतः",
+     "meaning": "established, moves from the truth"
+    }
+   ],
+   "explanation": "Second mark: a happiness with strange specifications — atīndriya, off the sensory grid entirely, yet buddhi-grāhya, apprehensible by the refined understanding. Most joy is delivered through the senses and leaves with them; this one is met by a deeper faculty and therefore cannot be confiscated.",
+   "connection": "Names the positive content of 6.20's rest: not blankness but trans-sensory bliss.",
+   "schools_note": null,
+   "reflection": "Trust the joy beyond the senses once felt — let one taste of depth recalibrate all your sweets.",
+   "background": "Krishna describes the state the practice ripens into: the disciplined mind like a lamp in a windless place; the self beholding the self, satisfied; the joy beyond the senses from which one does not waver — and gives his deepest definition: yoga is the unyoking from union with pain."
+  },
+  {
+   "chapter": 6,
+   "verse": 22,
+   "speaker": null,
+   "devanagari": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः ।\nयस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते॥",
+   "transliteration": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ\nyasminsthito na duḥkhena guruṇāpi vicālyate",
+   "essence": "Gaining which, one reckons no other gain greater; established in which, one is not shaken even by the heaviest sorrow —",
+   "translation": "Which, having obtained, he thinks there is no other gain superior to it; wherein estabished, he is not moved even by heavy sorrow.",
+   "anvaya": [
+    {
+     "word": "यं लब्ध्वा च अपरं लाभं",
+     "meaning": "gaining which, another gain"
+    },
+    {
+     "word": "मन्यते न अधिकं ततः",
+     "meaning": "one deems not greater than it"
+    },
+    {
+     "word": "यस्मिन् स्थितः न दुःखेन",
+     "meaning": "established in which, not by sorrow"
+    },
+    {
+     "word": "गुरुणा अपि विचाल्यते",
+     "meaning": "even heavy, is one shaken"
+    }
+   ],
+   "explanation": "Third mark, the double test: against all possible gains, this one ends the search — the comparing mind retires; and against guru duḥkha, grief of the heaviest grade, it holds. Not painlessness — the Gita never promises that — but unshakenness: sorrow arrives and finds no purchase on the foundation.",
+   "connection": "The goal of 6.20–21 stress-tested at both extremes — supreme gain, supreme loss.",
+   "schools_note": null,
+   "reflection": "Recall your steadiest moment and ask: established there, what calamity could really move me?",
+   "background": "Krishna describes the state the practice ripens into: the disciplined mind like a lamp in a windless place; the self beholding the self, satisfied; the joy beyond the senses from which one does not waver — and gives his deepest definition: yoga is the unyoking from union with pain."
+  },
+  {
+   "chapter": 6,
+   "verse": 23,
+   "speaker": null,
+   "devanagari": "तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् ।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा॥",
+   "transliteration": "taṃ vidyād duḥkhasaṃyogaviyogaṃ yogasaṃjñitam\nsa niścayena yoktavyo yogo'nirviṇṇacetasā",
+   "essence": "Know that as yoga: the unyoking from union with sorrow. It must be practiced with resolve, with a mind undismayed.",
+   "translation": "Let that be known by the name of Yoga, the severance from union with pain. This Yoga should be practised with determination and with an undesponding mind.",
+   "anvaya": [
+    {
+     "word": "तं विद्यात् दुःखसंयोग-",
+     "meaning": "know that — from the union with sorrow"
+    },
+    {
+     "word": "वियोगं योगसंज्ञितम्",
+     "meaning": "the disjunction — as named yoga"
+    },
+    {
+     "word": "सः निश्चयेन योक्तव्यः",
+     "meaning": "that (yoga) must be practiced with determination"
+    },
+    {
+     "word": "योगः अनिर्विण्णचेतसा",
+     "meaning": "with a mind free of despondency"
+    }
+   ],
+   "explanation": "The chapter's definitional jewel, built on a pun: yoga, 'union', defined as viyoga, 'dis-union' — the surgical separation from our oldest attachment, the one to suffering itself. Then two clinical instructions for the long operation: niścaya, settled resolve, and anirviṇṇa-cetas — a heart that has renounced discouragement.",
+   "connection": "Caps 6.20–22 by naming the whole achievement, and pivots to the labor it costs.",
+   "schools_note": null,
+   "reflection": "Redefine yoga today as Krishna does: the unlinking from your link with sorrow. Practice with resolve.",
+   "background": "Krishna describes the state the practice ripens into: the disciplined mind like a lamp in a windless place; the self beholding the self, satisfied; the joy beyond the senses from which one does not waver — and gives his deepest definition: yoga is the unyoking from union with pain."
+  },
+  {
+   "chapter": 6,
+   "verse": 24,
+   "speaker": null,
+   "devanagari": "सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः॥",
+   "transliteration": "saṅkalpaprabhavānkāmāṃstyaktvā sarvānaśeṣataḥ\nmanasaivendriyagrāmaṃ viniyamya samantataḥ",
+   "essence": "Abandoning without remainder all desires born of self-will, restraining the host of senses from every side with the mind —",
+   "translation": "Abandoning without reserve all desires born of Sankalpa (thought and imagination) and completely restraining the whole group of the senses by the mind from all sides.",
+   "anvaya": [
+    {
+     "word": "सङ्कल्पप्रभवान् कामान्",
+     "meaning": "desires born of sankalpa"
+    },
+    {
+     "word": "त्यक्त्वा सर्वान् अशेषतः",
+     "meaning": "abandoning all, without remainder"
+    },
+    {
+     "word": "मनसा एव इन्द्रियग्रामं",
+     "meaning": "by the mind alone, the troop of senses"
+    },
+    {
+     "word": "विनियम्य समन्ततः",
+     "meaning": "restraining from all sides"
+    }
+   ],
+   "explanation": "The method resumes with its hardest clause: aśeṣataḥ, without remainder — desires kept as souvenirs regrow. Their genealogy is repeated from 6.2: born of saṅkalpa, the mind's plan-making; cut the projector and the films stop. Indriya-grāma, the senses as a village — restless, many-voiced, governed only patiently and from every gate.",
+   "connection": "Resumes practice after the goal-vision: what 6.23's resolve actually does, hour by hour.",
+   "schools_note": null,
+   "reflection": "Abandon one desire completely today — root and branch — and rein one sense by mind alone.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 25,
+   "speaker": null,
+   "devanagari": "शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया ।\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्॥",
+   "transliteration": "śanaiḥ śanairuparamed buddhyā dhṛtigṛhītayā\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet",
+   "essence": "Little by little let one withdraw, with understanding held in steadiness; making the mind abide in the Self, let one think of nothing at all.",
+   "translation": "Little by little let him attain to ietude by the intellect held firmly; having made the mind establish itself in the Self, let him not think of anything.",
+   "anvaya": [
+    {
+     "word": "शनैः शनैः उपरमेत्",
+     "meaning": "little by little let one withdraw"
+    },
+    {
+     "word": "बुद्ध्या धृतिगृहीतया",
+     "meaning": "with the buddhi held by firmness"
+    },
+    {
+     "word": "आत्मसंस्थं मनः कृत्वा",
+     "meaning": "making the mind established in the Self"
+    },
+    {
+     "word": "न किञ्चित् अपि चिन्तयेत्",
+     "meaning": "let one think of nothing whatever"
+    }
+   ],
+   "explanation": "Two words save a thousand meditators: śanaiḥ śanaiḥ, slowly, slowly. The mind is not slammed shut but settled by degrees, the way sediment sinks in undisturbed water. Dhṛti-gṛhītayā — the understanding held by patience — and then the summit instruction, stated with disarming simplicity: think of nothing at all.",
+   "connection": "The tempo-marking for 6.24's restraint: gradual is not a concession but the method itself.",
+   "schools_note": null,
+   "reflection": "Withdraw little by little this evening; let the mind settle in the Self and think of nothing else.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 26,
+   "speaker": null,
+   "devanagari": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥",
+   "transliteration": "yato yato niścarati manaścañcalamasthiram\ntatastato niyamyaitadātmanyeva vaśaṃ nayet",
+   "essence": "Wherever the restless, unsteady mind wanders out, from there reining it in, let one bring it under the sway of the Self alone.",
+   "translation": "From whatever cause the restless and unsteady mind wanders away, from that let him restrain it and bring it under the control of the Self alone.",
+   "anvaya": [
+    {
+     "word": "यतः यतः निश्चरति",
+     "meaning": "wherever (the mind) wanders out"
+    },
+    {
+     "word": "मनः चञ्चलम् अस्थिरम्",
+     "meaning": "the mind, restless, unsteady"
+    },
+    {
+     "word": "ततः ततः नियम्य एतत्",
+     "meaning": "from there, restraining it"
+    },
+    {
+     "word": "आत्मनि एव वशं नयेत्",
+     "meaning": "let one lead it under the Self's control"
+    }
+   ],
+   "explanation": "The most practically merciful verse in the chapter: yato yataḥ... tatas tataḥ — wherever, from there. The wandering is assumed, budgeted for, not condemned; the practice *is* the return, performed ten thousand times without drama. Meditation, defined here, is not the absence of distraction but the gentleness of retrieval. Yato yato nishcharati — from whatever and wherever the mind wanders, from that very place lead it back: the most practical verse in the chapter, and the one modern teachers cite as the entire technique. The commentaries stress the tone: niyamya, restrain — but etad vasham nayet, lead it home, like a calf, not a criminal. The returning is the meditation; the wandering merely supplies occasions.",
+   "connection": "The working loop inside 6.25's slowness: stray, notice, return — the whole technique.",
+   "schools_note": null,
+   "reflection": "Each time attention wanders today, bring it back without commentary — that returning is the exercise.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 27,
+   "speaker": null,
+   "devanagari": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम्॥",
+   "transliteration": "praśāntamanasaṃ hyenaṃ yoginaṃ sukhamuttamam\nupaiti śāntarajasaṃ brahmabhūtamakalmaṣam",
+   "essence": "Supreme bliss comes to this yogi of peaceful mind, with passion stilled — become Brahman, free of stain.",
+   "translation": "Supreme Bliss verily comes to this Yogi whose mind is ite peaceful, whose passion is ieted, who has become Brahman and who is free from sin.",
+   "anvaya": [
+    {
+     "word": "प्रशान्तमनसं हि एनं",
+     "meaning": "for this one of peaceful mind"
+    },
+    {
+     "word": "योगिनं सुखम् उत्तमम्",
+     "meaning": "to this yogi, the highest happiness"
+    },
+    {
+     "word": "उपैति शान्तरजसं",
+     "meaning": "comes — whose rajas is calmed"
+    },
+    {
+     "word": "ब्रह्मभूतम् अकल्मषम्",
+     "meaning": "become Brahman, stainless"
+    }
+   ],
+   "explanation": "Note the verb's direction: upaiti — the bliss *comes to* the yogi. Happiness was never manufactured by the practice; the practice only quieted the turbulence (śānta-rajasam) that kept it at bay. Still the water, and the moon that was always overhead appears in it.",
+   "connection": "The fruit of 6.26's patient returns: what arrives on its own when the chasing stops.",
+   "schools_note": null,
+   "reflection": "Catch the supreme happiness that visits a quieted mind — even thirty calm seconds carry the signature.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 28,
+   "speaker": null,
+   "devanagari": "युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः ।\nसुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते॥",
+   "transliteration": "yuñjannevaṃ sadātmānaṃ yogī vigatakalmaṣaḥ\nsukhena brahmasaṃsparśamatyantaṃ sukhamaśnute",
+   "essence": "Thus ever harnessing the self, the yogi freed from stain easily enjoys the boundless bliss of contact with Brahman.",
+   "translation": "The Yogi, always engaging the mind thus (in the practice of Yoga), freed from sins, easily enjoys the Infinite Bliss of contact with Brahman (the Eternal).",
+   "anvaya": [
+    {
+     "word": "युञ्जन् एवं सदा आत्मानं",
+     "meaning": "thus always yoking the self"
+    },
+    {
+     "word": "योगी विगतकल्मषः",
+     "meaning": "the yogi with impurities gone"
+    },
+    {
+     "word": "सुखेन ब्रह्मसंस्पर्शम्",
+     "meaning": "with ease, the touch of Brahman"
+    },
+    {
+     "word": "अत्यन्तं सुखम् अश्नुते",
+     "meaning": "the boundless bliss, enjoys"
+    }
+   ],
+   "explanation": "Two words elevate this beyond 6.27: sukhena, *easily* — the struggle phase ends; practice becomes the path of least resistance — and brahma-saṁsparśa, the *touch* of Brahman. Not inference, not belief: contact, the most intimate word the body knows, borrowed for the soul's encounter with the Absolute.",
+   "connection": "Completes the inner arc: the discipline of 6.24–26 matured into effortless communion.",
+   "schools_note": null,
+   "reflection": "Touch the boundless once today — through breath, prayer, or silence — and let it perfume the hours after.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 29,
+   "speaker": null,
+   "devanagari": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः॥",
+   "transliteration": "sarvabhūtasthamātmānaṃ sarvabhūtāni cātmani\nīkṣate yogayuktātmā sarvatra samadarśanaḥ",
+   "essence": "One harnessed in yoga, seeing the same everywhere, sees the Self present in all beings and all beings in the Self.",
+   "translation": "With the mind harmonised by Yoga he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere.",
+   "anvaya": [
+    {
+     "word": "सर्वभूतस्थम् आत्मानं",
+     "meaning": "the Self abiding in all beings"
+    },
+    {
+     "word": "सर्वभूतानि च आत्मनि",
+     "meaning": "and all beings in the Self"
+    },
+    {
+     "word": "ईक्षते योगयुक्तात्मा",
+     "meaning": "beholds the one whose self is yoked in yoga"
+    },
+    {
+     "word": "सर्वत्र समदर्शनः",
+     "meaning": "everywhere seeing the same"
+    }
+   ],
+   "explanation": "The eyes open, and the meditation's fruit turns out to be a way of seeing the world: one Self threaded through every being, every being held within the one Self — both directions at once. Sama-darśana returns from 5.18, now not as ethics practiced but as perception delivered. Sarva-bhuta-stham atmanam — the self in all beings, all beings in the self: the equal-vision verse the Upanishads (Isha 6) speak almost verbatim. Commentators call this the fruit by which the practice is audited: hours on the seat are validated not by visions but by whether the gaze, rising, finds the same one everywhere. Sarvatra sama-darshanah — the cushion's diploma is issued in the street.",
+   "connection": "The pivot outward: 6.28's inner touch becomes 6.29–32's universal vision.",
+   "schools_note": "'Sarva-bhuta-stham atmanam' restates Isha Upanishad 6, and the schools sign it differently: Advaita — one Self, literally identical in all; Vishishtadvaita — the same Lord ensouling every soul, likeness amid real plurality; Dvaita — the vision of God's presence in all, beings remaining distinct. The practice all derive is the same audit: meditation is verified by how one sees the street.",
+   "reflection": "Look at one stranger today and silently note: the same Self there as here. Equal vision, one rep.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 30,
+   "speaker": null,
+   "devanagari": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति॥",
+   "transliteration": "yo māṃ paśyati sarvatra sarvaṃ ca mayi paśyati\ntasyāhaṃ na praṇaśyāmi sa ca me na praṇaśyati",
+   "essence": "One who sees me everywhere and sees everything in me — I am never lost to that one, nor is that one ever lost to me.",
+   "translation": "He who sees Me everywhere and sees everything in Me, he never becomes separated from Me, nor do I become separated from him.",
+   "anvaya": [
+    {
+     "word": "यः मां पश्यति सर्वत्र",
+     "meaning": "who sees me everywhere"
+    },
+    {
+     "word": "सर्वं च मयि पश्यति",
+     "meaning": "and sees all in me"
+    },
+    {
+     "word": "तस्य अहं न प्रणश्यामि",
+     "meaning": "to that one I am not lost"
+    },
+    {
+     "word": "सः च मे न प्रणश्यति",
+     "meaning": "and that one is not lost to me"
+    }
+   ],
+   "explanation": "The chapter's most tender promise, and it is mutual: na praṇaśyāmi — I do not vanish for him, he does not vanish for me. Whoever has learned to find Krishna in all things can no longer lose him in any circumstance; and such a seer is held, never dropped, never out of sight. Two gazes, permanently locked. Yo mam pashyati sarvatra — and here the impersonal vision gains a face and a vow: who sees Me everywhere, and everything in Me — tasyaham na pranashyami, I am never lost to him, nor he to Me. The theistic schools treasure this as meditation's secret signature: the all-pervading turns out to be Someone, and the someone makes a promise of mutual unlosability.",
+   "connection": "Personalizes 6.29: the universal Self acquires a face, and the seeing becomes a relationship.",
+   "schools_note": "The mutual-unlosability pledge — 'I am not lost to him, nor is he lost to Me' — is the theistic schools' treasure: Ramanuja reads it as the Lord's covenant with the seer of unity; the Gaudiyas as the eternal bond made explicit. Shankara reads the non-loss as the impossibility of separation from one's own Self. Either way it is the Gita's strongest sentence against the fear of abandonment.",
+   "reflection": "Hold the promise close in a lonely hour: see Him everywhere, and you are never lost to Him.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 31,
+   "speaker": null,
+   "devanagari": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः ।\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते॥",
+   "transliteration": "sarvabhūtasthitaṃ yo māṃ bhajatyekatvamāsthitaḥ\nsarvathā vartamāno'pi sa yogī mayi vartate",
+   "essence": "The yogi who, established in oneness, worships me as dwelling in all beings — that one abides in me, whatever the manner of living.",
+   "translation": "He who, being established in unity, worships Me Who dwells in all beings, that Yogi abides in Me, whatever may be his mode of living.",
+   "anvaya": [
+    {
+     "word": "सर्वभूतस्थितं यः मां",
+     "meaning": "me, abiding in all beings, who"
+    },
+    {
+     "word": "भजति एकत्वम् आस्थितः",
+     "meaning": "worships, established in oneness"
+    },
+    {
+     "word": "सर्वथा वर्तमानः अपि",
+     "meaning": "in whatever way living"
+    },
+    {
+     "word": "सः योगी मयि वर्तते",
+     "meaning": "that yogi dwells in me"
+    }
+   ],
+   "explanation": "Sarvathā vartamāno 'pi — however such a one happens to be living: in a forest or a market, in robes or armor. Once worship has become the perception of the One in all, lifestyle ceases to be the measure; the address is fixed — mayi vartate, dwelling in me — regardless of the outer route.",
+   "connection": "Extends 6.30's mutual sight into mutual residence, dissolving the monk-versus-householder question.",
+   "schools_note": null,
+   "reflection": "Worship through your situation today, whatever it is — the one-in-all accepts every mode of living.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 32,
+   "speaker": null,
+   "devanagari": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन ।\nसुखं वा यदि वा दुःखं स योगी परमो मतः॥",
+   "transliteration": "ātmaupamyena sarvatra samaṃ paśyati yo'rjuna\nsukhaṃ vā yadi vā duḥkhaṃ sa yogī paramo mataḥ",
+   "essence": "One who, by the analogy of the self, sees the same everywhere — in joy or in sorrow — is deemed the highest yogi, Arjuna.",
+   "translation": "He who, through the likeness of the Self, O Arjuna, sees eality everywhere, be it pleasure or pain, he is regarded as the highest Yogi.",
+   "anvaya": [
+    {
+     "word": "आत्मौपम्येन सर्वत्र",
+     "meaning": "by the likeness of oneself, everywhere"
+    },
+    {
+     "word": "समं पश्यति यः अर्जुन",
+     "meaning": "who sees the same, O Arjuna"
+    },
+    {
+     "word": "सुखं वा यदि वा दुःखं",
+     "meaning": "whether joy or sorrow"
+    },
+    {
+     "word": "सः योगी परमः मतः",
+     "meaning": "that yogi is deemed the highest"
+    }
+   ],
+   "explanation": "The vision's ethical edge: ātmaupamya, taking oneself as the measure — their pain weighed on the scale of my pain, their joy on the scale of mine. The golden rule, but grounded in metaphysics rather than prudence: the other's suffering matters like mine because, at the depth just seen, the other *is* mine. This empathy is crowned paramaḥ — the highest yoga of all.",
+   "connection": "Caps the vision-section: the summit of meditation is measured, finally, in compassion.",
+   "schools_note": null,
+   "reflection": "Use your own pain as the translator today: feel one person's joy or sorrow as if it were yours.",
+   "background": "The practice and its fruit are pressed home: renounce every desire without remainder, withdraw little by little, and from wherever the restless mind wanders, lead it back. The fruit is the equal vision — the Self in all beings, all in the Self — and the mutual promise: who sees Me everywhere is never lost to Me."
+  },
+  {
+   "chapter": 6,
+   "verse": 33,
+   "speaker": "अर्जुन उवाच",
+   "devanagari": "योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन ।\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम्॥",
+   "transliteration": "yo'yaṃ yogastvayā proktaḥ sāmyena madhusūdana\netasyāhaṃ na paśyāmi cañcalatvātsthitiṃ sthirām",
+   "essence": "Arjuna says: this yoga of evenness you have taught, Madhusudana — because of restlessness, I do not see how it can stand firm.",
+   "translation": "This Yoga of eanimity taught by Thee, O Krishna, I do not see its steady continuance, because of the restlessness (of the mind).",
+   "anvaya": [
+    {
+     "word": "यः अयं योगः त्वया प्रोक्तः",
+     "meaning": "this yoga which you have declared"
+    },
+    {
+     "word": "साम्येन मधुसूदन",
+     "meaning": "as evenness, O Madhusudana"
+    },
+    {
+     "word": "एतस्य अहं न पश्यामि",
+     "meaning": "of this I do not see"
+    },
+    {
+     "word": "चञ्चलत्वात् स्थितिं स्थिराम्",
+     "meaning": "because of restlessness, a steady standing"
+    }
+   ],
+   "explanation": "After thirty-two verses of luminous instruction, the student raises his hand with the objection every meditator owns: it sounds beautiful, but my mind won't hold it. Arjuna's honesty rescues the chapter from idealism — the lamp may be windless in theory; his is guttering.",
+   "connection": "The voice of every practitioner interrupting 6.29–32's heights with the floor's-eye view.",
+   "schools_note": null,
+   "reflection": "Admit your restlessness honestly, as Arjuna did — diagnosis spoken aloud is half the discipline.",
+   "background": "Arjuna interrupts with the most relatable objection in the poem: this yoga of evenness — he cannot see it standing steady, for the mind is restless, turbulent, strong, obstinate; restraining it seems as hard as restraining the wind."
+  },
+  {
+   "chapter": 6,
+   "verse": 34,
+   "speaker": null,
+   "devanagari": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् ।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्॥",
+   "transliteration": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram",
+   "essence": "For the mind is restless, Krishna — turbulent, strong, obstinate. To restrain it, I think, is as hard as restraining the wind.",
+   "translation": "The mind verily is restless, turbulent, strong and unyielding, O Krishna: I deem it as difficult to control it as to control the wind.",
+   "anvaya": [
+    {
+     "word": "चञ्चलं हि मनः कृष्ण",
+     "meaning": "for restless is the mind, O Krishna"
+    },
+    {
+     "word": "प्रमाथि बलवत् दृढम्",
+     "meaning": "turbulent, strong, obstinate"
+    },
+    {
+     "word": "तस्य अहं निग्रहं मन्ये",
+     "meaning": "its restraint I consider"
+    },
+    {
+     "word": "वायोः इव सुदुष्करम्",
+     "meaning": "like the wind's — exceedingly hard"
+    }
+   ],
+   "explanation": "Four adjectives, each worse than the last: restless, then pramāthi — churning, actively agitating its owner — then strong, then dṛḍham, set in its ways. The simile is a warrior's: he has bent bows and broken armies, but the wind one cannot grip. The complaint is three thousand years old and not a day stale.",
+   "connection": "Completes 6.33's objection with the diagnosis every age has recognized as its own.",
+   "schools_note": null,
+   "reflection": "Watch the mind for one minute and respect the opponent: turbulent, strong, obstinate — and trainable.",
+   "background": "Arjuna interrupts with the most relatable objection in the poem: this yoga of evenness — he cannot see it standing steady, for the mind is restless, turbulent, strong, obstinate; restraining it seems as hard as restraining the wind."
+  },
+  {
+   "chapter": 6,
+   "verse": 35,
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच ।\nअसंशयं महाबाहो मनो दुर्निग्रहं चलम् ।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते॥",
+   "transliteration": "asaṃśayaṃ mahābāho mano durnigrahaṃ calam\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate",
+   "essence": "Doubtless, mighty-armed one, the mind is hard to restrain and restless. But by practice, Kaunteya, and by dispassion, it is held.",
+   "translation": "Undoubtedly, O mighty-armed Arjuna, the mind is difficult to control and restless; but by practice and by dispassion it may be restrained.",
+   "anvaya": [
+    {
+     "word": "असंशयं महाबाहो",
+     "meaning": "without doubt, O mighty-armed"
+    },
+    {
+     "word": "मनः दुर्निग्रहं चलम्",
+     "meaning": "the mind is hard to restrain, fickle"
+    },
+    {
+     "word": "अभ्यासेन तु कौन्तेय",
+     "meaning": "but by practice, O Kaunteya"
+    },
+    {
+     "word": "वैराग्येण च गृह्यते",
+     "meaning": "and by dispassion, it is grasped"
+    }
+   ],
+   "explanation": "First, the concession — asaṁśayam, no argument: you are right about the wind. Then the two-word cure that all later yoga inherits: abhyāsa, repetition that wears a channel, and vairāgya, the cooling of the cravings that supply the wind in the first place. Effort on one side, release on the other — held between them, the mind settles. Abhyasena tu kaunteya vairagyena cha — by practice and by dispassion: the two-word prescription that Patanjali's Yoga-sutra (1.12) states identically, the two traditions countersigning each other. The commentaries explain the pairing: practice alone grows tense, dispassion alone goes limp; together they are the two wings — asamshayam, without doubt, the mind is caught.",
+   "connection": "The classical answer to 6.34, adopted verbatim by Patanjali as yoga's twin pillars.",
+   "schools_note": null,
+   "reflection": "Use both reins today: practice when fresh, dispassion when tempted — abhyasa and vairagya together.",
+   "background": "Krishna concedes the difficulty without surrendering the goal: doubtless the mind is hard to curb, O mighty-armed — but it is caught by practice and dispassion. For the uncontrolled, yoga is hard; for the striving and self-governed, attainable."
+  },
+  {
+   "chapter": 6,
+   "verse": 36,
+   "speaker": null,
+   "devanagari": "असंयतात्मना योगो दुष्प्राप इति मे मतिः ।\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः॥",
+   "transliteration": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ\nvaśyātmanā tu yatatā śakyo'vāptumupāyataḥ",
+   "essence": "For one of unrestrained self, yoga is hard to attain — this is my view. But for the self-governed who strives, it can be won by right means.",
+   "translation": "I think Yoga is hard to be attained by one of uncontrolled self, but the self-controlled and striving one can attain to it by the (proper) means.",
+   "anvaya": [
+    {
+     "word": "असंयतात्मना योगः",
+     "meaning": "by one of unrestrained self, yoga"
+    },
+    {
+     "word": "दुष्प्रापः इति मे मतिः",
+     "meaning": "is hard to attain — such is my view"
+    },
+    {
+     "word": "वश्यात्मना तु यतता",
+     "meaning": "but by the self-controlled, striving"
+    },
+    {
+     "word": "शक्यः अवाप्तुम् उपायतः",
+     "meaning": "it is possible to attain, by means"
+    }
+   ],
+   "explanation": "Honest pricing: duṣprāpa, genuinely hard — the Gita does not discount the difficulty to make a sale. But the hardness is conditional, not absolute, and the final word carries the hope: upāyataḥ, by method. What will cannot storm, technique can win; the gate is locked, and there is a key.",
+   "connection": "Seals the exchange of 6.33–35: difficulty conceded, impossibility denied.",
+   "schools_note": null,
+   "reflection": "Stop demanding self-mastery in one leap; strive by the right means today and call that success.",
+   "background": "Krishna concedes the difficulty without surrendering the goal: doubtless the mind is hard to curb, O mighty-armed — but it is caught by practice and dispassion. For the uncontrolled, yoga is hard; for the striving and self-governed, attainable."
+  },
+  {
+   "chapter": 6,
+   "verse": 37,
+   "speaker": "अर्जुन उवाच",
+   "devanagari": "अयतिः श्रद्धयोपेतो योगाच्चलितमानसः ।\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति॥",
+   "transliteration": "ayatiḥ śraddhayopeto yogāccalitamānasaḥ\naprāpya yogasaṃsiddhiṃ kāṃ gatiṃ kṛṣṇa gacchati",
+   "essence": "Arjuna asks: one who has faith but insufficient effort, whose mind falls from yoga before reaching perfection — what way does such a one go, Krishna?",
+   "translation": "He who is unable to control himself though he has the faith, and whose mind wanders away from Yoga, what end does he, having failed to attain perfection in Yoga, mee,t O Krishna?",
+   "anvaya": [
+    {
+     "word": "अयतिः श्रद्धया उपेतः",
+     "meaning": "the uncontrolled one, endowed with faith"
+    },
+    {
+     "word": "योगात् चलितमानसः",
+     "meaning": "whose mind has strayed from yoga"
+    },
+    {
+     "word": "अप्राप्य योगसंसिद्धिं",
+     "meaning": "not having attained yoga's perfection"
+    },
+    {
+     "word": "कां गतिं कृष्ण गच्छति",
+     "meaning": "what way, O Krishna, does he go"
+    }
+   ],
+   "explanation": "The bravest question in the chapter: what about the one who tried and failed? Faith intact, effort insufficient, journey unfinished — death arrives mid-path. Arjuna is not asking abstractly; a man about to attempt the hardest discipline wants to know the cost of falling short.",
+   "connection": "Opens the great consolation passage (6.37–45): the fate of the sincere but incomplete.",
+   "schools_note": null,
+   "reflection": "Bring your honest fear of failing the path into the open — the question itself is held kindly.",
+   "background": "Arjuna asks the question for every imperfect seeker: what becomes of the one who has faith but strays, who fails to reach perfection — does he perish like a riven cloud, fallen from both worlds? He begs Krishna to cut this doubt completely."
+  },
+  {
+   "chapter": 6,
+   "verse": 38,
+   "speaker": null,
+   "devanagari": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति ।\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि॥",
+   "transliteration": "kaccinnobhayavibhraṣṭaśchinnābhramiva naśyati\napratiṣṭho mahābāho vimūḍho brahmaṇaḥ pathi",
+   "essence": "Fallen from both, does he not perish like a riven cloud — without support, bewildered on the path to Brahman?",
+   "translation": "Swami Sivananda did not comment on this sloka",
+   "anvaya": [
+    {
+     "word": "कच्चित् न उभयविभ्रष्टः",
+     "meaning": "does he not, fallen from both"
+    },
+    {
+     "word": "छिन्नाभ्रम् इव नश्यति",
+     "meaning": "perish like a rent cloud"
+    },
+    {
+     "word": "अप्रतिष्ठः महाबाहो",
+     "meaning": "without footing, O mighty-armed"
+    },
+    {
+     "word": "विमूढः ब्रह्मणः पथि",
+     "meaning": "bewildered on the path of Brahman"
+    }
+   ],
+   "explanation": "The fear given its full image: ubhaya-vibhraṣṭa, fallen from both worlds — having renounced the worldly race, yet missing the spiritual finish — like a small cloud torn from its bank, dissolving in empty sky, belonging nowhere. It is the secret terror of everyone who has ever left a safe shore for an uncertain crossing.",
+   "connection": "Intensifies 6.37: the double loss feared by all who stake ordinary success on extraordinary hope.",
+   "schools_note": null,
+   "reflection": "When you feel between two worlds — committed to neither — remember the question was asked for you.",
+   "background": "Arjuna asks the question for every imperfect seeker: what becomes of the one who has faith but strays, who fails to reach perfection — does he perish like a riven cloud, fallen from both worlds? He begs Krishna to cut this doubt completely."
+  },
+  {
+   "chapter": 6,
+   "verse": 39,
+   "speaker": null,
+   "devanagari": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः ।\nत्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते॥",
+   "transliteration": "etanme saṃśayaṃ kṛṣṇa chettumarhasyaśeṣataḥ\ntvadanyaḥ saṃśayasyāsya chettā na hyupapadyate",
+   "essence": "This doubt of mine, Krishna, please dispel without remainder — for none but you can be the destroyer of this doubt.",
+   "translation": "This doubt of mine, O Krishna, do Thou dispel completely; because it is not possible for any but Thee to dispel this doubt.",
+   "anvaya": [
+    {
+     "word": "एतत् मे संशयं कृष्ण",
+     "meaning": "this doubt of mine, O Krishna"
+    },
+    {
+     "word": "छेत्तुम् अर्हसि अशेषतः",
+     "meaning": "you should cut, without remainder"
+    },
+    {
+     "word": "त्वदन्यः संशयस्य अस्य",
+     "meaning": "other than you, of this doubt"
+    },
+    {
+     "word": "छेत्ता न हि उपपद्यते",
+     "meaning": "a cutter is not to be found"
+    }
+   ],
+   "explanation": "Arjuna asks for surgery, not reassurance: chettum, cut it — aśeṣataḥ, leaving no root to regrow. And he names why he asks here: on the question of what happens to the failed soul, only the one who oversees souls can answer. Some doubts outrank every human authority.",
+   "connection": "Hands 6.37–38's fear to the only court competent to rule on it.",
+   "schools_note": null,
+   "reflection": "Take your unresolvable doubt to the highest court you know today, and actually wait for the answer.",
+   "background": "Arjuna asks the question for every imperfect seeker: what becomes of the one who has faith but strays, who fails to reach perfection — does he perish like a riven cloud, fallen from both worlds? He begs Krishna to cut this doubt completely."
+  },
+  {
+   "chapter": 6,
+   "verse": 40,
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच ।\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।\nन हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति॥",
+   "transliteration": "pārtha naiveha nāmutra vināśastasya vidyate\nna hi kalyāṇakṛtkaścid durgatiṃ tāta gacchati",
+   "essence": "Partha, neither here nor hereafter is there destruction for him. No one who does good, dear friend, ever comes to grief.",
+   "translation": "O Arjuna, neither in this world, nor in the next world is there destruction for him; none, verily, who does good, O My son, ever comes to grief.",
+   "anvaya": [
+    {
+     "word": "पार्थ न एव इह न अमुत्र",
+     "meaning": "O Partha, neither here nor hereafter"
+    },
+    {
+     "word": "विनाशः तस्य विद्यते",
+     "meaning": "is there destruction for him"
+    },
+    {
+     "word": "न हि कल्याणकृत् कश्चित्",
+     "meaning": "for no doer of good, anyone"
+    },
+    {
+     "word": "दुर्गतिं तात गच्छति",
+     "meaning": "goes to an evil end, dear one"
+    }
+   ],
+   "explanation": "The answer opens with the rarest word Krishna uses: tāta — dear child, a father's address. Then the universal amnesty: na hi kalyāṇa-kṛt kaścid durgatiṁ gacchati — no one who has done a good thing, ever, travels to a bad end. In this cosmos, sincere effort is a deposit that cannot be confiscated; the universe keeps honest books. Na hi kalyana-krit kashchid durgatim tata gachchhati — the Gita's amnesty verse, spoken with the tender address tata, 'dear child.' No doer of good ever comes to grief — not in this world, not beyond. Commentators call it the abolition of spiritual ruin: the path keeps every deposit, honors every partial effort, and fears no incomplete life. It is the verse most often spoken at deathbeds of unfinished seekers.",
+   "connection": "The thunderclap of consolation answering 6.38's torn cloud: nothing offered upward is lost.",
+   "schools_note": null,
+   "reflection": "Engrave the amnesty somewhere visible: no one who does good ever comes to a bad end.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  },
+  {
+   "chapter": 6,
+   "verse": 41,
+   "speaker": null,
+   "devanagari": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः ।\nशुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते॥",
+   "transliteration": "prāpya puṇyakṛtāṃ lokānuṣitvā śāśvatīḥ samāḥ\nśucīnāṃ śrīmatāṃ gehe yogabhraṣṭo'bhijāyate",
+   "essence": "Having reached the worlds of the righteous and dwelt there for long years, the one fallen from yoga is born in the home of the pure and prosperous.",
+   "translation": "Having attained to the worlds of the righteous and having dwelt there for everlasting years, he who fell from Yoga is rorn in a house of the pure and wealthy.",
+   "anvaya": [
+    {
+     "word": "प्राप्य पुण्यकृतां लोकान्",
+     "meaning": "having attained the worlds of the righteous"
+    },
+    {
+     "word": "उषित्वा शाश्वतीः समाः",
+     "meaning": "having dwelt for everlasting years"
+    },
+    {
+     "word": "शुचीनां श्रीमतां गेहे",
+     "meaning": "in the home of the pure, the prosperous"
+    },
+    {
+     "word": "योगभ्रष्टः अभिजायते",
+     "meaning": "the one fallen from yoga is born"
+    }
+   ],
+   "explanation": "The itinerary of the unfinished: first rest — long ages in luminous worlds, the effort honored — then re-entry, and not at random: a household clean in conduct and free of want, soil chosen for the seed. The interrupted journey resumes with better provisions than it had.",
+   "connection": "Begins detailing 6.40's promise: failure rerouted, never erased.",
+   "schools_note": null,
+   "reflection": "Trust that your past efforts are banked — you may be living, right now, off a forgotten deposit.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  },
+  {
+   "chapter": 6,
+   "verse": 42,
+   "speaker": null,
+   "devanagari": "अथवा योगिनामेव कुले भवति धीमताम् ।\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम्॥",
+   "transliteration": "athavā yogināmeva kule bhavati dhīmatām\netaddhi durlabhataraṃ loke janma yadīdṛśam",
+   "essence": "Or one is born into a family of wise yogis themselves — such a birth as this is exceedingly rare in the world.",
+   "translation": "Or he is born in a family of even the wise Yogis; verily a birth like this is very difficult to obtain in this world.",
+   "anvaya": [
+    {
+     "word": "अथवा योगिनाम् एव",
+     "meaning": "or else, of yogis themselves"
+    },
+    {
+     "word": "कुले भवति धीमताम्",
+     "meaning": "in the family, one is born — of the wise"
+    },
+    {
+     "word": "एतत् हि दुर्लभतरं",
+     "meaning": "for this is rarer still"
+    },
+    {
+     "word": "लोके जन्म यत् ईदृशम्",
+     "meaning": "in the world, a birth such as this"
+    }
+   ],
+   "explanation": "The express route for the further-along: birth straight into a lineage of practitioners, where the path is the family business and the atmosphere itself instructs. Durlabhataram — rarer than the rare: the tradition prized being born among the wise above being born among the wealthy.",
+   "connection": "The second landing-site after 6.41, graded to how far the traveler had come.",
+   "schools_note": null,
+   "reflection": "If wisdom feels strangely native to you, honor the rarity — and do not waste the head start.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  },
+  {
+   "chapter": 6,
+   "verse": 43,
+   "speaker": null,
+   "devanagari": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन॥",
+   "transliteration": "tatra taṃ buddhisaṃyogaṃ labhate paurvadehikam\nyatate ca tato bhūyaḥ saṃsiddhau kurunandana",
+   "essence": "There one regains the union of understanding earned in the former body, and strives onward again toward perfection, Kurunandana.",
+   "translation": "Thee he comes in touch with the knowledge acired in his former body and strives more than before for perfection, O Arjuna.",
+   "anvaya": [
+    {
+     "word": "तत्र तं बुद्धिसंयोगं",
+     "meaning": "there, that union of buddhi"
+    },
+    {
+     "word": "लभते पौर्वदेहिकम्",
+     "meaning": "one obtains, belonging to the former body"
+    },
+    {
+     "word": "यतते च ततः भूयः",
+     "meaning": "and strives, thence, further"
+    },
+    {
+     "word": "संसिद्धौ कुरुनन्दन",
+     "meaning": "toward complete perfection, O joy of the Kurus"
+    }
+   ],
+   "explanation": "The mechanics of continuity: paurva-dehikam, the prior body's cultivated understanding, restored like a file reopened. Nothing learned in the inner life had evaporated; it waited. Hence the unexplainable affinities of childhood — the pull toward silence, scripture, or the sacred that arrives before any teaching could have planted it.",
+   "connection": "Explains how 6.41–42's new births resume rather than restart the journey.",
+   "schools_note": null,
+   "reflection": "Notice what draws you even against convenience — previous practice is pulling. Let it.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  },
+  {
+   "chapter": 6,
+   "verse": 44,
+   "speaker": null,
+   "devanagari": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः ।\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते॥",
+   "transliteration": "pūrvābhyāsena tenaiva hriyate hyavaśo'pi saḥ\njijñāsurapi yogasya śabdabrahmātivartate",
+   "essence": "By that very former practice one is carried onward, even despite oneself. Even the mere inquirer into yoga passes beyond the Veda's word.",
+   "translation": "By that very former practice he is borne on in spite of himself. Even he who merely wishes to know Yoga goes beyond the Brahmic word.",
+   "anvaya": [
+    {
+     "word": "पूर्वाभ्यासेन तेन एव",
+     "meaning": "by that very former practice"
+    },
+    {
+     "word": "ह्रियते हि अवशः अपि सः",
+     "meaning": "one is carried, even involuntarily"
+    },
+    {
+     "word": "जिज्ञासुः अपि योगस्य",
+     "meaning": "even the (mere) inquirer of yoga"
+    },
+    {
+     "word": "शब्दब्रह्म अतिवर्तते",
+     "meaning": "passes beyond the word-Brahman"
+    }
+   ],
+   "explanation": "Hriyate avaśo 'pi — carried, even unwilling: old practice becomes a current under the boat, momentum that no longer requires the rower's consent. And a stunning aside: even the jijñāsu, the one who has merely begun *asking* about yoga, already outruns śabda-brahma, religion-as-formula. The question outranks the recitation.",
+   "connection": "Completes the consolation's logic: practice compounds across lives, and even curiosity counts.",
+   "schools_note": null,
+   "reflection": "Honor the seeker's restlessness in you; even the wish to know already outruns ritual.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  },
+  {
+   "chapter": 6,
+   "verse": 45,
+   "speaker": null,
+   "devanagari": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः ।\nअनेकजन्मसंसिद्धस्ततो याति परां गतिम्॥",
+   "transliteration": "prayatnādyatamānastu yogī saṃśuddhakilbiṣaḥ\nanekajanmasaṃsiddhastato yāti parāṃ gatim",
+   "essence": "But the yogi striving with effort, cleansed of stain, perfected through many births, then reaches the supreme goal.",
+   "translation": "But the Yogi who strives with assiduity, purified of sins and perfected gradually through many births, reaches the highest goal.",
+   "anvaya": [
+    {
+     "word": "प्रयत्नात् यतमानः तु",
+     "meaning": "but striving with effort"
+    },
+    {
+     "word": "योगी संशुद्धकिल्बिषः",
+     "meaning": "the yogi, thoroughly cleansed of taint"
+    },
+    {
+     "word": "अनेकजन्मसंसिद्धः",
+     "meaning": "perfected through many births"
+    },
+    {
+     "word": "ततः याति परां गतिम्",
+     "meaning": "then goes to the supreme goal"
+    }
+   ],
+   "explanation": "The honest timescale: aneka-janma-saṁsiddhaḥ — perfected across many births. The path may be longer than a lifetime, and the Gita declines to pretend otherwise; what it removes is not the length but the fear of the length. Every step banks; no birth starts from zero; the arrival, however delayed, is arithmetic.",
+   "connection": "Seals 6.37–44: the failed yogi's question answered with a multi-life guarantee.",
+   "schools_note": null,
+   "reflection": "Take the long view of your striving tonight: many lives of polishing, then the goal. No panic.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  },
+  {
+   "chapter": 6,
+   "verse": 46,
+   "speaker": null,
+   "devanagari": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः ।\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन॥",
+   "transliteration": "tapasvibhyo'dhiko yogī jñānibhyo'pi mato'dhikaḥ\nkarmibhyaścādhiko yogī tasmādyogī bhavārjuna",
+   "essence": "The yogi is greater than ascetics, deemed greater even than the knowers, and greater than the doers of works. Therefore be a yogi, Arjuna.",
+   "translation": "The Yogi is thought to be superior to the ascetics and even superior to men of knowledge (obtained through the study of scriptures); he is also superior to men of action; therefore be thou a Yogi, O Arjuna.",
+   "anvaya": [
+    {
+     "word": "तपस्विभ्यः अधिकः योगी",
+     "meaning": "greater than ascetics is the yogi"
+    },
+    {
+     "word": "ज्ञानिभ्यः अपि मतः अधिकः",
+     "meaning": "deemed greater even than the knowers"
+    },
+    {
+     "word": "कर्मिभ्यः च अधिकः योगी",
+     "meaning": "and greater than the workers, the yogi"
+    },
+    {
+     "word": "तस्मात् योगी भव अर्जुन",
+     "meaning": "therefore be a yogi, Arjuna"
+    }
+   ],
+   "explanation": "Three honored vocations measured and ranked below one: above the tapasvī who masters the body, the jñānī of the texts, the karmī of the rites stands the yogi — the one in whom discipline, knowledge and action have fused into inward union. Then the chapter's whole teaching compressed into three words of direct address: tasmād yogī bhava.",
+   "connection": "The penultimate verse crowns the path — before the final verse crowns its summit.",
+   "schools_note": null,
+   "reflection": "Choose the yogi's path over the ascetic's, the scholar's, the ritualist's — be one, today, in spirit.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  },
+  {
+   "chapter": 6,
+   "verse": 47,
+   "speaker": null,
+   "devanagari": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।\nश्रद्धावान्भजते यो मां स मे युक्ततमो मतः॥",
+   "transliteration": "yogināmapi sarveṣāṃ madgatenāntarātmanā\nśraddhāvānbhajate yo māṃ sa me yuktatamo mataḥ",
+   "essence": "And of all yogis, the one who worships me with faith, the inner self merged in me — that one I hold the most harnessed of all.",
+   "translation": "And among all the Yogis he who, full of faith and with his inner self merged in Me, worships Me is deemed by Me to be the most devout.",
+   "anvaya": [
+    {
+     "word": "योगिनाम् अपि सर्वेषां",
+     "meaning": "even of all yogis"
+    },
+    {
+     "word": "मद्गतेन अन्तरात्मना",
+     "meaning": "with the inner self gone into me"
+    },
+    {
+     "word": "श्रद्धावान् भजते यः मां",
+     "meaning": "who, full of faith, worships me"
+    },
+    {
+     "word": "सः मे युक्ततमः मतः",
+     "meaning": "that one is deemed by me the most yoked"
+    }
+   ],
+   "explanation": "One rung above 6.46's summit: among yogis themselves, the yuktatama — the most-united — is the one whose interior has emigrated into Krishna (mad-gatena antarātmanā) and who worships with faith. The chapter that began with posture and breath ends with love: technique was the riverbed; devotion is the river. Shraddhavan bhajate yo mam — the chapter's last word crowns, above all ascetics, knowers, and workers, the one who loves with inner self gone to Me. The commentaries mark the structural shock: six chapters of discipline resolve into devotion, and the word yukta-tamah — most yoked — is awarded to intimacy. The bridge to the bhakti chapters is this single superlative.",
+   "connection": "The chapter's last word quietly hands the crown from meditation to bhakti — the bridge into chapters 7–12.",
+   "schools_note": "A hinge verse for the tradition: Ramanuja and the bhakti schools read it as devotion's formal supremacy over all paths; Shankara as the meditator on the Lord being foremost among practitioners. Either way, the dhyana chapter deliberately ends pointing beyond technique.",
+   "reflection": "Of all your practices, let one today be done with inmost self gone to Him — the highest yoga.",
+   "background": "Krishna's answer is the Gita's great amnesty, spoken with the tenderness of 'dear child': no doer of good ever comes to grief. The fallen yogi rises in blessed homes or yogic families, drawn on by old practice, perfected across births — and the chapter crowns, above ascetics and scholars, the yogi who loves."
+  }
+ ]
+}

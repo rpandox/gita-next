@@ -1,0 +1,2136 @@
+{
+ "chapter": 1,
+ "name": "अर्जुनविषादयोग",
+ "transliteration": "Arjun Viṣhād Yog",
+ "meaning": "The Yoga of Arjuna's Despair",
+ "teaching": "Before any teaching can begin, something must break. Arjuna — the finest warrior alive — looks at what his duty actually costs and collapses. The Gita honours his collapse: despair, seen clearly, is the doorway to inquiry. The tradition honors this collapse by calling the chapter a yoga: despair, fully felt and honestly spoken, is the first spiritual posture. Nothing true can be taught to a self still pretending it is fine.",
+ "key_verses": "१.१ · १.२८–३० · १.४०–४१ · १.४७",
+ "questions": [
+  "Where in your life are you certain you are right, the way Duryodhana is certain?",
+  "Arjuna's reasons for not acting sound noble. When have your own noblest-sounding reasons hidden fear?",
+  "What would it take for you to set down your bow — to admit, fully, 'I do not know what to do'?"
+ ],
+ "verse_count": 47,
+ "verses": [
+  {
+   "chapter": 1,
+   "verse": 1,
+   "speaker": "धृतराष्ट्र उवाच",
+   "devanagari": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+   "transliteration": "dharmakṣetre kurukṣetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāścaiva kimakurvata sañjaya",
+   "essence": "A blind king asks what happened on the field where dharma itself was at stake.",
+   "translation": "What did my people and the sons of Pandu do when they had assembled together eager for battle on the holy plain of Kurukshetra, O Sanjaya.",
+   "anvaya": [
+    {
+     "word": "धर्मक्षेत्रे",
+     "meaning": "on the field of dharma"
+    },
+    {
+     "word": "कुरुक्षेत्रे",
+     "meaning": "at Kurukshetra"
+    },
+    {
+     "word": "समवेताः",
+     "meaning": "assembled"
+    },
+    {
+     "word": "युयुत्सवः",
+     "meaning": "eager to fight"
+    },
+    {
+     "word": "मामकाः",
+     "meaning": "my people"
+    },
+    {
+     "word": "पाण्डवाः च एव",
+     "meaning": "and the sons of Pandu"
+    },
+    {
+     "word": "किम् अकुर्वत",
+     "meaning": "what did they do"
+    },
+    {
+     "word": "सञ्जय",
+     "meaning": "O Sanjaya"
+    }
+   ],
+   "explanation": "The Gita opens not with Krishna but with Dhritarashtra's anxiety. The old king calls the field 'dharma-kshetra' — a place where dharma is decided — yet in the same breath divides its people into 'mine' (māmakāḥ) and 'the Pandavas', as if his nephews were not also his own. That one possessive word is the seed of the whole war: the mind that splits the world into mine and not-mine is the mind that makes battlefields. Everything Krishna will teach is, in the end, an answer to māmakāḥ. Tradition lingers on the first word being dharma and the last (in Sanskrit order) mama, 'mine' — the whole epic compressed into the distance between righteousness and possessiveness. Jnaneshwar opens his Marathi commentary here by bowing to the field itself: where dharma is at stake, every inch of ground becomes a teacher.",
+   "connection": "The question that frames all 700 verses: everything that follows is Sanjaya's answer to this anxious 'what did they do?'",
+   "schools_note": null,
+   "reflection": "Before reading on, name your own field — the place where what you do this week will count.",
+   "background": "The epic's frame: in the palace at Hastinapura, the blind king Dhritarashtra turns to Sanjaya — granted divine sight by Vyasa to witness the distant battlefield — and asks his single anxious question as the war for the kingdom begins at Kurukshetra."
+  },
+  {
+   "chapter": 1,
+   "verse": 2,
+   "speaker": "सञ्जय उवाच",
+   "devanagari": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसंगम्य राजा वचनमब्रवीत्॥",
+   "transliteration": "dṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanastadā\nācāryamupasaṃgamya rājā vacanamabravīt",
+   "essence": "Seeing the Pandava army arrayed, Duryodhana goes straight to his teacher.",
+   "translation": ". Sanjaya said Having seen the army of the Pandavas drawn up in battle-array, King Duryodhana then approached his teacher (Drona) and spoke these words.",
+   "anvaya": [
+    {
+     "word": "दृष्ट्वा तु",
+     "meaning": "but having seen"
+    },
+    {
+     "word": "पाण्डव-अनीकम्",
+     "meaning": "the Pandava army"
+    },
+    {
+     "word": "व्यूढम्",
+     "meaning": "arrayed in formation"
+    },
+    {
+     "word": "दुर्योधनः",
+     "meaning": "Duryodhana"
+    },
+    {
+     "word": "तदा",
+     "meaning": "then"
+    },
+    {
+     "word": "आचार्यम्",
+     "meaning": "the teacher (Drona)"
+    },
+    {
+     "word": "उपसङ्गम्य",
+     "meaning": "approaching"
+    },
+    {
+     "word": "राजा",
+     "meaning": "the king"
+    },
+    {
+     "word": "वचनम् अब्रवीत्",
+     "meaning": "spoke these words"
+    }
+   ],
+   "explanation": "Sanjaya's report begins with Duryodhana — and with a tell. The crown prince, commander of the larger army, sees the enemy formation and immediately needs to talk. He goes to Drona, his teacher, not to consult strategy but to manage his own unease. Power that is secure does not narrate itself.",
+   "connection": "Sanjaya begins answering the king's question — with the king's own son's fear.",
+   "schools_note": null,
+   "reflection": "Watch how you, too, run to an authority when a rival looks stronger than expected.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 3,
+   "speaker": null,
+   "devanagari": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता॥",
+   "transliteration": "paśyaitāṃ pāṇḍuputrāṇāmācārya mahatīṃ camūm\nvyūḍhāṃ drupadaputreṇa tava śiṣyeṇa dhīmatā",
+   "essence": "Look, teacher: your own brilliant student has arrayed this army against us.",
+   "translation": ". \"Behold, O Teacher! this mighty army of the sons of Pandu, arrayed by the son of Drupada, thy wise disciple.",
+   "anvaya": [
+    {
+     "word": "पश्य",
+     "meaning": "behold"
+    },
+    {
+     "word": "एताम्",
+     "meaning": "this"
+    },
+    {
+     "word": "पाण्डुपुत्राणाम्",
+     "meaning": "of the sons of Pandu"
+    },
+    {
+     "word": "आचार्य",
+     "meaning": "O teacher"
+    },
+    {
+     "word": "महतीम् चमूम्",
+     "meaning": "great army"
+    },
+    {
+     "word": "व्यूढाम्",
+     "meaning": "arrayed"
+    },
+    {
+     "word": "द्रुपदपुत्रेण",
+     "meaning": "by the son of Drupada (Dhrishtadyumna)"
+    },
+    {
+     "word": "तव शिष्येण",
+     "meaning": "by your disciple"
+    },
+    {
+     "word": "धीमता",
+     "meaning": "intelligent"
+    }
+   ],
+   "explanation": "Duryodhana's first sentence is a barb dressed as a report: the enemy formation was designed by Dhrishtadyumna — Drona's own student, born from a sacrifice performed to kill Drona. 'Your clever disciple' is meant to wound and to bind: he is reminding the teacher of his failure, and testing his loyalty before the first arrow flies.",
+   "connection": "The 'words' announced in the previous verse begin — and they begin with manipulation.",
+   "schools_note": null,
+   "reflection": "Notice the sting when someone you trained surpasses you — Duryodhana's wound may be yours.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 4,
+   "speaker": null,
+   "devanagari": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः॥",
+   "transliteration": "atra śūrā maheṣvāsā bhīmārjunasamā yudhi\nyuyudhāno virāṭaśca drupadaśca mahārathaḥ",
+   "essence": "Duryodhana counts the enemy first: heroes equal to Bhima and Arjuna.",
+   "translation": ". Here are heroes, mighty archers, eal in battle to Bhima and Arjuna, Yoyudhana (Satyaki), Virata and Drupada, of the great car (mighty warriors).",
+   "anvaya": [
+    {
+     "word": "अत्र",
+     "meaning": "here"
+    },
+    {
+     "word": "शूराः",
+     "meaning": "heroes"
+    },
+    {
+     "word": "महा-इष्वासाः",
+     "meaning": "mighty archers"
+    },
+    {
+     "word": "भीम-अर्जुन-समाः",
+     "meaning": "equal to Bhima and Arjuna"
+    },
+    {
+     "word": "युधि",
+     "meaning": "in battle"
+    },
+    {
+     "word": "युयुधानः",
+     "meaning": "Yuyudhana (Satyaki)"
+    },
+    {
+     "word": "विराटः च",
+     "meaning": "and Virata"
+    },
+    {
+     "word": "द्रुपदः च",
+     "meaning": "and Drupada"
+    },
+    {
+     "word": "महारथः",
+     "meaning": "a great chariot-warrior"
+    }
+   ],
+   "explanation": "Asked nothing, Duryodhana begins listing his enemies — by name, with their ranks. Notice whose army he counts first. A confident commander surveys his own strength; an anxious one cannot stop looking at the other side. The list itself is the confession.",
+   "connection": "The speech to Drona continues: before naming one ally, he names the threats.",
+   "schools_note": null,
+   "reflection": "List the strengths arrayed against your current task; naming them is steadier than fearing them.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 5,
+   "speaker": null,
+   "devanagari": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः॥",
+   "transliteration": "dhṛṣṭaketuścekitānaḥ kāśirājaśca vīryavān\npurujitkuntibhojaśca śaibyaśca narapuṃgavaḥ",
+   "essence": "The count of enemy heroes continues — kings, each one a bull among men.",
+   "translation": ". \"Dhrishtaketu, chekitana and the valiant king of Kasi, Purujit and Kuntibhoja and Saibya, the best men.",
+   "anvaya": [
+    {
+     "word": "धृष्टकेतुः",
+     "meaning": "Dhrishtaketu"
+    },
+    {
+     "word": "चेकितानः",
+     "meaning": "Chekitana"
+    },
+    {
+     "word": "काशिराजः च",
+     "meaning": "and the king of Kashi"
+    },
+    {
+     "word": "वीर्यवान्",
+     "meaning": "valorous"
+    },
+    {
+     "word": "पुरुजित्",
+     "meaning": "Purujit"
+    },
+    {
+     "word": "कुन्तिभोजः च",
+     "meaning": "and Kuntibhoja"
+    },
+    {
+     "word": "शैब्यः च",
+     "meaning": "and Shaibya"
+    },
+    {
+     "word": "नरपुङ्गवः",
+     "meaning": "a bull among men"
+    }
+   ],
+   "explanation": "The roll-call goes on, and every name is a king with his own grievance against the Kauravas. Duryodhana knows each one personally — these are cousins, former guests, men he has feasted with. The war he engineered has gathered his whole world onto the opposite bank.",
+   "connection": "The enemy count from the previous verse continues, growing heavier.",
+   "schools_note": null,
+   "reflection": "Even your opposition is made of individuals with histories — try seeing one of them whole today.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 6,
+   "speaker": null,
+   "devanagari": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः॥",
+   "transliteration": "yudhāmanyuśca vikrānta uttamaujāśca vīryavān\nsaubhadro draupadeyāśca sarva eva mahārathāḥ",
+   "essence": "...and the young ones too: Abhimanyu, Draupadi's five sons — all great warriors.",
+   "translation": ". \"The strong Yodhamanyu and the brave Uttamaujas, the son of Subhadra (Abhimanyu, the son of Subhadra and Arjuna), and the sons of Draupadi, all of great chariots (great heroes).",
+   "anvaya": [
+    {
+     "word": "युधामन्युः च",
+     "meaning": "and Yudhamanyu"
+    },
+    {
+     "word": "विक्रान्तः",
+     "meaning": "courageous"
+    },
+    {
+     "word": "उत्तमौजाः च",
+     "meaning": "and Uttamauja"
+    },
+    {
+     "word": "वीर्यवान्",
+     "meaning": "valorous"
+    },
+    {
+     "word": "सौभद्रः",
+     "meaning": "the son of Subhadra (Abhimanyu)"
+    },
+    {
+     "word": "द्रौपदेयाः च",
+     "meaning": "and the sons of Draupadi"
+    },
+    {
+     "word": "सर्वे एव",
+     "meaning": "all of them"
+    },
+    {
+     "word": "महारथाः",
+     "meaning": "great chariot-warriors"
+    }
+   ],
+   "explanation": "The list ends with the children — Abhimanyu, barely sixteen, and Draupadi's five young sons — and Duryodhana grants even them the highest military rank, mahārathāḥ. He is not flattering them; he is counting them as threats. War has a way of erasing the line between a boy and a target, and this verse quietly records the erasure.",
+   "connection": "The enemy roster closes — having descended from veterans to teenagers.",
+   "schools_note": null,
+   "reflection": "The people you resist are also somebody's heroes; hold that thought for one uncomfortable minute.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 7,
+   "speaker": null,
+   "devanagari": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते॥",
+   "transliteration": "asmākaṃ tu viśiṣṭā ye tānnibodha dvijottama\nnāyakā mama sainyasya saṃjñārthaṃ tānbravīmi te",
+   "essence": "Now, for reassurance, Duryodhana turns to naming his own commanders.",
+   "translation": ". \"Know also, O best among the twice-born! the names of those who are the most distinguished amongst ourselves, the leaders of my army; these I name to thee for thy information.",
+   "anvaya": [
+    {
+     "word": "अस्माकं तु",
+     "meaning": "but of ours"
+    },
+    {
+     "word": "विशिष्टाः ये",
+     "meaning": "those who are distinguished"
+    },
+    {
+     "word": "तान् निबोध",
+     "meaning": "know them"
+    },
+    {
+     "word": "द्विजोत्तम",
+     "meaning": "O best of the twice-born"
+    },
+    {
+     "word": "नायकाः",
+     "meaning": "the leaders"
+    },
+    {
+     "word": "मम सैन्यस्य",
+     "meaning": "of my army"
+    },
+    {
+     "word": "संज्ञार्थम्",
+     "meaning": "for your information"
+    },
+    {
+     "word": "तान् ब्रवीमि ते",
+     "meaning": "I name them to you"
+    }
+   ],
+   "explanation": "Only now — 'for your information', as if Drona did not know his own colleagues — does Duryodhana turn to his side. The phrase is filler; the act is self-soothing. He addresses Drona as 'best of the twice-born', honouring the brahmin in the man he just needled, sweetening after the sting. Watch how anxiety alternates flattery and pressure.",
+   "connection": "Having counted the threats, he now needs to hear his own strength out loud.",
+   "schools_note": null,
+   "reflection": "Now turn the survey around: who actually stands on your side? Count them slowly, with gratitude.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 8,
+   "speaker": null,
+   "devanagari": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥",
+   "transliteration": "bhavānbhīṣmaśca karṇaśca kṛpaśca samitiñjayaḥ\naśvatthāmā vikarṇaśca saumadattistathaiva ca",
+   "essence": "Yourself, Bhishma, Karna, Kripa, Ashvatthama — the irreplaceable men.",
+   "translation": ". \"Thyself and Bhishma, and Karna and also Kripa, the victorious in war, Asvatthama, Vikarna, and also Bhurisrava, the son of Somadatta.",
+   "anvaya": [
+    {
+     "word": "भवान्",
+     "meaning": "yourself (Drona)"
+    },
+    {
+     "word": "भीष्मः च",
+     "meaning": "and Bhishma"
+    },
+    {
+     "word": "कर्णः च",
+     "meaning": "and Karna"
+    },
+    {
+     "word": "कृपः च",
+     "meaning": "and Kripa"
+    },
+    {
+     "word": "समितिञ्जयः",
+     "meaning": "victorious in battle"
+    },
+    {
+     "word": "अश्वत्थामा",
+     "meaning": "Ashvatthama"
+    },
+    {
+     "word": "विकर्णः च",
+     "meaning": "and Vikarna"
+    },
+    {
+     "word": "सौमदत्तिः",
+     "meaning": "the son of Somadatta (Bhurishravas)"
+    },
+    {
+     "word": "तथा एव च",
+     "meaning": "and likewise"
+    }
+   ],
+   "explanation": "The home roster is shorter and stranger than the enemy's. Bhishma and Drona love the Pandavas they must now fight; Karna has sworn not to fight while Bhishma commands; Vikarna once defended Draupadi against Duryodhana himself in open court. Duryodhana's greatest warriors are men whose hearts are partly on the other side — and he knows it.",
+   "connection": "The promised list of 'our distinguished ones' — every name carrying a divided loyalty.",
+   "schools_note": null,
+   "reflection": "Your strongest allies may serve from divided hearts, like Bhishma; love them without testing them.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 9,
+   "speaker": null,
+   "devanagari": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः॥",
+   "transliteration": "anye ca bahavaḥ śūrā madarthe tyaktajīvitāḥ\nnānāśastrapraharaṇāḥ sarve yuddhaviśāradāḥ",
+   "essence": "And many more heroes, ready to give up their lives — for my sake.",
+   "translation": ". \"And also many other heroes who are ready to give up their lives for my sake, armed with various weapons and missiles, all well-skilled in battle.",
+   "anvaya": [
+    {
+     "word": "अन्ये च",
+     "meaning": "and others"
+    },
+    {
+     "word": "बहवः",
+     "meaning": "many"
+    },
+    {
+     "word": "शूराः",
+     "meaning": "heroes"
+    },
+    {
+     "word": "मदर्थे",
+     "meaning": "for my sake"
+    },
+    {
+     "word": "त्यक्तजीविताः",
+     "meaning": "having given up their lives"
+    },
+    {
+     "word": "नाना-शस्त्र-प्रहरणाः",
+     "meaning": "armed with many kinds of weapons"
+    },
+    {
+     "word": "सर्वे",
+     "meaning": "all"
+    },
+    {
+     "word": "युद्धविशारदाः",
+     "meaning": "skilled in battle"
+    }
+   ],
+   "explanation": "Madarthe — 'for my sake'. Duryodhana says it plainly: thousands will die not for dharma, not for the kingdom, but for him. He intends it as a boast of loyalty, and it lands as the moral ledger of the war. Where Arjuna will soon be paralysed by what others may lose, Duryodhana counts those losses as his assets.",
+   "connection": "The roster widens from named commanders to the nameless many — all filed under 'mine'.",
+   "schools_note": null,
+   "reflection": "Many give their lives to your causes in small unseen installments — notice one such person today.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 10,
+   "speaker": null,
+   "devanagari": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्॥",
+   "transliteration": "aparyāptaṃ tadasmākaṃ balaṃ bhīṣmābhirakṣitam\nparyāptaṃ tvidameteṣāṃ balaṃ bhīmābhirakṣitam",
+   "essence": "Our strength is boundless, guarded by Bhishma — yet theirs seems enough, guarded by Bhima.",
+   "translation": ". \"This army of ours marshalled by Bhishma is insufficient, whereas that army of theirs marshelled by Bhima is sufficient.",
+   "anvaya": [
+    {
+     "word": "अपर्याप्तम्",
+     "meaning": "unlimited (or: insufficient)"
+    },
+    {
+     "word": "तत् अस्माकम् बलम्",
+     "meaning": "that strength of ours"
+    },
+    {
+     "word": "भीष्म-अभिरक्षितम्",
+     "meaning": "guarded by Bhishma"
+    },
+    {
+     "word": "पर्याप्तम् तु",
+     "meaning": "but adequate"
+    },
+    {
+     "word": "इदम् एतेषाम् बलम्",
+     "meaning": "this strength of theirs"
+    },
+    {
+     "word": "भीम-अभिरक्षितम्",
+     "meaning": "guarded by Bhima"
+    }
+   ],
+   "explanation": "The verse pivots on one ambiguous word. Aparyāptam can mean 'unlimited' — our army is vast — or 'insufficient' — our army, for all its size, is not enough. The tradition has argued for centuries, and the ambiguity is the truth: Duryodhana himself does not know which he believes. He has eleven divisions to the Pandavas' seven, guarded by the unkillable Bhishma, and still he compares.",
+   "connection": "The two rosters are weighed against each other — and the scale trembles in his own hand.",
+   "schools_note": "Shankara's line of commentators read aparyāptam as 'insufficient' — Bhishma's divided heart weakens the side he guards; later readers often prefer 'unlimited', making the verse pure bravado. Either way the next verse betrays the fear.",
+   "reflection": "When you call your resources limitless, pause: is that confidence speaking, or the fear underneath it?",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 11,
+   "speaker": null,
+   "devanagari": "अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि॥",
+   "transliteration": "ayaneṣu ca sarveṣu yathābhāgamavasthitāḥ\nbhīṣmamevābhirakṣantu bhavantaḥ sarva eva hi",
+   "essence": "Therefore: all of you, at every post — protect Bhishma above all.",
+   "translation": ". \"Therefore do ye all, stationed in your respective positions, in the several divisions of the army, protect Bhishma alone.\"",
+   "anvaya": [
+    {
+     "word": "अयनेषु च सर्वेषु",
+     "meaning": "and at all entry-points of the formation"
+    },
+    {
+     "word": "यथाभागम्",
+     "meaning": "each in your assigned place"
+    },
+    {
+     "word": "अवस्थिताः",
+     "meaning": "stationed"
+    },
+    {
+     "word": "भीष्मम् एव",
+     "meaning": "Bhishma above all"
+    },
+    {
+     "word": "अभिरक्षन्तु",
+     "meaning": "must protect"
+    },
+    {
+     "word": "भवन्तः सर्वे एव हि",
+     "meaning": "indeed all of you"
+    }
+   ],
+   "explanation": "The order that ends the speech gives the speaker away: the entire army is instructed to protect its own supreme commander. Strategically there is a kernel of sense — Bhishma cannot be killed while armed, but he can be screened and flanked. Psychologically it is plain: Duryodhana's confidence hangs on one old man, and he has just said so in front of everyone.",
+   "connection": "The wavering of 1.10 hardens into an order — defend the one pillar everything rests on.",
+   "schools_note": null,
+   "reflection": "Guard what is central in your life today, and let the lesser posts defend themselves.",
+   "background": "Sanjaya's report opens on the Kaurava side: prince Duryodhana, seeing the Pandava army arrayed, hurries to his teacher Drona and surveys the warriors of both hosts — his speech a mixture of briefing, flattery, and barely hidden unease."
+  },
+  {
+   "chapter": 1,
+   "verse": 12,
+   "speaker": null,
+   "devanagari": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्॥",
+   "transliteration": "tasya sañjanayanharṣaṃ kuruvṛddhaḥ pitāmahaḥ\nsiṃhanādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān",
+   "essence": "To cheer him, old Bhishma roars like a lion and blows his conch.",
+   "translation": ". His glorious grandsire (Bhishma), the oldest of the Kauravas, in order to cheer Duryodhana, now roared like a lion, and blew his conch.",
+   "anvaya": [
+    {
+     "word": "तस्य",
+     "meaning": "his (Duryodhana's)"
+    },
+    {
+     "word": "सञ्जनयन् हर्षम्",
+     "meaning": "producing joy"
+    },
+    {
+     "word": "कुरुवृद्धः",
+     "meaning": "the Kuru elder"
+    },
+    {
+     "word": "पितामहः",
+     "meaning": "the grandsire (Bhishma)"
+    },
+    {
+     "word": "सिंहनादम्",
+     "meaning": "a lion's roar"
+    },
+    {
+     "word": "विनद्य उच्चैः",
+     "meaning": "sounding aloud"
+    },
+    {
+     "word": "शङ्खम् दध्मौ",
+     "meaning": "blew his conch"
+    },
+    {
+     "word": "प्रतापवान्",
+     "meaning": "the mighty one"
+    }
+   ],
+   "explanation": "Bhishma has heard everything — the needling of Drona, the doubt about his own protection — and answers none of it with words. He roars and blows his conch: a grandfather steadying a frightened grandchild the only way a warrior can. The gesture is pure affection and pure tragedy; the cheer he gives Duryodhana is the war's starting gun.",
+   "connection": "Bhishma responds to the anxiety of 1.10–11 not with argument but with sound.",
+   "schools_note": null,
+   "reflection": "Sometimes the kindest act for an anxious person is one clear, confident sound — be that for someone.",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 13,
+   "speaker": null,
+   "devanagari": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्॥",
+   "transliteration": "tataḥ śaṅkhāśca bheryaśca paṇavānakagomukhāḥ\nsahasaivābhyahanyanta sa śabdastumulo'bhavat",
+   "essence": "Then the whole Kaurava host erupts — conches, drums, horns — a sudden tumult.",
+   "translation": ". Then (following Bhishma), conches and kettledrums, tabors, drums and cow horns blared forth ite suddenly (from the Kaurava side) and the sound was tremendous.",
+   "anvaya": [
+    {
+     "word": "ततः",
+     "meaning": "then"
+    },
+    {
+     "word": "शङ्खाः च",
+     "meaning": "conches"
+    },
+    {
+     "word": "भेर्यः च",
+     "meaning": "and kettledrums"
+    },
+    {
+     "word": "पणव-आनक-गोमुखाः",
+     "meaning": "tabors, drums and horns"
+    },
+    {
+     "word": "सहसा एव",
+     "meaning": "all at once"
+    },
+    {
+     "word": "अभ्यहन्यन्त",
+     "meaning": "were sounded"
+    },
+    {
+     "word": "सः शब्दः",
+     "meaning": "that sound"
+    },
+    {
+     "word": "तुमुलः अभवत्",
+     "meaning": "became tumultuous"
+    }
+   ],
+   "explanation": "One conch becomes an avalanche. Eleven divisions answer their commander at once — but the verse calls it tumulaḥ, a tumult: enormous, and without shape. Remember this noise; in two verses the other side will answer, fewer in number, and the text will describe that sound very differently.",
+   "connection": "Bhishma's single note from the previous verse is amplified into the roar of an army.",
+   "schools_note": null,
+   "reflection": "Notice how quickly one bold note becomes a chorus; your tone sets more weather than you think.",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 14,
+   "speaker": null,
+   "devanagari": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः॥",
+   "transliteration": "tataḥ śvetairhayairyukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaścaiva divyau śaṅkhau pradadhmatuḥ",
+   "essence": "Then, from a great chariot yoked with white horses, Krishna and Arjuna answer.",
+   "translation": ". Then, also, Madhava (Krishna) and the son of Pandu (Arjuna), seated in the magnificent chariot, yoked with white horses, blew divine conches.",
+   "anvaya": [
+    {
+     "word": "ततः",
+     "meaning": "then"
+    },
+    {
+     "word": "श्वेतैः हयैः युक्ते",
+     "meaning": "yoked with white horses"
+    },
+    {
+     "word": "महति स्यन्दने",
+     "meaning": "in the great chariot"
+    },
+    {
+     "word": "स्थितौ",
+     "meaning": "standing"
+    },
+    {
+     "word": "माधवः",
+     "meaning": "Madhava (Krishna)"
+    },
+    {
+     "word": "पाण्डवः च एव",
+     "meaning": "and the son of Pandu (Arjuna)"
+    },
+    {
+     "word": "दिव्यौ शङ्खौ",
+     "meaning": "two divine conches"
+    },
+    {
+     "word": "प्रदध्मतुः",
+     "meaning": "blew forth"
+    }
+   ],
+   "explanation": "The camera turns, and everything sharpens. Against the anonymous tumult: one chariot, white horses, two figures, two conches — and the word divyau, divine. This is the Gita's first glimpse of Krishna, and he appears exactly as he will remain: not commanding the army, but standing beside Arjuna. The story's true centre enters without saying a word.",
+   "connection": "The Kaurava wall of sound meets its answer — smaller, clearer, and qualitatively other.",
+   "schools_note": null,
+   "reflection": "The other side has its music too. Listen once without needing yours to be louder.",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 15,
+   "speaker": null,
+   "devanagari": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः॥",
+   "transliteration": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīmakarmā vṛkodaraḥ",
+   "essence": "Krishna sounds Panchajanya, Arjuna Devadatta, Bhima his great conch Paundra.",
+   "translation": ". Hrishikesha blew the Panchajanya and Arjuna blew the Devadatta and Bhima (the wolf-bellied), the doer of terrible deeds, blew the great conch Paundra.",
+   "anvaya": [
+    {
+     "word": "पाञ्चजन्यम्",
+     "meaning": "Panchajanya"
+    },
+    {
+     "word": "हृषीकेशः",
+     "meaning": "Hrishikesha (Krishna, lord of the senses)"
+    },
+    {
+     "word": "देवदत्तम्",
+     "meaning": "Devadatta"
+    },
+    {
+     "word": "धनञ्जयः",
+     "meaning": "Dhananjaya (Arjuna, winner of wealth)"
+    },
+    {
+     "word": "पौण्ड्रम्",
+     "meaning": "Paundra"
+    },
+    {
+     "word": "दध्मौ",
+     "meaning": "blew"
+    },
+    {
+     "word": "महाशङ्खम्",
+     "meaning": "the great conch"
+    },
+    {
+     "word": "भीमकर्मा",
+     "meaning": "of terrible deeds"
+    },
+    {
+     "word": "वृकोदरः",
+     "meaning": "wolf-bellied (Bhima)"
+    }
+   ],
+   "explanation": "On this side, every conch has a name and a story — Panchajanya taken from a slain demon, Devadatta given by the gods. A named instrument is an identity, not just noise. And the verse names Krishna 'Hrishikesha', master of the senses: the Gita's quiet signal of who is actually holding the reins of that chariot.",
+   "connection": "The two divine conches of the previous verse are now named — sound becoming signature.",
+   "schools_note": null,
+   "reflection": "Before a hard conversation, find your conch — the breath or word that announces you are fully here.",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 16,
+   "speaker": null,
+   "devanagari": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ॥",
+   "transliteration": "anantavijayaṃ rājā kuntīputro yudhiṣṭhiraḥ\nnakulaḥ sahadevaśca sughoṣamaṇipuṣpakau",
+   "essence": "Yudhishthira sounds Anantavijaya; Nakula and Sahadeva, Sughosha and Manipushpaka.",
+   "translation": ". The king Yodhishthira, the son of Kunti, blew the Anantavijaya; Nakula and Sahadeva blew the Sughosha and the Manipushpaka.",
+   "anvaya": [
+    {
+     "word": "अनन्तविजयम्",
+     "meaning": "Anantavijaya ('endless victory')"
+    },
+    {
+     "word": "राजा",
+     "meaning": "the king"
+    },
+    {
+     "word": "कुन्तीपुत्रः युधिष्ठिरः",
+     "meaning": "Yudhishthira, son of Kunti"
+    },
+    {
+     "word": "नकुलः",
+     "meaning": "Nakula"
+    },
+    {
+     "word": "सहदेवः च",
+     "meaning": "and Sahadeva"
+    },
+    {
+     "word": "सुघोष-मणिपुष्पकौ",
+     "meaning": "Sughosha and Manipushpaka"
+    }
+   ],
+   "explanation": "Even here the text is precise about character: Yudhishthira — the king who never wanted this war — sounds a conch named 'endless victory', as if the name must carry the conviction he lacks. The twins follow with theirs. Five brothers, five distinct voices: the Pandava answer is a chord, not a roar.",
+   "connection": "The naming continues down the line of brothers.",
+   "schools_note": null,
+   "reflection": "Each person sounds their own note in a shared effort; today, let yours be distinct, not dominant.",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 17,
+   "speaker": null,
+   "devanagari": "काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः॥",
+   "transliteration": "kāśyaśca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ\ndhṛṣṭadyumno virāṭaśca sātyakiścāparājitaḥ",
+   "essence": "The king of Kashi, Shikhandi, Dhrishtadyumna, Virata, unconquered Satyaki —",
+   "translation": ". The king of Kasi, an exellent archer, Sikhandi, the mighty car-warrior, Dhrishtadyumna and Virata and Satyaki, the unconered.",
+   "anvaya": [
+    {
+     "word": "काश्यः च",
+     "meaning": "and the king of Kashi"
+    },
+    {
+     "word": "परम-इष्वासः",
+     "meaning": "supreme archer"
+    },
+    {
+     "word": "शिखण्डी च",
+     "meaning": "and Shikhandi"
+    },
+    {
+     "word": "महारथः",
+     "meaning": "great warrior"
+    },
+    {
+     "word": "धृष्टद्युम्नः",
+     "meaning": "Dhrishtadyumna"
+    },
+    {
+     "word": "विराटः च",
+     "meaning": "and Virata"
+    },
+    {
+     "word": "सात्यकिः च",
+     "meaning": "and Satyaki"
+    },
+    {
+     "word": "अपराजितः",
+     "meaning": "unconquered"
+    }
+   ],
+   "explanation": "Among the names, one is a slow fuse: Shikhandi — born to destroy Bhishma, the one fighter the grandsire has vowed never to strike. The same Bhishma whose conch opened the war, and around whom Duryodhana built his whole defence, has his appointed end standing in this verse, sounding a conch of his own.",
+   "connection": "The allied kings join the chord — and fate quietly takes its place among them.",
+   "schools_note": null,
+   "reflection": "Even supporting roles get named in this roll-call. Whose quiet contribution can you name aloud today?",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 18,
+   "speaker": null,
+   "devanagari": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्॥",
+   "transliteration": "drupado draupadeyāśca sarvaśaḥ pṛthivīpate\nsaubhadraśca mahābāhuḥ śaṅkhāndadhmuḥ pṛthakpṛthak",
+   "essence": "— Drupada, Draupadi's sons, Abhimanyu: each blows his own conch, one by one.",
+   "translation": ". Drupada and the sons of Draupadi, O Lord of the earth, and the son of Subhadra, the mighty-armed, blew their conches separately.",
+   "anvaya": [
+    {
+     "word": "द्रुपदः",
+     "meaning": "Drupada"
+    },
+    {
+     "word": "द्रौपदेयाः च",
+     "meaning": "and the sons of Draupadi"
+    },
+    {
+     "word": "सर्वशः",
+     "meaning": "on all sides"
+    },
+    {
+     "word": "पृथिवीपते",
+     "meaning": "O lord of the earth"
+    },
+    {
+     "word": "सौभद्रः च",
+     "meaning": "and the son of Subhadra"
+    },
+    {
+     "word": "महाबाहुः",
+     "meaning": "mighty-armed"
+    },
+    {
+     "word": "शङ्खान् दध्मुः",
+     "meaning": "blew their conches"
+    },
+    {
+     "word": "पृथक् पृथक्",
+     "meaning": "each separately"
+    }
+   ],
+   "explanation": "Pṛthak pṛthak — 'each one, separately'. The phrase ends the conch passage and quietly states its meaning: on this side every person sounds as himself, distinct, accountable. Sanjaya slips in 'O lord of the earth', reminding us a blind king is hearing all this — hearing his enemies, one by one, refuse to be a faceless mass.",
+   "connection": "The roll of conches completes — a chord of individuals against the earlier tumult.",
+   "schools_note": null,
+   "reflection": "A cause becomes real when each helper sounds separately — invite one silent supporter to speak.",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 19,
+   "speaker": null,
+   "devanagari": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\nनभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन्॥",
+   "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat\nnabhaśca pṛthivīṃ caiva tumulo'bhyanunādayan (lo vyanu)",
+   "essence": "That sound tears through the hearts of Dhritarashtra's sons, shaking sky and earth.",
+   "translation": ". That tumultuous sound rent the hearts of (the members of) Dhritarashtra's party, making both the heaven and the earth resound.",
+   "anvaya": [
+    {
+     "word": "सः घोषः",
+     "meaning": "that sound"
+    },
+    {
+     "word": "धार्तराष्ट्राणाम्",
+     "meaning": "of Dhritarashtra's sons"
+    },
+    {
+     "word": "हृदयानि",
+     "meaning": "the hearts"
+    },
+    {
+     "word": "व्यदारयत्",
+     "meaning": "tore apart"
+    },
+    {
+     "word": "नभः च पृथिवीम् च एव",
+     "meaning": "both sky and earth"
+    },
+    {
+     "word": "तुमुलः",
+     "meaning": "tumultuous"
+    },
+    {
+     "word": "अभ्यनुनादयन्",
+     "meaning": "making resound"
+    }
+   ],
+   "explanation": "The larger army made noise; the smaller one made meaning — and meaning is what tears hearts. Sanjaya says it to Dhritarashtra's face: your sons' hearts split before a single arrow flew. Battles are decided in the chest first. The Kauravas' sound filled the air; the Pandavas' sound entered people.",
+   "connection": "The answer to the tumult of 1.13 lands — and the verse measures the difference in hearts, not decibels.",
+   "schools_note": null,
+   "reflection": "Some sounds rend hearts that armor cannot reach. Choose your words today knowing this.",
+   "background": "To steady Duryodhana, grandsire Bhishma roars and blows his conch; the Kaurava host answers in a din. Then from the great chariot yoked with white horses, Krishna and Arjuna sound their celestial conches, and the Pandava blasts shake sky and earth."
+  },
+  {
+   "chapter": 1,
+   "verse": 20,
+   "speaker": null,
+   "devanagari": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः ।\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ।\nहृषीकेशं तदा वाक्यमिदमाह महीपते॥",
+   "transliteration": "atha vyavasthitāndṛṣṭvā dhārtarāṣṭrān kapidhvajaḥ\npravṛtte śastrasampāte dhanurudyamya pāṇḍavaḥ",
+   "essence": "As weapons are about to fly, Arjuna lifts his bow — and turns to Krishna to speak.",
+   "translation": ". Then, seeing the people of Dhritarashtra’s party standing arrayed and the discharge of weapons about to begin, Arjuna, the son of Pandu, whose ensign was a monkey, took up his bow and said the following to Krishna, O Lord of the earth.",
+   "anvaya": [
+    {
+     "word": "अथ",
+     "meaning": "then"
+    },
+    {
+     "word": "व्यवस्थितान् दृष्ट्वा",
+     "meaning": "seeing arrayed"
+    },
+    {
+     "word": "धार्तराष्ट्रान्",
+     "meaning": "the sons of Dhritarashtra"
+    },
+    {
+     "word": "कपिध्वजः",
+     "meaning": "he whose banner bears the monkey (Arjuna)"
+    },
+    {
+     "word": "प्रवृत्ते शस्त्रसम्पाते",
+     "meaning": "as the clash of weapons was beginning"
+    },
+    {
+     "word": "धनुः उद्यम्य",
+     "meaning": "raising his bow"
+    },
+    {
+     "word": "पाण्डवः",
+     "meaning": "the son of Pandu"
+    },
+    {
+     "word": "हृषीकेशम्",
+     "meaning": "to Hrishikesha"
+    },
+    {
+     "word": "तदा",
+     "meaning": "then"
+    },
+    {
+     "word": "वाक्यम् इदम् आह",
+     "meaning": "spoke these words"
+    },
+    {
+     "word": "महीपते",
+     "meaning": "O lord of the earth"
+    }
+   ],
+   "explanation": "The moment is a knife's edge: weapons are launching, the bow is already raised — and instead of an arrow, words come out. Everything that follows, all seven hundred verses, happens inside this raised-bow instant. The epic slows time at its most violent point to make room for a conversation.",
+   "connection": "Out of the fading conch-roar, the story narrows to one man, one bow, one turning toward Krishna.",
+   "schools_note": null,
+   "reflection": "At the very edge of action, lift your eyes once more and look — really look — at what you face.",
+   "background": "The armies stand a breath from contact. Arjuna, banner of Hanuman above him, lifts his bow and makes his fateful request: he asks Krishna — who has taken the humble role of his charioteer — to drive him into the open ground between the two hosts so he may see who has come to fight."
+  },
+  {
+   "chapter": 1,
+   "verse": 21,
+   "speaker": "अर्जुन उवाच",
+   "devanagari": "सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत॥",
+   "transliteration": "hṛṣīkeśaṃ tadā vākyamidamāha mahīpate\nsenayorubhayormadhye rathaṃ sthāpaya me'cyuta",
+   "essence": "Arjuna's first words: place my chariot between the two armies, Achyuta.",
+   "translation": "In the middle between the two armies, place my chariot, O krishna, so that I may behold those who stand here desirous to fight, and know with whom I must fight, when the battle is about to commence.",
+   "anvaya": [
+    {
+     "word": "सेनयोः उभयोः",
+     "meaning": "of the two armies"
+    },
+    {
+     "word": "मध्ये",
+     "meaning": "in the middle"
+    },
+    {
+     "word": "रथम् स्थापय",
+     "meaning": "place the chariot"
+    },
+    {
+     "word": "मे",
+     "meaning": "my"
+    },
+    {
+     "word": "अच्युत",
+     "meaning": "O Achyuta (the unfallen one)"
+    }
+   ],
+   "explanation": "The first spoken sentence of the Gita's hero is an order to God — and Krishna will simply obey it. Arjuna asks to be taken to the exact centre, the place of maximum exposure where neither side can claim him. He calls Krishna 'Achyuta', the one who never falls: he is about to fall, and some part of him is already reaching for the one who can't.",
+   "connection": "The words promised in the previous verse arrive — not a war cry, but a request to see.",
+   "schools_note": null,
+   "reflection": "Ask to be taken to the middle of your conflict, not briefed from its safe edge.",
+   "background": "The armies stand a breath from contact. Arjuna, banner of Hanuman above him, lifts his bow and makes his fateful request: he asks Krishna — who has taken the humble role of his charioteer — to drive him into the open ground between the two hosts so he may see who has come to fight."
+  },
+  {
+   "chapter": 1,
+   "verse": 22,
+   "speaker": null,
+   "devanagari": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ।\nकैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे॥",
+   "transliteration": "yāvadetānnirikṣe'haṃ yoddhukāmānavasthitān\nkairmayā saha yoddhavyamasmin raṇasamudyame",
+   "essence": "Let me look at the men I am to fight, who stand here desiring battle.",
+   "translation": ". Arjuna said In the middle between the two armies, place my chariot, O krishna, so that I may behold those who stand here desirous to fight, and know with whom I must fight, when the battle is about to commence.",
+   "anvaya": [
+    {
+     "word": "यावत्",
+     "meaning": "while"
+    },
+    {
+     "word": "एतान् निरीक्षे अहम्",
+     "meaning": "I look closely at these"
+    },
+    {
+     "word": "योद्धुकामान्",
+     "meaning": "desiring to fight"
+    },
+    {
+     "word": "अवस्थितान्",
+     "meaning": "standing arrayed"
+    },
+    {
+     "word": "कैः",
+     "meaning": "with whom"
+    },
+    {
+     "word": "मया सह",
+     "meaning": "together with me"
+    },
+    {
+     "word": "योद्धव्यम्",
+     "meaning": "must it be fought"
+    },
+    {
+     "word": "अस्मिन् रणसमुद्यमे",
+     "meaning": "in this enterprise of war"
+    }
+   ],
+   "explanation": "Nirīkṣe — not 'see' but 'inspect closely'. Arjuna thinks he is doing reconnaissance: assessing opponents the way a professional assesses targets. But he frames it as 'with whom must I fight' — yoddhavyam, a duty, something imposed. The soldier's question is already carrying a philosopher's weight, and he doesn't know it yet.",
+   "connection": "He explains the request of 1.21 — wanting to convert enemies from a mass into knowable men.",
+   "schools_note": null,
+   "reflection": "Before opposing anyone, grant yourself one unhurried look at exactly whom you oppose.",
+   "background": "The armies stand a breath from contact. Arjuna, banner of Hanuman above him, lifts his bow and makes his fateful request: he asks Krishna — who has taken the humble role of his charioteer — to drive him into the open ground between the two hosts so he may see who has come to fight."
+  },
+  {
+   "chapter": 1,
+   "verse": 23,
+   "speaker": null,
+   "devanagari": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः॥",
+   "transliteration": "yotsyamānānavekṣe'haṃ ya ete'tra samāgatāḥ\ndhārtarāṣṭrasya durbuddheryuddhe priyacikīrṣavaḥ",
+   "essence": "I want to see who has gathered here to please Duryodhana's wicked mind by fighting.",
+   "translation": ". For I desire to observe those who are assembled here to fight, wishing to please in battle the evil-minded Duryodhana (the son of Dhritarashtra).",
+   "anvaya": [
+    {
+     "word": "योत्स्यमानान्",
+     "meaning": "those about to fight"
+    },
+    {
+     "word": "अवेक्षे अहम्",
+     "meaning": "I would look upon"
+    },
+    {
+     "word": "ये एते अत्र समागताः",
+     "meaning": "those who have assembled here"
+    },
+    {
+     "word": "धार्तराष्ट्रस्य दुर्बुद्धेः",
+     "meaning": "of the evil-minded son of Dhritarashtra"
+    },
+    {
+     "word": "युद्धे",
+     "meaning": "in battle"
+    },
+    {
+     "word": "प्रिय-चिकीर्षवः",
+     "meaning": "wishing to please"
+    }
+   ],
+   "explanation": "Listen to the armour in his voice: the enemy are toadies of 'evil-minded Duryodhana'. Contempt is how a warrior keeps the enemy abstract — they chose the villain, so they can be killed. This is the last verse in which Arjuna manages to see the other side as a category. The armour is about to meet their faces.",
+   "connection": "He sharpens the inspection of 1.22 with moral contempt — the mind bracing itself to kill.",
+   "schools_note": null,
+   "reflection": "Notice who shows up to please the powerful rather than from conviction — beginning with yourself.",
+   "background": "The armies stand a breath from contact. Arjuna, banner of Hanuman above him, lifts his bow and makes his fateful request: he asks Krishna — who has taken the humble role of his charioteer — to drive him into the open ground between the two hosts so he may see who has come to fight."
+  },
+  {
+   "chapter": 1,
+   "verse": 24,
+   "speaker": "सञ्जय उवाच",
+   "devanagari": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्॥",
+   "transliteration": "evamukto hṛṣīkeśo guḍākeśena bhārata\nsenayorubhayormadhye sthāpayitvā rathottamam",
+   "essence": "So spoken to, Krishna drives the great chariot between the two armies.",
+   "translation": ". Sanjaya said Thus addressed by Arjuna, Krishna, having stationed that best of chariots, O Dhritarashtra, in the midst of the two armies.",
+   "anvaya": [
+    {
+     "word": "एवम् उक्तः",
+     "meaning": "thus addressed"
+    },
+    {
+     "word": "हृषीकेशः",
+     "meaning": "Hrishikesha (Krishna)"
+    },
+    {
+     "word": "गुडाकेशेन",
+     "meaning": "by Gudakesha (conqueror of sleep, Arjuna)"
+    },
+    {
+     "word": "भारत",
+     "meaning": "O descendant of Bharata"
+    },
+    {
+     "word": "सेनयोः उभयोः मध्ये",
+     "meaning": "between the two armies"
+    },
+    {
+     "word": "स्थापयित्वा",
+     "meaning": "having placed"
+    },
+    {
+     "word": "रथोत्तमम्",
+     "meaning": "the best of chariots"
+    }
+   ],
+   "explanation": "Sanjaya chooses the names with a poet's irony: Gudakesha, the man who has conquered sleep, gives an order; Hrishikesha, the master of the senses, carries it out. The Lord of everything works as a driver — and by obeying, he steers Arjuna to the one spot on earth where his certainty cannot survive. Sometimes grace looks exactly like doing what you're told.",
+   "connection": "Krishna answers the request of 1.21 — with an obedience that is really a teaching.",
+   "schools_note": null,
+   "reflection": "When someone asks to see things plainly, honor it as Krishna did: drive them to the center.",
+   "background": "Krishna drives the chariot to the middle of the field and halts it facing Bhishma and Drona with the words 'behold these assembled Kurus.' Arjuna looks — and in both armies sees only his own people: fathers, grandfathers, teachers, uncles, brothers, sons, companions."
+  },
+  {
+   "chapter": 1,
+   "verse": 25,
+   "speaker": null,
+   "devanagari": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति॥",
+   "transliteration": "bhīṣmadroṇapramukhataḥ sarveṣāṃ ca mahīkṣitām\nuvāca pārtha paśyaitānsamavetānkurūniti",
+   "essence": "Facing Bhishma and Drona, Krishna says: behold, Partha, these Kurus gathered here.",
+   "translation": ". In front of Bhishma and Drona, and all the rulers of the earth, said: \"O Arjuna (son of Pritha), behold these Kurus gathered together.\"",
+   "anvaya": [
+    {
+     "word": "भीष्मद्रोणप्रमुखतः",
+     "meaning": "in front of Bhishma and Drona"
+    },
+    {
+     "word": "सर्वेषां महीक्षिताम् च",
+     "meaning": "and of all the kings"
+    },
+    {
+     "word": "उवाच",
+     "meaning": "he said"
+    },
+    {
+     "word": "पार्थ",
+     "meaning": "O Partha (son of Pritha)"
+    },
+    {
+     "word": "पश्य",
+     "meaning": "behold"
+    },
+    {
+     "word": "एतान् समवेतान् कुरून्",
+     "meaning": "these Kurus assembled"
+    },
+    {
+     "word": "इति",
+     "meaning": "thus"
+    }
+   ],
+   "explanation": "Krishna could have stopped the chariot anywhere along the line. He stops it precisely before Bhishma and Drona — the grandfather who raised Arjuna and the teacher who made him an archer — and says only three words: behold these Kurus. Not 'the enemy', not 'the Kauravas'. Kurus — the family name Arjuna himself shares. The word is a scalpel. Krishna is not causing Arjuna's crisis; he is refusing to let him postpone it.",
+   "connection": "Arjuna asked to see who he must fight (1.21–22). Krishna grants the request with surgical precision — and one loaded word.",
+   "schools_note": null,
+   "reflection": "Life sometimes parks you directly facing your teachers and elders as obstacles. Stay parked a moment.",
+   "background": "Krishna drives the chariot to the middle of the field and halts it facing Bhishma and Drona with the words 'behold these assembled Kurus.' Arjuna looks — and in both armies sees only his own people: fathers, grandfathers, teachers, uncles, brothers, sons, companions."
+  },
+  {
+   "chapter": 1,
+   "verse": 26,
+   "speaker": null,
+   "devanagari": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा॥",
+   "transliteration": "tatrāpaśyatsthitānpārthaḥ pitṝnatha pitāmahān\nācāryānmātulānbhrātṛnputrānpautrānsakhīṃstathā",
+   "essence": "There Arjuna sees fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, friends.",
+   "translation": ". Then, Arjuna (son of Pritha) saw there (in the armies) stationed, fathers and grandfathers, teachers, maternal uncles, brothers, sons, grandsons and friends too.",
+   "anvaya": [
+    {
+     "word": "तत्र",
+     "meaning": "there"
+    },
+    {
+     "word": "अपश्यत्",
+     "meaning": "saw"
+    },
+    {
+     "word": "स्थितान्",
+     "meaning": "standing"
+    },
+    {
+     "word": "पार्थः",
+     "meaning": "Partha (Arjuna)"
+    },
+    {
+     "word": "पितॄन्",
+     "meaning": "fathers (paternal elders)"
+    },
+    {
+     "word": "अथ पितामहान्",
+     "meaning": "and grandfathers"
+    },
+    {
+     "word": "आचार्यान्",
+     "meaning": "teachers"
+    },
+    {
+     "word": "मातुलान्",
+     "meaning": "maternal uncles"
+    },
+    {
+     "word": "भ्रातॄन्",
+     "meaning": "brothers"
+    },
+    {
+     "word": "पुत्रान्",
+     "meaning": "sons"
+    },
+    {
+     "word": "पौत्रान्",
+     "meaning": "grandsons"
+    },
+    {
+     "word": "सखीन् तथा",
+     "meaning": "and friends"
+    }
+   ],
+   "explanation": "The verse is almost nothing but a list, and that is its power. Arjuna looked for 'the ones who wish to fight' (1.22) — an army, a category. What he finds is relationships: every word in the list is a kinship term. The abstraction 'enemy' dissolves into faces he has known his whole life. War is possible against categories; it becomes almost impossible against names.",
+   "connection": "He asked to inspect an army (1.23); what he actually sees is his family arranged for slaughter.",
+   "schools_note": null,
+   "reflection": "In today's opposition, find the relative: the familiar face inside the unfamiliar position.",
+   "background": "Krishna drives the chariot to the middle of the field and halts it facing Bhishma and Drona with the words 'behold these assembled Kurus.' Arjuna looks — and in both armies sees only his own people: fathers, grandfathers, teachers, uncles, brothers, sons, companions."
+  },
+  {
+   "chapter": 1,
+   "verse": 27,
+   "speaker": null,
+   "devanagari": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्॥",
+   "transliteration": "śvaśurānsuhṛdaścaiva senayorubhayorapi\ntānsamīkṣya sa kaunteyaḥ sarvānbandhūnavasthitān",
+   "essence": "Fathers-in-law, well-wishers, in both armies — seeing all these kinsmen arrayed, Arjuna is overcome.",
+   "translation": ". (He saw) fathers-in-law and friends also in both the armies. The son of Kunti, Arjuna, seeing all those kinsmen thus standing arrayed, spoke this, sorrowfully filled with deep pity.",
+   "anvaya": [
+    {
+     "word": "श्वशुरान्",
+     "meaning": "fathers-in-law"
+    },
+    {
+     "word": "सुहृदः च एव",
+     "meaning": "and well-wishers"
+    },
+    {
+     "word": "सेनयोः उभयोः अपि",
+     "meaning": "in both the armies"
+    },
+    {
+     "word": "तान् समीक्ष्य",
+     "meaning": "seeing them carefully"
+    },
+    {
+     "word": "सः कौन्तेयः",
+     "meaning": "he, the son of Kunti"
+    },
+    {
+     "word": "सर्वान् बन्धून् अवस्थितान्",
+     "meaning": "all the kinsmen standing arrayed"
+    }
+   ],
+   "explanation": "Two small words finish the catastrophe: ubhayoḥ api — in both armies. Until now a side could still be chosen; kin here, foes there. The seeing (samīkṣya — looking thoroughly, not glancing) erases the line down the middle of the field. Whoever wins, Arjuna's family loses. The military map and the map of love no longer match, and he is standing on both at once.",
+   "connection": "The list of 1.26 spills over the battle-line itself: the kinship terms continue, but now on both sides.",
+   "schools_note": null,
+   "reflection": "Let yourself feel kinship even where there is conflict; the feeling is information, not weakness.",
+   "background": "Krishna drives the chariot to the middle of the field and halts it facing Bhishma and Drona with the words 'behold these assembled Kurus.' Arjuna looks — and in both armies sees only his own people: fathers, grandfathers, teachers, uncles, brothers, sons, companions."
+  },
+  {
+   "chapter": 1,
+   "verse": 28,
+   "speaker": "अर्जुन उवाच",
+   "devanagari": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्॥",
+   "transliteration": "kṛpayā parayāviṣṭo viṣīdannidamabravīt\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam",
+   "essence": "Filled with deepest pity, despairing, Arjuna speaks: seeing my own people ready to fight, Krishna —",
+   "translation": ". Arjuna said Seeing these, my kinsmen, O krishna, arrayed, eager to fight.",
+   "anvaya": [
+    {
+     "word": "कृपया परया आविष्टः",
+     "meaning": "possessed by overwhelming pity"
+    },
+    {
+     "word": "विषीदन्",
+     "meaning": "despairing, sinking"
+    },
+    {
+     "word": "इदम् अब्रवीत्",
+     "meaning": "spoke this"
+    },
+    {
+     "word": "दृष्ट्वा",
+     "meaning": "having seen"
+    },
+    {
+     "word": "इमं स्वजनम्",
+     "meaning": "these my own people"
+    },
+    {
+     "word": "कृष्ण",
+     "meaning": "O Krishna"
+    },
+    {
+     "word": "युयुत्सुम्",
+     "meaning": "eager to fight"
+    },
+    {
+     "word": "समुपस्थितम्",
+     "meaning": "assembled, at hand"
+    }
+   ],
+   "explanation": "The word for what floods Arjuna is kṛpā — pity, tenderness — and the grammar says it possesses him (āviṣṭaḥ, the word used for spirit-possession). This is not a decision he makes; it is a state that seizes him. Notice too what wounds him most: svajanam yuyutsum — my own people, *wanting* to fight. Not just that they will die, but that they are eager for it. The first spoken word of his lament is simply 'Krishna' — the crisis goes straight to the one who will answer it. Commentators name this state vishada — and then, startlingly, call the chapter Vishada-Yoga: despair itself counted as the first yoga, because only a self honestly broken open can receive. The body's mutiny is read as the old identity refusing to carry the new question.",
+   "connection": "The seeing of 1.26–27 now produces speech. Sanjaya hands the narration to Arjuna himself for the rest of the chapter.",
+   "schools_note": "Commentators pause on kṛpā: it looks like compassion, but the tradition reads it as moha (delusion) wearing compassion's clothes — true karuṇā clarifies; this paralyzes. Distinguishing the two is, in a sense, the work of the whole Gita.",
+   "reflection": "When your body trembles before a duty, write down what it is telling you before overruling it.",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 29,
+   "speaker": null,
+   "devanagari": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते॥",
+   "transliteration": "sīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati\nvepathuśca śarīre me romaharṣaśca jāyate",
+   "essence": "My limbs give way, my mouth dries up, my body trembles, my hair stands on end.",
+   "translation": ". My limbs fail and my mouth is parched, my body ivers and my hair stands on end.",
+   "anvaya": [
+    {
+     "word": "सीदन्ति",
+     "meaning": "sink down, fail"
+    },
+    {
+     "word": "मम गात्राणि",
+     "meaning": "my limbs"
+    },
+    {
+     "word": "मुखं च परिशुष्यति",
+     "meaning": "and my mouth dries up"
+    },
+    {
+     "word": "वेपथुः च शरीरे मे",
+     "meaning": "and trembling in my body"
+    },
+    {
+     "word": "रोमहर्षः च",
+     "meaning": "and horripilation"
+    },
+    {
+     "word": "जायते",
+     "meaning": "arises"
+    }
+   ],
+   "explanation": "Before Arjuna offers a single argument, his body argues for him. The Gita is precise about the physiology of anguish: failing limbs, dry mouth, tremor, bristling hair — a clinical description of what we would call an acute stress response. The text honors something we often forget: a worldview crisis is not first an intellectual event. It happens in the flesh, and the mind's reasons come limping after.",
+   "connection": "From 'my own people' (1.28) the camera turns inward: what that sight does to a body.",
+   "schools_note": null,
+   "reflection": "Dry mouth, racing heart — greet the body's panic by name today instead of pretending composure.",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 30,
+   "speaker": null,
+   "devanagari": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः॥",
+   "transliteration": "gāṇḍīvaṃ sraṃsate hastāttvakcaiva paridahyate\nna ca śaknomyavasthātuṃ bhramatīva ca me manaḥ",
+   "essence": "Gandiva slips from my hand, my skin burns, I cannot stand, my mind reels.",
+   "translation": ". The (bow) Gandiva slips from my hand, and also my skins burns all over; I am unable even to stand and my mind is reeling, as it were.",
+   "anvaya": [
+    {
+     "word": "गाण्डीवं",
+     "meaning": "Gandiva (Arjuna's bow)"
+    },
+    {
+     "word": "स्रंसते",
+     "meaning": "slips"
+    },
+    {
+     "word": "हस्तात्",
+     "meaning": "from the hand"
+    },
+    {
+     "word": "त्वक् च एव परिदह्यते",
+     "meaning": "and my skin burns all over"
+    },
+    {
+     "word": "न च शक्नोमि अवस्थातुम्",
+     "meaning": "and I cannot remain standing"
+    },
+    {
+     "word": "भ्रमति इव च मे मनः",
+     "meaning": "and my mind seems to whirl"
+    }
+   ],
+   "explanation": "Gandiva was Arjuna's identity made of wood and string — the bow that made him the world's archer. When it slips from his hand, the warrior-self slips with it. The sequence in these two verses runs body → bow → mind: first the flesh fails, then the instrument of his role, finally thought itself (bhramati — wanders, spins). When an identity collapses, it collapses in exactly this order: capacities, role, and then the story one tells oneself. Gandiva was the bow no force could strip from Arjuna's hand — gods had failed to. That it slips now, unfought, tells the tradition something precise: the crisis is not of strength but of meaning, and no muscle can grip what the heart has dropped.",
+   "connection": "Completes the symptom-list of 1.29 and ends at the mind — preparing the mental 'omens' of the next verse.",
+   "schools_note": null,
+   "reflection": "If your grip is failing on something, set it down consciously rather than letting it fall.",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 31,
+   "speaker": null,
+   "devanagari": "निमित्तानि च पश्यामि विपरीतानि केशव ।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे॥",
+   "transliteration": "nimittāni ca paśyāmi viparītāni keśava\nna ca śreyo'nupaśyāmi hatvā svajanamāhave",
+   "essence": "I see omens of evil, Keshava; I see no good in killing my own people in battle.",
+   "translation": ". And I see adverse omens, O Kesava. I do not see any good in killing my kinsmen in battle.",
+   "anvaya": [
+    {
+     "word": "निमित्तानि च पश्यामि",
+     "meaning": "and I see omens"
+    },
+    {
+     "word": "विपरीतानि",
+     "meaning": "adverse, inauspicious"
+    },
+    {
+     "word": "केशव",
+     "meaning": "O Keshava"
+    },
+    {
+     "word": "न च श्रेयः अनुपश्यामि",
+     "meaning": "nor do I foresee any good"
+    },
+    {
+     "word": "हत्वा",
+     "meaning": "having killed"
+    },
+    {
+     "word": "स्वजनम्",
+     "meaning": "my own people"
+    },
+    {
+     "word": "आहवे",
+     "meaning": "in battle"
+    }
+   ],
+   "explanation": "A whirling mind starts reading the world as a text of doom: nimittāni, omens. But buried in Arjuna's panic is the Gita's most important word making its first appearance — śreyas, the truly good, the highest welfare, as opposed to mere pleasure or gain. Arjuna is right that he cannot see śreyas in this slaughter. His error, the chapters ahead will show, is in where he is looking for it. The question 'what is śreyas?' is the engine of the entire dialogue.",
+   "connection": "The reeling mind of 1.30 now projects outward as omens — and stumbles onto the key word, śreyas.",
+   "schools_note": null,
+   "reflection": "Notice the omens you collect when you already want to quit — fear is a skilled curator.",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 32,
+   "speaker": null,
+   "devanagari": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा॥",
+   "transliteration": "na kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca\nkiṃ no rājyena govinda kiṃ bhogairjīvitena vā",
+   "essence": "I desire no victory, Krishna, nor kingdom, nor pleasures. What is kingdom to us, what enjoyment, or life itself?",
+   "translation": ". I desire not victory, O Krishna, nor kingdom, nor pleasures. Of what avail is dominion to us, O Krishna, or pleasures or even life?",
+   "anvaya": [
+    {
+     "word": "न काङ्क्षे",
+     "meaning": "I do not desire"
+    },
+    {
+     "word": "विजयं",
+     "meaning": "victory"
+    },
+    {
+     "word": "कृष्ण",
+     "meaning": "O Krishna"
+    },
+    {
+     "word": "न च राज्यं सुखानि च",
+     "meaning": "nor kingdom, nor pleasures"
+    },
+    {
+     "word": "किं नः राज्येन",
+     "meaning": "what use is kingdom to us"
+    },
+    {
+     "word": "गोविन्द",
+     "meaning": "O Govinda"
+    },
+    {
+     "word": "किं भोगैः",
+     "meaning": "what use are enjoyments"
+    },
+    {
+     "word": "जीवितेन वा",
+     "meaning": "or life itself"
+    }
+   ],
+   "explanation": "Arjuna begins to reason, and his reasoning is not foolish — it is the logic of means and ends. Victory, kingdom, pleasure are means; people are the ends for whom one wants them. The rhetorical questions (kim... kim...) escalate from kingdom to enjoyment to life itself: a man auditing his motivations and finding every account empty. This is genuine insight into the hollowness of prizes — arrived at, however, in a way that conveniently argues for walking away.",
+   "connection": "Having seen no śreyas in fighting (1.31), he now dismantles the ordinary reasons for it: the spoils.",
+   "schools_note": null,
+   "reflection": "Ask honestly: is there a victory you are chasing whose taste you no longer want?",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 33,
+   "speaker": null,
+   "devanagari": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च॥",
+   "transliteration": "yeṣāmarthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca\nta ime'vasthitā yuddhe prāṇāṃstyaktvā dhanāni ca",
+   "essence": "Those for whose sake we want kingdom and pleasures stand here in battle, staking life and wealth.",
+   "translation": ". Those for whose sake we desire kingdom, enjoyments and pleasures, stand here in battle, having renounced life and wealth.",
+   "anvaya": [
+    {
+     "word": "येषाम् अर्थे",
+     "meaning": "for whose sake"
+    },
+    {
+     "word": "काङ्क्षितं नः",
+     "meaning": "is desired by us"
+    },
+    {
+     "word": "राज्यं भोगाः सुखानि च",
+     "meaning": "kingdom, enjoyments and pleasures"
+    },
+    {
+     "word": "ते इमे अवस्थिताः युद्धे",
+     "meaning": "they stand here in battle"
+    },
+    {
+     "word": "प्राणान् त्यक्त्वा",
+     "meaning": "giving up their lives"
+    },
+    {
+     "word": "धनानि च",
+     "meaning": "and riches"
+    }
+   ],
+   "explanation": "Here the means-end logic closes its circle. A kingdom is wanted *for* one's people — teachers, fathers, sons. But the very people who give the prize its meaning are the ones who must be killed to win it. Victory would hand Arjuna a feast with no one left to share it. As a piece of reasoning it is airtight; what it quietly assumes is that family happiness is the highest end there is. That assumption is what Krishna will eventually question.",
+   "connection": "Answers the rhetorical 'what use is kingdom?' of 1.32: its purpose stands on the field, about to die.",
+   "schools_note": null,
+   "reflection": "List what you are sacrificing your peace for — then ask who that prize was originally for.",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 34,
+   "speaker": null,
+   "devanagari": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा॥",
+   "transliteration": "ācāryāḥ pitaraḥ putrāstathaiva ca pitāmahāḥ\nmātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinastathā",
+   "essence": "Teachers, fathers, sons and grandfathers, uncles, fathers-in-law, grandsons, brothers-in-law, kinsmen —",
+   "translation": ". Teachers, fathers, sons and also grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law and other relatives,-",
+   "anvaya": [
+    {
+     "word": "आचार्याः",
+     "meaning": "teachers"
+    },
+    {
+     "word": "पितरः",
+     "meaning": "fathers"
+    },
+    {
+     "word": "पुत्राः",
+     "meaning": "sons"
+    },
+    {
+     "word": "तथा एव च पितामहाः",
+     "meaning": "and likewise grandfathers"
+    },
+    {
+     "word": "मातुलाः",
+     "meaning": "maternal uncles"
+    },
+    {
+     "word": "श्वशुराः",
+     "meaning": "fathers-in-law"
+    },
+    {
+     "word": "पौत्राः",
+     "meaning": "grandsons"
+    },
+    {
+     "word": "श्यालाः",
+     "meaning": "brothers-in-law"
+    },
+    {
+     "word": "सम्बन्धिनः तथा",
+     "meaning": "and other relatives"
+    }
+   ],
+   "explanation": "Arjuna repeats, almost word for word, the list Sanjaya gave in 1.26 — but now in his own mouth. What the narrator described, the sufferer now recites, like a man counting his wounds aloud. Repetition in scripture is never padding: the list returning means the sight has lodged in him and become his inner inventory. Grief always keeps lists.",
+   "connection": "Sanjaya's catalogue of 1.26 returns in first person — observation has become lament.",
+   "schools_note": null,
+   "reflection": "The people entangled in your hardest decision: say their names slowly, and let the weight be real.",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 35,
+   "speaker": null,
+   "devanagari": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते॥",
+   "transliteration": "etānna hantumicchāmi ghnato'pi madhusūdana\napi trailokyarājyasya hetoḥ kiṃ nu mahīkṛte",
+   "essence": "These I would not kill even if they kill me — not for the three worlds' kingdom, let alone the earth.",
+   "translation": ". These I do not wish to kill, though they kill me, O Krishna, even for the sake of dominion over the three worlds; leave alone killing them for the sake of the earth.",
+   "anvaya": [
+    {
+     "word": "एतान् न हन्तुम् इच्छामि",
+     "meaning": "these I do not wish to kill"
+    },
+    {
+     "word": "घ्नतः अपि",
+     "meaning": "even if they kill (me)"
+    },
+    {
+     "word": "मधुसूदन",
+     "meaning": "O Madhusudana (slayer of Madhu)"
+    },
+    {
+     "word": "अपि त्रैलोक्यराज्यस्य हेतोः",
+     "meaning": "even for the kingship of the three worlds"
+    },
+    {
+     "word": "किं नु महीकृते",
+     "meaning": "how much less for the earth"
+    }
+   ],
+   "explanation": "The argument peaks in a vow with real moral grandeur: better to be killed than to kill these. The escalation — not for the three worlds, so certainly not for this scrap of earth — shows Arjuna at his noblest. And the chosen name cuts both ways: he calls Krishna Madhusudana, slayer of the demon Madhu, even while renouncing slaying. As if to say: killing demons is your work; these are not demons, they are my grandfather.",
+   "connection": "The means-end argument of 1.32–34 reaches its absolute: no prize at any scale justifies this price.",
+   "schools_note": null,
+   "reflection": "Find one ambition you would not kill for — not even for three worlds — and feel its right size.",
+   "background": "Standing between the armies, gazing at his kinsmen arrayed for mutual slaughter, Arjuna speaks for the first time — to Krishna, as friend to friend. His body mutinies as he speaks: limbs failing, mouth drying, the great bow Gandiva slipping from his hand."
+  },
+  {
+   "chapter": 1,
+   "verse": 36,
+   "speaker": null,
+   "devanagari": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः॥",
+   "transliteration": "nihatya dhārtarāṣṭrānnaḥ kā prītiḥ syājjanārdana\npāpamevāśrayedasmānhatvaitānātatāyinaḥ",
+   "essence": "What joy could come from slaying Dhritarashtra's sons? Sin alone would cling to us for killing these aggressors.",
+   "translation": ". By killing these sons of Dhritarashtra, what pleasure can be ours, O Janardana? Only sin will accrue to us from killing these felons.",
+   "anvaya": [
+    {
+     "word": "निहत्य",
+     "meaning": "having slain"
+    },
+    {
+     "word": "धार्तराष्ट्रान्",
+     "meaning": "the sons of Dhritarashtra"
+    },
+    {
+     "word": "नः का प्रीतिः स्यात्",
+     "meaning": "what joy would be ours"
+    },
+    {
+     "word": "जनार्दन",
+     "meaning": "O Janardana"
+    },
+    {
+     "word": "पापम् एव आश्रयेत् अस्मान्",
+     "meaning": "sin alone would take hold of us"
+    },
+    {
+     "word": "हत्वा एतान् आततायिनः",
+     "meaning": "having killed these aggressors"
+    }
+   ],
+   "explanation": "Arjuna now argues against the strongest case for war, and he knows the law he is bending. An ātatāyin — arsonist, poisoner, abductor, usurper — may lawfully be killed on sight, and Duryodhana's party has been all of these. Arjuna concedes the category ('these ātatāyins') and overrides it: lawful or not, the killing would stain us. He is claiming there is a court above the law books — that legality and śreyas are not the same thing. It is his most sophisticated move, and still Krishna will not let it stand unexamined.",
+   "connection": "Extends the vow of 1.35 to even the legally killable: not just love, now dharma itself seems to forbid the war.",
+   "schools_note": "The tradition debates this openly: Smriti texts permit slaying ātatāyins, yet Arjuna appeals past them. Commentators note that where codes conflict, the deeper question — what purifies versus what stains the agent — must decide; that question is the Gita's true subject.",
+   "reflection": "Revenge promises relief and delivers residue. Recall once when winning left a film on everything.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 37,
+   "speaker": null,
+   "devanagari": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव॥",
+   "transliteration": "tasmānnārhā vayaṃ hantuṃ dhārtarāṣṭrānsvabāndhavān\nsvajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava",
+   "essence": "Therefore we should not kill our own kinsmen. How could we be happy, Madhava, having slain our own people?",
+   "translation": ". Therefore, we should not kill the sons of Dhritarashtra, our relatives; for how can we be happy by killing our own people, O Madhava (Krishna)?",
+   "anvaya": [
+    {
+     "word": "तस्मात्",
+     "meaning": "therefore"
+    },
+    {
+     "word": "न अर्हाः वयं हन्तुम्",
+     "meaning": "we ought not kill"
+    },
+    {
+     "word": "धार्तराष्ट्रान्",
+     "meaning": "the sons of Dhritarashtra"
+    },
+    {
+     "word": "स्वबान्धवान्",
+     "meaning": "our own kinsmen"
+    },
+    {
+     "word": "स्वजनं हि कथं हत्वा",
+     "meaning": "for having killed our own people, how"
+    },
+    {
+     "word": "सुखिनः स्याम",
+     "meaning": "could we be happy"
+    },
+    {
+     "word": "माधव",
+     "meaning": "O Madhava"
+    }
+   ],
+   "explanation": "Tasmāt — 'therefore' — the word of a man resting his case. But look at the verdict's final ground: sukhinaḥ syāma, 'could we be *happy*?' The argument that began with śreyas (the highest good, 1.31) quietly lands on sukha (happiness, comfort). The slippage is the tell. Arjuna's reasoning is sincere and humane, yet it cannot tell the difference between what is right and what he can bear. Teaching him that difference is the work Krishna takes up in chapter 2.",
+   "connection": "The 'therefore' gathers 1.31–36 into a verdict — whose ground has shifted from the good to the bearable.",
+   "schools_note": null,
+   "reflection": "Refuse one profitable thing today simply because of what gaining it would make you.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 38,
+   "speaker": null,
+   "devanagari": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्॥",
+   "transliteration": "yadyapyete na paśyanti lobhopahatacetasaḥ\nkulakṣayakṛtaṃ doṣaṃ mitradrohe ca pātakam",
+   "essence": "Even if they, blinded by greed, see no fault in destroying the family, no crime in betraying friends —",
+   "translation": ". Though they, with intelligence overpowered by greed, see no evil in the destruction of families, and no sin in hostility to friends,",
+   "anvaya": [
+    {
+     "word": "यदि अपि एते न पश्यन्ति",
+     "meaning": "even if these do not see"
+    },
+    {
+     "word": "लोभोपहतचेतसः",
+     "meaning": "their minds corrupted by greed"
+    },
+    {
+     "word": "कुलक्षयकृतं दोषम्",
+     "meaning": "the evil in the destruction of the family"
+    },
+    {
+     "word": "मित्रद्रोहे च पातकम्",
+     "meaning": "and the crime in treachery to friends"
+    }
+   ],
+   "explanation": "A new movement begins: we versus they. *They* cannot see — lobha-upahata-cetasaḥ, minds struck down by greed — but *we* see. Arjuna's diagnosis of the Kauravas is accurate; greed truly has eaten their judgment. The danger is subtler: the moment 'I see clearly and they are blind' becomes the premise, one's own blindness gets a place to hide. Arjuna's clarity about their delusion is itself entangled in his own.",
+   "connection": "Having closed his own case (1.37), he turns to pre-empt the obvious objection: but *they* started it.",
+   "schools_note": null,
+   "reflection": "Others' blindness does not excuse yours; where you see clearly, you are the responsible one.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 39,
+   "speaker": null,
+   "devanagari": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन॥",
+   "transliteration": "kathaṃ na jñeyamasmābhiḥ pāpādasmānnivartitum\nkulakṣayakṛtaṃ doṣaṃ prapaśyadbhirjanārdana",
+   "essence": "— why should we, who clearly see the evil of destroying the family, not know to turn back from this sin?",
+   "translation": ". Why should not we who clearly see evil in the destruction of families, learn to turn away from this sin, O Janardana (Krishna)?",
+   "anvaya": [
+    {
+     "word": "कथं न ज्ञेयम् अस्माभिः",
+     "meaning": "why should it not be known by us"
+    },
+    {
+     "word": "पापात् अस्मात् निवर्तितुम्",
+     "meaning": "to turn back from this sin"
+    },
+    {
+     "word": "कुलक्षयकृतं दोषम्",
+     "meaning": "the evil wrought by destroying the family"
+    },
+    {
+     "word": "प्रपश्यद्भिः",
+     "meaning": "by us who clearly see"
+    },
+    {
+     "word": "जनार्दन",
+     "meaning": "O Janardana"
+    }
+   ],
+   "explanation": "The sentence completes: their blindness does not license ours. As ethics this is unimpeachable — wrong does not become right because the other side committed it first. The key verb is nivartitum, to turn back, to withdraw: the first explicit naming of retreat as the righteous act. Arjuna has now built a complete moral identity around leaving the field. What feels like conscience is also, conveniently, an exit.",
+   "connection": "Completes the sentence begun in 1.38 and names, for the first time, the conclusion: turning back.",
+   "schools_note": null,
+   "reflection": "Someone in every collapsing situation must be the one who still sees. Today, let it be you.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 40,
+   "speaker": null,
+   "devanagari": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत॥",
+   "transliteration": "kulakṣaye praṇaśyanti kuladharmāḥ sanātanāḥ\ndharme naṣṭe kulaṃ kṛtsnamadharmo'bhibhavatyuta",
+   "essence": "When the family is destroyed, its eternal laws perish; when dharma perishes, adharma overwhelms the whole family.",
+   "translation": ". In the destruction of a family, the immemorial religious rites of that family perish; on the destruction of spirituality, impiety, indeed, overcomes the whole family.",
+   "anvaya": [
+    {
+     "word": "कुलक्षये",
+     "meaning": "when the family is destroyed"
+    },
+    {
+     "word": "प्रणश्यन्ति",
+     "meaning": "perish"
+    },
+    {
+     "word": "कुलधर्माः सनातनाः",
+     "meaning": "the eternal family laws"
+    },
+    {
+     "word": "धर्मे नष्टे",
+     "meaning": "when dharma is destroyed"
+    },
+    {
+     "word": "कुलं कृत्स्नम्",
+     "meaning": "the entire family"
+    },
+    {
+     "word": "अधर्मः अभिभवति उत",
+     "meaning": "adharma indeed overwhelms"
+    }
+   ],
+   "explanation": "Arjuna's final argument is sociological, and it is serious: war kills the men who carry a family's traditions — its kula-dharma, the inherited grammar of rites, duties, restraints. Lose the carriers and the tradition dies with them; into that vacuum, adharma flows like water into a breached dam. He is describing what we would call the collapse of an institution's living memory. The cascade he now unrolls (1.40–44) is his most systematic case: not my grief, but civilization itself, forbids this war. The commentators note that everything Arjuna says here is, by the social theory of his age, perfectly correct — and still inadequate. The Gita will not refute this speech point by point; it will dissolve the frame in which it is the only speech possible. Right premises, wrongly sized, are the subtlest trap.",
+   "connection": "From personal grief (1.28–37) and comparative ethics (1.38–39), the argument now goes structural: what war does to the social order.",
+   "schools_note": null,
+   "reflection": "Consider what traditions actually hold your people together — and which ones merely hold them still.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 41,
+   "speaker": null,
+   "devanagari": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः॥",
+   "transliteration": "adharmābhibhavātkṛṣṇa praduṣyanti kulastriyaḥ\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇasaṅkaraḥ",
+   "essence": "When adharma prevails, the family's women are corrupted; when women are corrupted, confusion of lineage is born.",
+   "translation": ". By the prevalence of impiety, O Krishna, the women of the family become corrupt; and , women being corrupted, O Varshenya (descendant of Vrishni), there arises intermingling of castes.",
+   "anvaya": [
+    {
+     "word": "अधर्माभिभवात्",
+     "meaning": "from the prevailing of adharma"
+    },
+    {
+     "word": "कृष्ण",
+     "meaning": "O Krishna"
+    },
+    {
+     "word": "प्रदुष्यन्ति",
+     "meaning": "are corrupted"
+    },
+    {
+     "word": "कुलस्त्रियः",
+     "meaning": "the women of the family"
+    },
+    {
+     "word": "स्त्रीषु दुष्टासु",
+     "meaning": "when the women are corrupted"
+    },
+    {
+     "word": "वार्ष्णेय",
+     "meaning": "O Varshneya (descendant of Vrishni)"
+    },
+    {
+     "word": "जायते वर्णसङ्करः",
+     "meaning": "intermixture of varna is born"
+    }
+   ],
+   "explanation": "The cascade continues in the idiom of Arjuna's age: with the men dead and order broken, the lineage system itself — varṇa-saṅkara, the 'mixing' his society most feared — unravels. Read him historically, not as a moral authority for today: he is voicing the deepest anxiety of an ancient patriarchal order, that war dissolves the very structures that tell people who they are. The Gita records this fear; it does not, in the end, endorse it as the deepest truth. Krishna will answer Arjuna from another level entirely — and notably never engages this argument on its own terms.",
+   "connection": "Step two of the cascade begun in 1.40: from broken dharma to broken lineage.",
+   "schools_note": "Later tradition treats these verses as Arjuna's view in extremis, not the Gita's teaching — evidenced by Krishna ignoring the social argument entirely and answering instead with the immortality of the self (2.11 onward).",
+   "reflection": "When structures fail, the most vulnerable absorb the damage first. Ask who that is in your world.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 42,
+   "speaker": null,
+   "devanagari": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च ।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः॥",
+   "transliteration": "saṅkaro narakāyaiva kulaghnānāṃ kulasya ca\npatanti pitaro hyeṣāṃ luptapiṇḍodakakriyāḥ",
+   "essence": "That confusion drags family and family-destroyers to hell; the ancestors fall, deprived of rice and water offerings.",
+   "translation": ". Confusion of castes leads to hell the slayers of the family, for their forefathers fall, deprived of the offerings of rice-ball and water (libations).",
+   "anvaya": [
+    {
+     "word": "सङ्करः",
+     "meaning": "that confusion (of lineage)"
+    },
+    {
+     "word": "नरकाय एव",
+     "meaning": "leads only to hell"
+    },
+    {
+     "word": "कुलघ्नानां कुलस्य च",
+     "meaning": "for the destroyers of the family and the family itself"
+    },
+    {
+     "word": "पतन्ति पितरः हि एषाम्",
+     "meaning": "their ancestors verily fall"
+    },
+    {
+     "word": "लुप्तपिण्डोदकक्रियाः",
+     "meaning": "deprived of the offerings of rice-ball and water"
+    }
+   ],
+   "explanation": "The cascade now reaches beyond the living: with no qualified descendants to offer piṇḍa and water, even the dead fall from their world. In Arjuna's cosmology the family is a vertical community — ancestors above, descendants below, the living as the link that feeds both directions. War, he argues, snaps the chain in the middle and the whole line, past and future, plummets together. It is the widest possible scope for the harm: this battle would damage eternity.",
+   "connection": "Step three of the cascade: the catastrophe of 1.41 propagates upward to the ancestors themselves.",
+   "schools_note": null,
+   "reflection": "Notice how one broken link is never one: trace a single neglect outward through its generations.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 43,
+   "speaker": null,
+   "devanagari": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः॥",
+   "transliteration": "doṣairetaiḥ kulaghnānāṃ varṇasaṅkarakārakaiḥ\nutsādyante jātidharmāḥ kuladharmāśca śāśvatāḥ",
+   "essence": "By these crimes of the family-destroyers, the immemorial laws of caste and family are uprooted.",
+   "translation": ". By these evil deeds of the destroyers of the family, which cause confusion of castes, the eternal religious rites of the caste and the family are destroyed.",
+   "anvaya": [
+    {
+     "word": "दोषैः एतैः",
+     "meaning": "by these evils"
+    },
+    {
+     "word": "कुलघ्नानां",
+     "meaning": "of the family-destroyers"
+    },
+    {
+     "word": "वर्णसङ्करकारकैः",
+     "meaning": "which cause the confusion of varna"
+    },
+    {
+     "word": "उत्साद्यन्ते",
+     "meaning": "are uprooted, abolished"
+    },
+    {
+     "word": "जातिधर्माः",
+     "meaning": "the laws of the community"
+    },
+    {
+     "word": "कुलधर्माः च शाश्वताः",
+     "meaning": "and the eternal family laws"
+    }
+   ],
+   "explanation": "The word utsādyante means torn up by the roots — what 1.40 called 'perishing' is now total extirpation. Arjuna's vocabulary insists on permanence lost: dharmas that are sanātana, śāśvata — eternal — destroyed by one afternoon of archery. Notice the quiet contradiction he cannot see: if these laws are truly eternal, how can arrows abolish them? The tension between what is genuinely imperishable and what merely feels permanent is precisely where Krishna's answer will begin.",
+   "connection": "Summarizes the cascade of 1.40–42 in its starkest form: eternal structures uprooted.",
+   "schools_note": null,
+   "reflection": "What did your ancestors hand you that you are still feeding — and what have you let go hungry?",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 44,
+   "speaker": null,
+   "devanagari": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\nनरके नियतं वासो भवतीत्यनुशुश्रुम॥",
+   "transliteration": "utsannakuladharmāṇāṃ manuṣyāṇāṃ janārdana\nnarake niyataṃ vāso bhavatītyanuśuśruma",
+   "essence": "Men whose family rites are destroyed dwell endlessly in hell — so have we heard, Janardana.",
+   "translation": ". We have heard, O Janardana, that inevitable is the dwelling for an unknown period in hell for those men in whose families the religious practices have been destroyed.",
+   "anvaya": [
+    {
+     "word": "उत्सन्नकुलधर्माणां",
+     "meaning": "of those whose family-dharmas are destroyed"
+    },
+    {
+     "word": "मनुष्याणां",
+     "meaning": "of men"
+    },
+    {
+     "word": "जनार्दन",
+     "meaning": "O Janardana"
+    },
+    {
+     "word": "नरके",
+     "meaning": "in hell"
+    },
+    {
+     "word": "नियतं",
+     "meaning": "certainly, indefinitely"
+    },
+    {
+     "word": "वासः भवति",
+     "meaning": "is the dwelling"
+    },
+    {
+     "word": "इति अनुशुश्रुम",
+     "meaning": "thus have we heard"
+    }
+   ],
+   "explanation": "Arjuna seals his case with a citation: iti anuśuśruma, 'so have we heard' — the formula for received tradition. He is no longer arguing from feeling but from authority, the inherited word. It is the most honest moment of his lament: pressed to the edge of what he knows, he reaches for what he was told. The Gita will honor scripture but not stop there — Krishna will ask him, in effect, to move from what was heard to what can be known.",
+   "connection": "The cascade closes with an appeal to tradition's authority — the last brick in Arjuna's wall of reasons.",
+   "schools_note": null,
+   "reflection": "Sit one minute with the worst-case story your mind tells, without arguing or obeying it.",
+   "background": "Arjuna's despair organizes itself into argument. Still addressing Krishna between the silent armies, he reasons through sin, the corruption of victory, and the social theory of his age — the destruction of family, its laws, and the generations — to prove the war unfightable."
+  },
+  {
+   "chapter": 1,
+   "verse": 45,
+   "speaker": null,
+   "devanagari": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥",
+   "transliteration": "aho bata mahatpāpaṃ kartuṃ vyavasitā vayam\nyadrājyasukhalobhena hantuṃ svajanamudyatāḥ",
+   "essence": "Alas! We are resolved to commit a great sin — ready to kill our own people out of greed for royal pleasures.",
+   "translation": ". Alas! We are involved in a great sin, in that we are prepared to kill our kinsmen, through greed for the pleasures of a kingdom.",
+   "anvaya": [
+    {
+     "word": "अहो बत",
+     "meaning": "alas, alas"
+    },
+    {
+     "word": "महत् पापं",
+     "meaning": "a great sin"
+    },
+    {
+     "word": "कर्तुं व्यवसिताः वयम्",
+     "meaning": "we are resolved to commit"
+    },
+    {
+     "word": "यत्",
+     "meaning": "in that"
+    },
+    {
+     "word": "राज्यसुखलोभेन",
+     "meaning": "out of greed for the pleasures of kingship"
+    },
+    {
+     "word": "हन्तुं स्वजनम् उद्यताः",
+     "meaning": "we are prepared to kill our own people"
+    }
+   ],
+   "explanation": "The cry aho bata — alas! — and then a devastating self-inclusion: *we* are resolved, *our* greed. The accusation of 1.38 ('their minds corrupted by greed') has swung around and struck Arjuna himself. For one verse he sees no difference between the two armies: everyone on this field, himself included, has been bought. It is his bleakest and in some ways truest perception — and it leaves him nowhere at all to stand.",
+   "connection": "The 'we see / they are blind' division of 1.38–39 collapses: the greed he diagnosed in them he now confesses in himself.",
+   "schools_note": null,
+   "reflection": "Catch yourself mid-rationalization today: the moment a noble reason arrives suspiciously on time.",
+   "background": "The speech reaches its end: Arjuna declares it better to be slain unresisting than to fight, casts away bow and arrows, and sinks down on the chariot seat between the two armies — his mind overwhelmed with sorrow. The stage for the entire Gita is now set."
+  },
+  {
+   "chapter": 1,
+   "verse": 46,
+   "speaker": null,
+   "devanagari": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्॥",
+   "transliteration": "yadi māmapratīkāramaśastraṃ śastrapāṇayaḥ\ndhārtarāṣṭrā raṇe hanyustanme kṣemataraṃ bhavet",
+   "essence": "Better for me if Dhritarashtra's armed sons killed me in battle — unresisting and unarmed.",
+   "translation": ". If the sons of Dhritarashtra with weapons in hand should slay me in battle, unresisting and unarmed, that would be better for me.",
+   "anvaya": [
+    {
+     "word": "यदि",
+     "meaning": "if"
+    },
+    {
+     "word": "माम्",
+     "meaning": "me"
+    },
+    {
+     "word": "अप्रतीकारम्",
+     "meaning": "unresisting"
+    },
+    {
+     "word": "अशस्त्रं",
+     "meaning": "unarmed"
+    },
+    {
+     "word": "शस्त्रपाणयः",
+     "meaning": "weapons in hand"
+    },
+    {
+     "word": "धार्तराष्ट्राः",
+     "meaning": "the sons of Dhritarashtra"
+    },
+    {
+     "word": "रणे हन्युः",
+     "meaning": "should slay in battle"
+    },
+    {
+     "word": "तत् मे क्षेमतरं भवेत्",
+     "meaning": "that would be better for me"
+    }
+   ],
+   "explanation": "The lament's last word is a death-wish dressed as ethics: let them kill me unarmed, that would be kṣemataram — 'safer', more secure. The comparative is haunting: safer than what? Than living with the guilt, than choosing at all. Arjuna has reasoned his way to preferring annihilation over action. When a chain of sincere arguments terminates in 'better that I cease', the flaw is rarely in the final step — it is in a premise buried far upstream. Finding that premise is what the remaining seventeen chapters are for.",
+   "connection": "The vow of 1.35 ('I would not kill even if killed') hardens into its extreme: actively preferring to be slain.",
+   "schools_note": null,
+   "reflection": "There is a martyrdom that is really avoidance. Ask whether your surrender serves anyone at all.",
+   "background": "The speech reaches its end: Arjuna declares it better to be slain unresisting than to fight, casts away bow and arrows, and sinks down on the chariot seat between the two armies — his mind overwhelmed with sorrow. The stage for the entire Gita is now set."
+  },
+  {
+   "chapter": 1,
+   "verse": 47,
+   "speaker": "सञ्जय उवाच",
+   "devanagari": "एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् ।\nविसृज्य सशरं चापं शोकसंविग्नमानसः॥",
+   "transliteration": "evamuktvārjunaḥ saṅkhye rathopastha upāviśat\nvisṛjya saśaraṃ cāpaṃ śokasaṃvignamānasaḥ",
+   "essence": "Having spoken thus, Arjuna sinks onto the chariot seat, casting away bow and arrows, his mind shaken with grief.",
+   "translation": ". Sanjaya said Having thus spoken in the midst of the battlefield, Arjuna, casting away his bow and arrow, sat down on the seat of the chariot with his mind overwhelmed with sorrow.",
+   "anvaya": [
+    {
+     "word": "एवम् उक्त्वा",
+     "meaning": "having spoken thus"
+    },
+    {
+     "word": "अर्जुनः",
+     "meaning": "Arjuna"
+    },
+    {
+     "word": "सङ्ख्ये",
+     "meaning": "in the battle"
+    },
+    {
+     "word": "रथोपस्थे",
+     "meaning": "on the chariot seat"
+    },
+    {
+     "word": "उपाविशत्",
+     "meaning": "sat down"
+    },
+    {
+     "word": "विसृज्य",
+     "meaning": "casting away"
+    },
+    {
+     "word": "सशरं चापं",
+     "meaning": "the bow together with the arrows"
+    },
+    {
+     "word": "शोकसंविग्नमानसः",
+     "meaning": "his mind overwhelmed with sorrow"
+    }
+   ],
+   "explanation": "Sanjaya returns to close the chapter with a single image: the world's greatest archer sitting down in the well of his chariot, bow and arrows dropped, mind churning with śoka. He sat down *between the two armies* — unable to advance, unwilling to retreat, paralyzed at the exact midpoint of his life's contradiction. Every argument has been made and nothing is resolved. The chapter is titled Arjuna-viṣāda-yoga: even this despair is called a yoga, because honest collapse is the doorway. Where a man can no longer move, he can finally listen. He sinks down in the chariot's rear — between the armies, between identities, in the exact middle of the field. Tradition reads the posture as the prerequisite of all instruction: bow down, sorrow up, ready to listen. The Gita's first chapter teaches only this: how to arrive at the honest bottom.",
+   "connection": "The body that trembled (1.29–30) completes its surrender. The student's seat is taken; the teaching can begin.",
+   "schools_note": null,
+   "reflection": "When you finally sink down, sink honestly. Collapse witnessed without disguise is where teaching begins.",
+   "background": "The speech reaches its end: Arjuna declares it better to be slain unresisting than to fight, casts away bow and arrows, and sinks down on the chariot seat between the two armies — his mind overwhelmed with sorrow. The stage for the entire Gita is now set."
+  }
+ ]
+}

@@ -1,0 +1,944 @@
+{
+ "chapter": 5,
+ "name": "कर्मसंन्यासयोग",
+ "transliteration": "Karm Sanyās Yog",
+ "meaning": "The Yoga of Renunciation",
+ "teaching": "Asked to choose between renouncing action and performing it, Krishna refuses the choice: both lead to freedom, but acting without attachment is the more honest road. True renunciation is inner — the knower acts, yet holds 'I do nothing at all.' Equanimity, not abstention, is the mark of the free. The quarrel between renouncing and acting is dissolved from the inside: both paths meet in the one who works with offered hands and a lotus-leaf heart. Peace, the chapter insists, is found knowing the Friend of all beings.",
+ "key_verses": "५.८–१० · ५.१८–१९ · ५.२३ · ५.२९",
+ "questions": [
+  "What have you given up outwardly while still gripping it inwardly?",
+  "Could you do today's most tedious task as if you were not its doer?",
+  "Where do you still divide the world into what elevates you and what is beneath you?"
+ ],
+ "verse_count": 29,
+ "verses": [
+  {
+   "chapter": 5,
+   "verse": 1,
+   "speaker": "अर्जुन उवाच",
+   "devanagari": "संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।\nयच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्॥",
+   "transliteration": "saṃnyāsaṃ karmaṇāṃ kṛṣṇa punaryogaṃ ca śaṃsasi\nyacchreya etayorekaṃ tanme brūhi suniścitam",
+   "essence": "Arjuna asks: you praise renunciation of actions, Krishna, and again yoga. Which one is better? Tell me decisively.",
+   "translation": "Renunciation of actions, O Krishna, Thou praisest, and again Yoga. Tell me conclusively that which is the better of the two.",
+   "anvaya": [
+    {
+     "word": "संन्यासं कर्मणां कृष्ण",
+     "meaning": "renunciation of actions, O Krishna"
+    },
+    {
+     "word": "पुनः योगं च शंससि",
+     "meaning": "and again you praise yoga"
+    },
+    {
+     "word": "यत् श्रेयः एतयोः एकं",
+     "meaning": "which one of these two is better"
+    },
+    {
+     "word": "तत् मे ब्रूहि सुनिश्चितम्",
+     "meaning": "that tell me, well-decided"
+    }
+   ],
+   "explanation": "Arjuna's bookkeeping is fair: chapter 4 ended praising both the renunciation of works (4.41) and the command to rise and act (4.42) in consecutive breaths. He asks his recurring question a third time — which one, decided — still hoping the spiritual life resolves to a single instruction. The persistence is not dullness; it is how a practical man honors a teaching: by demanding it be actionable.",
+   "connection": "Triggered by the apparent double message of 4.41–42, echoing the 'one thing' demands of 2.7 and 3.2.",
+   "schools_note": null,
+   "reflection": "When two goods compete for you, ask a wiser voice the decisive question: which is better for me?",
+   "background": "Arjuna opens the chapter with his accounting of a contradiction: Krishna has praised renouncing actions and also performing them. He asks for one answer, decided — which of the two is better?"
+  },
+  {
+   "chapter": 5,
+   "verse": 2,
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच ।\nसंन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।\nतयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते॥",
+   "transliteration": "saṃnyāsaḥ karmayogaśca niḥśreyasakarāvubhau\ntayostu karmasaṃnyāsātkarmayogo viśiṣyate",
+   "essence": "Both renunciation and the yoga of action lead to the highest good; but of the two, karma-yoga excels renunciation of action.",
+   "translation": "Renunciation and the Yoga of action both lead to the highest bliss; but of the two, the Yoga of action is superior to the renunciation of action.",
+   "anvaya": [
+    {
+     "word": "संन्यासः कर्मयोगः च",
+     "meaning": "renunciation and the yoga of action"
+    },
+    {
+     "word": "निःश्रेयसकरौ उभौ",
+     "meaning": "both are makers of the highest good"
+    },
+    {
+     "word": "तयोः तु कर्मसंन्यासात्",
+     "meaning": "but of these two, than renunciation of action"
+    },
+    {
+     "word": "कर्मयोगः विशिष्यते",
+     "meaning": "karma-yoga is superior"
+    }
+   ],
+   "explanation": "A straight answer, rare and therefore weighty: both roads reach niḥśreyasa — but for *you*, for the embodied beginner, working wins. Not because renunciation is false; because renunciation is an achievement masquerading as a starting point. One cannot resign from what one has not yet stopped craving; karma-yoga is how the craving is actually worked out of the system.",
+   "connection": "Answers 5.1 cleanly, then spends the chapter showing why the two roads were never really two.",
+   "schools_note": null,
+   "reflection": "Choose the engaged path today simply because it is doable from exactly where you stand.",
+   "background": "Krishna ranks them — both lead to the highest, but karma-yoga excels formal renunciation — and then dissolves the ranking: the true sannyasi is the one beyond cravings and aversions in the midst of work; Sankhya and Yoga are one path seen by the childish as two."
+  },
+  {
+   "chapter": 5,
+   "verse": 3,
+   "speaker": null,
+   "devanagari": "ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति ।\nनिर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते॥",
+   "transliteration": "jñeyaḥ sa nityasaṃnyāsī yo na dveṣṭi na kāṅkṣati\nnirdvandvo hi mahābāho sukhaṃ bandhātpramucyate",
+   "essence": "Know as a perpetual renunciate the one who neither hates nor desires; beyond the pairs, Mahabaho, one is easily released from bondage.",
+   "translation": "He should be known as a perpertual Sannyasi who neither hates nor desires; for, free from the pairs of opposites, O mighty-armed Arjuna, he is easily set free from bondage.",
+   "anvaya": [
+    {
+     "word": "ज्ञेयः सः नित्यसंन्यासी",
+     "meaning": "that one is to be known as a constant sannyasi"
+    },
+    {
+     "word": "यः न द्वेष्टि न काङ्क्षति",
+     "meaning": "who neither hates nor desires"
+    },
+    {
+     "word": "निर्द्वन्द्वः हि महाबाहो",
+     "meaning": "for, free of the pairs, O mighty-armed"
+    },
+    {
+     "word": "सुखं बन्धात् प्रमुच्यते",
+     "meaning": "easily from bondage one is released"
+    }
+   ],
+   "explanation": "Renunciation gets redefined out of geography: the nitya-sannyāsī is not the one who left home but the one whom craving and aversion have left — possibly while standing in an office, a kitchen, a chariot. The robe is incidental; nirdvandva, freedom from the push-pull pairs, is the substance. By this definition a working Arjuna could renounce more truly than a resentful hermit.",
+   "connection": "Begins dissolving 5.1's dichotomy: true sannyasa is a state achievable inside karma-yoga itself.",
+   "schools_note": null,
+   "reflection": "Be the constant renunciate once today: neither craving the pleasant task nor hating the unpleasant one.",
+   "background": "Krishna ranks them — both lead to the highest, but karma-yoga excels formal renunciation — and then dissolves the ranking: the true sannyasi is the one beyond cravings and aversions in the midst of work; Sankhya and Yoga are one path seen by the childish as two."
+  },
+  {
+   "chapter": 5,
+   "verse": 4,
+   "speaker": null,
+   "devanagari": "साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।\nएकमप्यास्थितः सम्यगुभयोर्विन्दते फलम्॥",
+   "transliteration": "sāṅkhyayogau pṛthagbālāḥ pravadanti na paṇḍitāḥ\nekamapyāsthitaḥ samyagubhayorvindate phalam",
+   "essence": "Children, not the wise, declare Sankhya and Yoga to be different. Established rightly in even one, a person finds the fruit of both.",
+   "translation": "Children, not the wise, speak of knowledge and the Yoga of action or the performance of action as though they are distinct and different; he who is truly established in one obtains the fruits of both.",
+   "anvaya": [
+    {
+     "word": "साङ्ख्ययोगौ पृथक् बालाः",
+     "meaning": "Sankhya and Yoga as separate, children"
+    },
+    {
+     "word": "प्रवदन्ति न पण्डिताः",
+     "meaning": "declare — not the learned"
+    },
+    {
+     "word": "एकम् अपि आस्थितः सम्यक्",
+     "meaning": "established rightly even in one"
+    },
+    {
+     "word": "उभयोः विन्दते फलम्",
+     "meaning": "one finds the fruit of both"
+    }
+   ],
+   "explanation": "The verdict on the whole debate: only bālāḥ — children in understanding — see two rival schools where the wise see one mountain with two faces. The operative word is samyak, *rightly*: knowledge truly lived issues in selfless action; selfless action truly practiced ripens into knowledge. Each path, taken to its depth, secretly performs the other.",
+   "connection": "Elevates 5.2's ranking into reconciliation: the comparison Arjuna keeps requesting rests on a beginner's distinction.",
+   "schools_note": "A key verse for every school: Shankara reads it as knowledge being the single real means, with karma-yoga as its purifier; Ramanuja as two genuine disciplines converging on the same vision. Both agree on its surface force — partisanship between the paths is immaturity.",
+   "reflection": "Stop splitting head and hands; let today's understanding act, and today's actions understand.",
+   "background": "Krishna ranks them — both lead to the highest, but karma-yoga excels formal renunciation — and then dissolves the ranking: the true sannyasi is the one beyond cravings and aversions in the midst of work; Sankhya and Yoga are one path seen by the childish as two."
+  },
+  {
+   "chapter": 5,
+   "verse": 5,
+   "speaker": null,
+   "devanagari": "यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते ।\nएकं साङ्ख्यं च योगं च यः पश्यति स पश्यति॥",
+   "transliteration": "yatsāṅkhyaiḥ prāpyate sthānaṃ tadyogairapi gamyate\nekaṃ sāṅkhyaṃ ca yogaṃ ca yaḥ paśyati sa paśyati",
+   "essence": "The state reached by the Sankhyas is reached also by the Yogis. One who sees Sankhya and Yoga as one — that one truly sees.",
+   "translation": "That place which is reached by the Sankhyas or the Jnanis is reached by the Yogis (Karma Yogis). He sees, who sees knowledge and the performance of action (Karma Yoga) as one.",
+   "anvaya": [
+    {
+     "word": "यत् साङ्ख्यैः प्राप्यते स्थानं",
+     "meaning": "the state attained by the Sankhyas"
+    },
+    {
+     "word": "तत् योगैः अपि गम्यते",
+     "meaning": "that by the Yogis too is reached"
+    },
+    {
+     "word": "एकं साङ्ख्यं च योगं च",
+     "meaning": "Sankhya and Yoga as one"
+    },
+    {
+     "word": "यः पश्यति सः पश्यति",
+     "meaning": "who sees — that one (truly) sees"
+    }
+   ],
+   "explanation": "The reconciliation sealed with the Gita's favorite construction: yaḥ paśyati sa paśyati — whoever sees this, sees. Not 'sees this too' — sees, period; the unity of the contemplative and active paths is made a touchstone of vision itself. Disputes between renouncers and workers are, by this verse, lovers' quarrels inside one house.",
+   "connection": "Completes 5.4: same summit certified for both routes — the seeing of their oneness is itself realization.",
+   "schools_note": null,
+   "reflection": "Whatever your method, aim at the same summit as every other sincere method — and respect the routes.",
+   "background": "Krishna ranks them — both lead to the highest, but karma-yoga excels formal renunciation — and then dissolves the ranking: the true sannyasi is the one beyond cravings and aversions in the midst of work; Sankhya and Yoga are one path seen by the childish as two."
+  },
+  {
+   "chapter": 5,
+   "verse": 6,
+   "speaker": null,
+   "devanagari": "संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः ।\nयोगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति॥",
+   "transliteration": "saṃnyāsastu mahābāho duḥkhamāptumayogataḥ\nyogayukto munirbrahma nacireṇādhigacchati",
+   "essence": "But renunciation, Mahabaho, is hard to attain without yoga; the sage harnessed in yoga reaches Brahman before long.",
+   "translation": "But renunciation, O mighty-armed Arjuna, is hard to attain without Yoga; the Yoga-harmonised sage ickly goes to Brahman.",
+   "anvaya": [
+    {
+     "word": "संन्यासः तु महाबाहो",
+     "meaning": "but renunciation, O mighty-armed"
+    },
+    {
+     "word": "दुःखम् आप्तुम् अयोगतः",
+     "meaning": "is hard to attain without yoga"
+    },
+    {
+     "word": "योगयुक्तः मुनिः ब्रह्म",
+     "meaning": "the sage yoked in yoga, Brahman"
+    },
+    {
+     "word": "न चिरेण अधिगच्छति",
+     "meaning": "before long attains"
+    }
+   ],
+   "explanation": "Why karma-yoga was ranked first in 5.2: sequence. Renunciation without the prior scrubbing of selfless work is duḥkham āptum — a misery to attempt — because the untrained mind, deprived of activity, simply churns (the hypocrite of 3.6). Action done as yoga wears the ego smooth; then letting go is not a battle but a ripening, and Brahman arrives na cireṇa, without delay.",
+   "connection": "Gives the practical reason behind 5.2's preference: yoga is renunciation's prerequisite, not its rival.",
+   "schools_note": null,
+   "reflection": "Renunciation without engagement breeds brooding; pair one letting-go today with one act of service.",
+   "background": "Krishna ranks them — both lead to the highest, but karma-yoga excels formal renunciation — and then dissolves the ranking: the true sannyasi is the one beyond cravings and aversions in the midst of work; Sankhya and Yoga are one path seen by the childish as two."
+  },
+  {
+   "chapter": 5,
+   "verse": 7,
+   "speaker": null,
+   "devanagari": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।\nसर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते॥",
+   "transliteration": "yogayukto viśuddhātmā vijitātmā jitendriyaḥ\nsarvabhūtātmabhūtātmā kurvannapi na lipyate",
+   "essence": "Yoked in yoga, purified, self-mastered, senses conquered, one's self become the Self of all beings — even acting, one is not stained.",
+   "translation": "He who is devoted to the path of action, whose mind is ite pure, who has conered the self, who has subdued his senses and who realises his Self as the Self in all beings, though acting, is not tainted.",
+   "anvaya": [
+    {
+     "word": "योगयुक्तः विशुद्धात्मा",
+     "meaning": "yoked in yoga, of purified self"
+    },
+    {
+     "word": "विजितात्मा जितेन्द्रियः",
+     "meaning": "self-subdued, senses conquered"
+    },
+    {
+     "word": "सर्वभूतात्मभूतात्मा",
+     "meaning": "whose self has become the Self of all beings"
+    },
+    {
+     "word": "कुर्वन् अपि न लिप्यते",
+     "meaning": "even acting, is not stained"
+    }
+   ],
+   "explanation": "The compounds climb a ladder: purified → self-governed → sense-mastered → and then the leap, sarva-bhūtātma-bhūtātmā, one whose self has become the self of all beings. At that height the question of stain collapses: whom would the action harm, whom exploit, when every party to it is oneself? Non-attachment matures here into something warmer — identification with everything.",
+   "connection": "Shows where 5.6's yoked sage ends up: action becomes stainless because the boundary it could stain has dissolved.",
+   "schools_note": null,
+   "reflection": "Become harmless enough that beings relax around you — pets, children, colleagues are honest meters.",
+   "background": "Krishna ranks them — both lead to the highest, but karma-yoga excels formal renunciation — and then dissolves the ranking: the true sannyasi is the one beyond cravings and aversions in the midst of work; Sankhya and Yoga are one path seen by the childish as two."
+  },
+  {
+   "chapter": 5,
+   "verse": 8,
+   "speaker": null,
+   "devanagari": "नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।\nपश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन्॥",
+   "transliteration": "naiva kiñcitkaromīti yukto manyeta tattvavit\npaśyañśruṇvanspṛśañjighrannaśnangacchansvapañśvasan",
+   "essence": "'I do nothing at all' — so should the harnessed knower of truth think, while seeing, hearing, touching, smelling, eating, walking, sleeping, breathing.",
+   "translation": "\"I do nothing at all,\" thus would the harmonised knower of Truth think seeing, hearing, touching, smelling, eating, going, sleeping, breathing.",
+   "anvaya": [
+    {
+     "word": "न एव किञ्चित् करोमि इति",
+     "meaning": "'I do nothing whatever' — thus"
+    },
+    {
+     "word": "युक्तः मन्येत तत्त्ववित्",
+     "meaning": "the yoked knower of truth should think"
+    },
+    {
+     "word": "पश्यन् शृण्वन् स्पृशन् जिघ्रन्",
+     "meaning": "seeing, hearing, touching, smelling"
+    },
+    {
+     "word": "अश्नन् गच्छन् स्वपन् श्वसन्",
+     "meaning": "eating, walking, sleeping, breathing"
+    }
+   ],
+   "explanation": "The inner monologue of the freed, audited against a deliberately mundane list — not battles and sacrifices but smelling, walking, sleeping, breathing. Precisely amid the most automatic acts, the tattva-vit notices: machinery is running; I am the one in whom the running appears. The thought 'naiva kiñcit karomi' is not denial of activity but accurate attribution of it.",
+   "connection": "Translates 5.7's stainlessness into the texture of an ordinary day — continued into the next verse.",
+   "schools_note": null,
+   "reflection": "During one routine act today, note inwardly: seeing happens, hearing happens — I am the witnessing.",
+   "background": "The technique of the engaged renunciate is given: moving through seeing, hearing, touching while knowing 'the senses move among sense-objects'; acting with body, mind, and intellect with attachment abandoned, offering works to Brahman — stained no more than the lotus leaf by water."
+  },
+  {
+   "chapter": 5,
+   "verse": 9,
+   "speaker": null,
+   "devanagari": "प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि ।\nइन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्॥",
+   "transliteration": "pralapanvisṛjangṛhṇannunmiṣannimiṣannapi\nindriyāṇīndriyārtheṣu vartanta iti dhārayan",
+   "essence": "Speaking, releasing, grasping, opening and closing the eyes — convinced that the senses move among the sense-objects.",
+   "translation": "Speaking, letting go, seizing, opening and closing the eyes convinced that the senses move among the sense-objects.",
+   "anvaya": [
+    {
+     "word": "प्रलपन् विसृजन् गृह्णन्",
+     "meaning": "speaking, releasing, grasping"
+    },
+    {
+     "word": "उन्मिषन् निमिषन् अपि",
+     "meaning": "even opening and closing the eyes"
+    },
+    {
+     "word": "इन्द्रियाणि इन्द्रियार्थेषु",
+     "meaning": "that the senses, among the sense-objects"
+    },
+    {
+     "word": "वर्तन्ते इति धारयन्",
+     "meaning": "are moving — thus holding firm"
+    }
+   ],
+   "explanation": "The list reaches its finest grain — even the eyelid's blink — and then gives the formula that reclassifies it all: indriyāṇi indriyārtheṣu vartante, senses operating upon sense-objects, nature transacting with nature (3.28's insight made into a daily mantra). Dhārayan: this is something *held*, a sustained recollection, not a one-time realization.",
+   "connection": "Completes 5.8's audit and supplies the holding-thought that keeps doership from re-adhering.",
+   "schools_note": null,
+   "reflection": "Let the senses meet their objects this hour while you remain the host, not the guest swept along.",
+   "background": "The technique of the engaged renunciate is given: moving through seeing, hearing, touching while knowing 'the senses move among sense-objects'; acting with body, mind, and intellect with attachment abandoned, offering works to Brahman — stained no more than the lotus leaf by water."
+  },
+  {
+   "chapter": 5,
+   "verse": 10,
+   "speaker": null,
+   "devanagari": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा॥",
+   "transliteration": "brahmaṇyādhāya karmāṇi saṅgaṃ tyaktvā karoti yaḥ\nlipyate na sa pāpena padmapatramivāmbhasā",
+   "essence": "One who acts placing all actions in Brahman, abandoning attachment, is untouched by sin — as a lotus leaf by water.",
+   "translation": "He who does actions, offering them to Brahman, and abandoning attachment, is not tainted by sin, just as a lotus-leaf is not tainted by water.",
+   "anvaya": [
+    {
+     "word": "ब्रह्मणि आधाय कर्माणि",
+     "meaning": "placing actions in Brahman"
+    },
+    {
+     "word": "सङ्गं त्यक्त्वा करोति यः",
+     "meaning": "abandoning attachment, who acts"
+    },
+    {
+     "word": "लिप्यते न सः पापेन",
+     "meaning": "is not stained by sin"
+    },
+    {
+     "word": "पद्मपत्रम् इव अम्भसा",
+     "meaning": "as a lotus leaf by water"
+    }
+   ],
+   "explanation": "The chapter's signature image. The lotus leaf lives *on* the water — born of it, resting on it, wetted by every rain — yet drops roll off its surface, finding nothing to grip. So the one who deposits actions in Brahman: fully in the world's water, never soaked by it. Not the dry detachment of distance, but a texture of being that the world's moisture cannot penetrate. Brahmany adhaya karmani — placing actions in Brahman as one acts: the lotus-leaf verse, the karma-yogi's coat of arms. Padma-patram ivambhasa: the leaf lives on the water, wetted by none of it. Commentators note the precision — the leaf does not avoid the pond; immunity is by surface, not by distance. Sanctity, likewise, is a coating, not a quarantine.",
+   "connection": "Gives 5.7–9 its emblem: stainlessness pictured as the lotus leaf's effortless non-absorption.",
+   "schools_note": null,
+   "reflection": "Work soaked in offering today and let blame slide off you as water off a lotus leaf.",
+   "background": "The technique of the engaged renunciate is given: moving through seeing, hearing, touching while knowing 'the senses move among sense-objects'; acting with body, mind, and intellect with attachment abandoned, offering works to Brahman — stained no more than the lotus leaf by water."
+  },
+  {
+   "chapter": 5,
+   "verse": 11,
+   "speaker": null,
+   "devanagari": "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।\nयोगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये॥",
+   "transliteration": "kāyena manasā buddhyā kevalairindriyairapi\nyoginaḥ karma kurvanti saṅgaṃ tyaktvātmaśuddhaye",
+   "essence": "With body, mind, understanding, or even the senses alone, yogis perform action — abandoning attachment, for self-purification.",
+   "translation": "Yogis, having abandoned attachment, perform actions only by the body, mind, intellect, and even by the senses, for the purification of the self.",
+   "anvaya": [
+    {
+     "word": "कायेन मनसा बुद्ध्या",
+     "meaning": "with body, with mind, with understanding"
+    },
+    {
+     "word": "केवलैः इन्द्रियैः अपि",
+     "meaning": "even with the senses alone"
+    },
+    {
+     "word": "योगिनः कर्म कुर्वन्ति",
+     "meaning": "yogis perform action"
+    },
+    {
+     "word": "सङ्गं त्यक्त्वा आत्मशुद्धये",
+     "meaning": "abandoning attachment, for purification of the self"
+    }
+   ],
+   "explanation": "The motive of the working sage finally named in full: ātma-śuddhaye, for self-purification. Not for wages, fame, or even merit — action used as soap, each task scrubbing the instrument that performs it. Kevalair indriyair api, 'even with mere senses': the work may be humble to the point of mechanical; the purification clause is what consecrates it.",
+   "connection": "Answers the lingering 'why act at all?' for 5.10's lotus-leaf yogi: the work is the bath.",
+   "schools_note": null,
+   "reflection": "Use body, mind, and intellect today as cleaning tools — every unattached act scrubbing the instrument.",
+   "background": "The technique of the engaged renunciate is given: moving through seeing, hearing, touching while knowing 'the senses move among sense-objects'; acting with body, mind, and intellect with attachment abandoned, offering works to Brahman — stained no more than the lotus leaf by water."
+  },
+  {
+   "chapter": 5,
+   "verse": 12,
+   "speaker": null,
+   "devanagari": "युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।\nअयुक्तः कामकारेण फले सक्तो निबध्यते॥",
+   "transliteration": "yuktaḥ karmaphalaṃ tyaktvā śāntimāpnoti naiṣṭhikīm\nayuktaḥ kāmakāreṇa phale sakto nibadhyate",
+   "essence": "The harnessed one, abandoning the fruit of action, attains lasting peace; the unharnessed, attached to fruit by desire's prompting, is bound.",
+   "translation": "The united one (the well poised or the harmonised) having abandoned the fruit of action attains to the eternal peace: the non-united only (the unsteady or the unbalanced) impelled by desire, attached to the fruit, is bound.",
+   "anvaya": [
+    {
+     "word": "युक्तः कर्मफलं त्यक्त्वा",
+     "meaning": "the yoked one, abandoning action's fruit"
+    },
+    {
+     "word": "शान्तिम् आप्नोति नैष्ठिकीम्",
+     "meaning": "attains peace that is final, abiding"
+    },
+    {
+     "word": "अयुक्तः कामकारेण",
+     "meaning": "the unyoked, by the impulse of desire"
+    },
+    {
+     "word": "फले सक्तः निबध्यते",
+     "meaning": "attached to the fruit, is bound"
+    }
+   ],
+   "explanation": "The fork drawn in one couplet: same work, two inner contracts. One signs away the fruit and receives śāntim naiṣṭhikīm — peace with a foundation, peace that stays; the other, kāma-kāreṇa, under desire's compulsion, clutches the fruit and finds the clutch is a shackle. The fruit was never the prize or the problem; the grip is both.",
+   "connection": "Compresses the chapter's economics: 5.11's purifying work versus its desire-driven double.",
+   "schools_note": null,
+   "reflection": "Trade one outcome-anxiety today for the steady peace of work well surrendered.",
+   "background": "The technique of the engaged renunciate is given: moving through seeing, hearing, touching while knowing 'the senses move among sense-objects'; acting with body, mind, and intellect with attachment abandoned, offering works to Brahman — stained no more than the lotus leaf by water."
+  },
+  {
+   "chapter": 5,
+   "verse": 13,
+   "speaker": null,
+   "devanagari": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन्॥",
+   "transliteration": "sarvakarmāṇi manasā saṃnyasyāste sukhaṃ vaśī\nnavadvāre pure dehī naiva kurvanna kārayan",
+   "essence": "Mentally renouncing all actions, the embodied one sits happily, master in the nine-gated city — neither acting nor causing action.",
+   "translation": "Mentally renouncing all actions and self-controlled, the embodied one rests happily in the nine-gated city, neither acting nor causing others (body and senses) to act.",
+   "anvaya": [
+    {
+     "word": "सर्वकर्माणि मनसा",
+     "meaning": "all actions, by the mind"
+    },
+    {
+     "word": "संन्यस्य आस्ते सुखं वशी",
+     "meaning": "renouncing, sits happily, the self-controlled"
+    },
+    {
+     "word": "नवद्वारे पुरे देही",
+     "meaning": "in the nine-gated city, the embodied one"
+    },
+    {
+     "word": "न एव कुर्वन् न कारयन्",
+     "meaning": "neither acting nor causing to act"
+    }
+   ],
+   "explanation": "The body re-imagined as architecture: nava-dvāre pure, the city of nine gates — eyes, ears, nostrils, mouth and the rest — with the Self as resident sovereign, not as gatekeeper, porter or merchant. The gates stay open; traffic flows; the king āste sukham, sits at ease, having mentally signed the whole municipality over to nature. Renunciation, again, is an address change within, not a change of address.",
+   "connection": "The interior view of 5.10's lotus leaf: how non-absorption feels from inside the body it inhabits.",
+   "schools_note": null,
+   "reflection": "Rest once today as the ruler of the nine-gated city — present in it, governed by none of its gates.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 14,
+   "speaker": null,
+   "devanagari": "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः ।\nन कर्मफलसंयोगं स्वभावस्तु प्रवर्तते॥",
+   "transliteration": "na kartṛtvaṃ na karmāṇi lokasya sṛjati prabhuḥ\nna karmaphalasaṃyogaṃ svabhāvastu pravartate",
+   "essence": "The Lord creates neither agency nor actions for the world, nor the union of action with fruit; it is nature that operates.",
+   "translation": "Neither agency nor actions does the Lord create for the world, nor union with the fruits of actions. But it is Nature that acts.",
+   "anvaya": [
+    {
+     "word": "न कर्तृत्वं न कर्माणि",
+     "meaning": "neither doership nor actions"
+    },
+    {
+     "word": "लोकस्य सृजति प्रभुः",
+     "meaning": "does the Lord create for the world"
+    },
+    {
+     "word": "न कर्मफलसंयोगं",
+     "meaning": "nor the joining of action with fruit"
+    },
+    {
+     "word": "स्वभावः तु प्रवर्तते",
+     "meaning": "but nature operates (of itself)"
+    }
+   ],
+   "explanation": "A theological boundary, drawn with surprising restraint: the prabhu does not micro-author doership, deeds, or even the action-fruit linkage — svabhāva, the inherent nature of things, runs the machinery. The verse protects two things at once: divine purity from the world's crimes, and human responsibility from the excuse 'God made me do it.' The system is His; the steering, within it, is ours.",
+   "connection": "Widens 5.13's inner kingship to cosmology: even the supreme Resident does not turn the gears directly.",
+   "schools_note": "'Na kartritvam na karmani lokasya srijati prabhuh' — the Lord creates neither agency nor acts; svabhava, inherent nature, operates. Advaita reads prabhu as the Self, untouched by the machinery of doing; Ramanuja as the Lord who delegates to karma-bearing nature, preserving both divine innocence and moral order. The verse is the tradition's chief answer to 'why does God not stop the deeds?'",
+   "reflection": "Stop blaming the Lord of the city for the city's traffic; nature runs the machinery you resent.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 15,
+   "speaker": null,
+   "devanagari": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः ।\nअज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः॥",
+   "transliteration": "nādatte kasyacitpāpaṃ na caiva sukṛtaṃ vibhuḥ\najñānenāvṛtaṃ jñānaṃ tena muhyanti jantavaḥ",
+   "essence": "The all-pervading takes on no one's sin nor anyone's merit. Knowledge is veiled by ignorance; thereby creatures are deluded.",
+   "translation": "The Lord takes neither the demerit nor even the merit of any; knowledge is enveloped by ignorance, thery beings are deluded.",
+   "anvaya": [
+    {
+     "word": "न आदत्ते कस्यचित् पापं",
+     "meaning": "takes on no one's sin"
+    },
+    {
+     "word": "न च एव सुकृतं विभुः",
+     "meaning": "nor indeed anyone's merit, the all-pervading"
+    },
+    {
+     "word": "अज्ञानेन आवृतं ज्ञानं",
+     "meaning": "knowledge is veiled by ignorance"
+    },
+    {
+     "word": "तेन मुह्यन्ति जन्तवः",
+     "meaning": "thereby beings are deluded"
+    }
+   ],
+   "explanation": "The Lord keeps no ledger of credits and debts to dispense by whim — the vibhu neither absorbs our sins nor banks our virtues; karma is self-executing law, not divine bookkeeping. Then the real culprit behind all suffering is arraigned in four words: ajñānena āvṛtaṁ jñānam — knowing, veiled by unknowing. Not wickedness at the root of the world's pain, but a covering.",
+   "connection": "Completes 5.14's separation of God from the machinery — and names the veil the next verse will burn.",
+   "schools_note": null,
+   "reflection": "Withdraw one judgment today, remembering: the sun of awareness takes neither credit nor sin.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 16,
+   "speaker": null,
+   "devanagari": "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः ।\nतेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम्॥",
+   "transliteration": "jñānena tu tadajñānaṃ yeṣāṃ nāśitamātmanaḥ\nteṣāmādityavajjñānaṃ prakāśayati tatparam",
+   "essence": "But for those whose ignorance is destroyed by Self-knowledge, that knowledge, like the sun, illumines the Supreme.",
+   "translation": "But to those whose ignorance is destroyed by the knowledge of the Self, like the sun, knowledge reveals the Supreme (Brahman).",
+   "anvaya": [
+    {
+     "word": "ज्ञानेन तु तत् अज्ञानं",
+     "meaning": "but by knowledge, that ignorance"
+    },
+    {
+     "word": "येषां नाशितम् आत्मनः",
+     "meaning": "of those in whom it is destroyed, of the self"
+    },
+    {
+     "word": "तेषाम् आदित्यवत् ज्ञानं",
+     "meaning": "for them, like the sun, knowledge"
+    },
+    {
+     "word": "प्रकाशयति तत् परम्",
+     "meaning": "illumines that Supreme"
+    }
+   ],
+   "explanation": "The counter-verse: when the veil of 5.15 is burned, what remains is ādityavat — sunlike. The simile is chosen for its manner of working: the sun does not argue the darkness away or defeat it piece by piece; it rises, and darkness is simply not there. So Self-knowledge does not refute delusion — it outshines the conditions under which delusion was possible.",
+   "connection": "Answers 5.15's veil with its solvent: knowledge as sunrise, after which the Supreme is self-evident.",
+   "schools_note": null,
+   "reflection": "Let one insight today rise like sunrise — not adding light to the Self, just removing a cloud.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 17,
+   "speaker": null,
+   "devanagari": "तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः ।\nगच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः॥",
+   "transliteration": "tadbuddhayastadātmānastanniṣṭhāstatparāyaṇāḥ\ngacchantyapunarāvṛttiṃ jñānanirdhūtakalmaṣāḥ",
+   "essence": "Their understanding in That, their self in That, established in That, devoted to That — they go to the state of no return, their stains shaken off by knowledge.",
+   "translation": "Their intellect absorbed in That, their self being That, established in That, with That for their supreme goal, they go whence there is no return, their sins dispelled by knowledge.",
+   "anvaya": [
+    {
+     "word": "तद्बुद्धयः तदात्मानः",
+     "meaning": "their understanding in That, their self in That"
+    },
+    {
+     "word": "तन्निष्ठाः तत्परायणाः",
+     "meaning": "established in That, wholly devoted to That"
+    },
+    {
+     "word": "गच्छन्ति अपुनरावृत्तिं",
+     "meaning": "they go to non-return"
+    },
+    {
+     "word": "ज्ञाननिर्धूतकल्मषाः",
+     "meaning": "their impurities shaken off by knowledge"
+    }
+   ],
+   "explanation": "Four times tat, That — understanding, identity, foundation, final refuge, all relocated into the one Reality, the way a compass needle gives the north every fiber of its attention. The result is the tradition's strongest word for finality: apunar-āvṛtti, no return — not a higher rung on the wheel but the wheel's exit. Nirdhūta: the stains are not scrubbed but *shaken off*, as a bird shakes water.",
+   "connection": "Traces the trajectory of 5.16's sunrise to its terminus: total orientation, total release.",
+   "schools_note": null,
+   "reflection": "Point intellect, mind, conviction, and refuge at one thing today, and feel the four engines align.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 18,
+   "speaker": null,
+   "devanagari": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥",
+   "transliteration": "vidyāvinayasampanne brāhmaṇe gavi hastini\nśuni caiva śvapāke ca paṇḍitāḥ samadarśinaḥ",
+   "essence": "In a brahmin endowed with learning and humility, in a cow, an elephant, a dog, and an eater of dogs — the wise see the same.",
+   "translation": "Sages look with an eal eye on a Brahmana endowed with learning and humility, on a cow, on an elephant, and even on a dog and an outcaste.",
+   "anvaya": [
+    {
+     "word": "विद्याविनयसम्पन्ने",
+     "meaning": "in one endowed with learning and humility"
+    },
+    {
+     "word": "ब्राह्मणे गवि हस्तिनि",
+     "meaning": "in a brahmin, in a cow, in an elephant"
+    },
+    {
+     "word": "शुनि च एव श्वपाके च",
+     "meaning": "and in a dog, and in a dog-eater"
+    },
+    {
+     "word": "पण्डिताः समदर्शिनः",
+     "meaning": "the wise are seers of sameness"
+    }
+   ],
+   "explanation": "The vision of 5.16–17 tested against the steepest social gradient its world knew: from the cultured brahmin down through revered, mighty, and despised animals to the śvapāka, the outcaste his society placed beneath them all. The paṇḍita's eye registers the differences of form and finds, beneath every one, the identical resident. Sama-darśana — equal *seeing* — is the Gita's quiet revolution: hierarchy real at the surface, abolished at the root. Panditah sama-darshinah — the wise are equal-seers: the Gita's bluntest social verse, leveling scholar, cow, elephant, dog, and outcaste in a single gaze. Commentators are careful: sama-darshana is of the indwelling Self, not of roles or competencies — but the gaze, once true, has historically refused to stay metaphysical. Reform movements across centuries have marched under this verse.",
+   "connection": "The social proof of knowledge: 5.17's That-absorbed seer, turned outward, sees one Self wearing every rank.",
+   "schools_note": "Sama-darshana — the level gaze on brahmin, cow, elephant, dog, and outcaste — is glossed carefully by the classical schools as equality of the indwelling Self, not of social function; but the verse's gravity kept pulling outward: bhakti saints, and later reformers, read it as scripture's own indictment of contempt for any being. Jnaneshwar: where the same One looks out of every eye, who remains to despise?",
+   "reflection": "Practice the level gaze once: see the same consciousness in the scholar, the animal, the outcast.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 19,
+   "speaker": null,
+   "devanagari": "इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः ।\nनिर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिताः॥",
+   "transliteration": "ihaiva tairjitaḥ sargo yeṣāṃ sāmye sthitaṃ manaḥ\nnirdoṣaṃ hi samaṃ brahma tasmād brahmaṇi te sthitāḥ",
+   "essence": "Even here, birth is conquered by those whose mind rests in sameness; flawless and the same is Brahman — therefore they stand in Brahman.",
+   "translation": "Even here (in this world) birth (everything) is overcome by those whose minds rest in eality; Brahman is spotless indeed and eal; therefore they are established in Brahman.",
+   "anvaya": [
+    {
+     "word": "इह एव तैः जितः सर्गः",
+     "meaning": "even here, by them is conquered the creation (birth)"
+    },
+    {
+     "word": "येषां साम्ये स्थितं मनः",
+     "meaning": "whose mind is established in sameness"
+    },
+    {
+     "word": "निर्दोषं हि समं ब्रह्म",
+     "meaning": "for flawless and equal is Brahman"
+    },
+    {
+     "word": "तस्मात् ब्रह्मणि ते स्थिताः",
+     "meaning": "therefore in Brahman they stand"
+    }
+   ],
+   "explanation": "The logic of sameness made explicit, and it runs like a proof: Brahman's two properties are nirdoṣa and sama — flawless, equal everywhere; therefore a mind that has become genuinely equal has taken on Brahman's own signature and must already be standing in it. And the timestamp: iha eva, *here itself* — the conquest of rebirth is verified in this life, by the evenness of this mind.",
+   "connection": "Converts 5.18's equal vision from ethics into metaphysics: sameness of sight is residence in Brahman, now.",
+   "schools_note": null,
+   "reflection": "Win a little of heaven here today: meet one unequal situation with a perfectly equal mind.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 20,
+   "speaker": null,
+   "devanagari": "न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।\nस्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थितः॥",
+   "transliteration": "na prahṛṣyetpriyaṃ prāpya nodvijetprāpya cāpriyam\nsthirabuddhirasammūḍho brahmavid brahmaṇi sthitaḥ",
+   "essence": "One should not rejoice on gaining the pleasant nor shudder on meeting the unpleasant — steady-minded, undeluded, the knower of Brahman stands in Brahman.",
+   "translation": "Resting in Brahman, with steady intellect and undeluded, the knower of Brahman neither rejoiceth on obtaining what is pleasant nor grieveth on obtaining what is unpleasant.",
+   "anvaya": [
+    {
+     "word": "न प्रहृष्येत् प्रियं प्राप्य",
+     "meaning": "one should not exult on obtaining the dear"
+    },
+    {
+     "word": "न उद्विजेत् प्राप्य च अप्रियम्",
+     "meaning": "nor be perturbed on obtaining the undear"
+    },
+    {
+     "word": "स्थिरबुद्धिः असम्मूढः",
+     "meaning": "of steady understanding, undeluded"
+    },
+    {
+     "word": "ब्रह्मवित् ब्रह्मणि स्थितः",
+     "meaning": "the knower of Brahman, established in Brahman"
+    }
+   ],
+   "explanation": "The daily examination for 5.19's claim: priya arrives — no leap; apriya arrives — no lurch. Not numbness, but the absence of the two convulsions by which events normally seize the steering. Each unshaken meeting with the pleasant and unpleasant is a small certification, renewed in real time, that one's standing is in Brahman and not in the weather.",
+   "connection": "Brings the Brahman-standing of 5.19 to street level: equanimity as its hourly evidence.",
+   "schools_note": null,
+   "reflection": "Receive one pleasant thing and one unpleasant thing today with the same inner temperature.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 21,
+   "speaker": null,
+   "devanagari": "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।\nस ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते॥",
+   "transliteration": "bāhyasparśeṣvasaktātmā vindatyātmani yatsukham\nsa brahmayogayuktātmā sukhamakṣayamaśnute",
+   "essence": "With self unattached to outer contacts, one finds the happiness that is in the Self; with self yoked to Brahman by yoga, one enjoys undecaying happiness.",
+   "translation": "With the self unattached to external contacts he finds happiness in the Self; with the self engaged in the meditation of Brahman he attains to the endless happiness.",
+   "anvaya": [
+    {
+     "word": "बाह्यस्पर्शेषु असक्तात्मा",
+     "meaning": "with self unattached to external contacts"
+    },
+    {
+     "word": "विन्दति आत्मनि यत् सुखम्",
+     "meaning": "finds the happiness that is in the Self"
+    },
+    {
+     "word": "सः ब्रह्मयोगयुक्तात्मा",
+     "meaning": "that one, with self yoked by Brahman-yoga"
+    },
+    {
+     "word": "सुखम् अक्षयम् अश्नुते",
+     "meaning": "enjoys imperishable happiness"
+    }
+   ],
+   "explanation": "The economics of joy, stated as a discovery rather than a sacrifice: loosen the grip on bāhya-sparśa, the outer touches, and a happiness already resident in the Self becomes findable — vindati, one *finds* it, like a coin that was always in the pocket. Its grade is then named: akṣaya, non-depleting. Outer pleasures are drawn from a draining tank; this one from a spring.",
+   "connection": "Begins the chapter's closing meditation on pleasure (5.21–23): what the equanimous one of 5.20 gets instead.",
+   "schools_note": null,
+   "reflection": "Find the joy that needs no object for five minutes — close the doors and discover the house lit.",
+   "background": "From the chariot Krishna paints the inner sovereign: the embodied one resting happily in the nine-gated city, neither doing nor causing; the Lord untainted as sky; wisdom rising like a sun on the Self; the even-seeing sages for whom heaven is already won; joy turned inward and found unending."
+  },
+  {
+   "chapter": 5,
+   "verse": 22,
+   "speaker": null,
+   "devanagari": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः॥",
+   "transliteration": "ye hi saṃsparśajā bhogā duḥkhayonaya eva te\nādyantavantaḥ kaunteya na teṣu ramate budhaḥ",
+   "essence": "The enjoyments born of contact are wombs of sorrow, with beginning and end, Kaunteya; the wise one does not delight in them.",
+   "translation": "The enjoyments that are born of contacts are only generators of pain, for they have a beginning and an end, O Arjuna; the wise man does not rejoice in them.",
+   "anvaya": [
+    {
+     "word": "ये हि संस्पर्शजाः भोगाः",
+     "meaning": "for the enjoyments born of contact"
+    },
+    {
+     "word": "दुःखयोनयः एव ते",
+     "meaning": "are verily wombs of sorrow"
+    },
+    {
+     "word": "आद्यन्तवन्तः कौन्तेय",
+     "meaning": "having beginning and end, O Kaunteya"
+    },
+    {
+     "word": "न तेषु रमते बुधः",
+     "meaning": "not in them does the wise one delight"
+    }
+   ],
+   "explanation": "A clinical audit of ordinary pleasure: saṁsparśa-ja, contact-born — requiring the meeting of sense and object, hence hostage to both; ādy-antavantaḥ, bracketed by a start and a stop, hence pre-loaded with the ache of ending; therefore duḥkha-yonayaḥ, wombs already pregnant with sorrow. The budha does not flee them in horror — na rameṣu, he simply does not *settle* in them, the way one enjoys an inn without mistaking it for home.",
+   "connection": "The ledger's other column after 5.21: why outer delight, examined, fails the test the inner one passes.",
+   "schools_note": null,
+   "reflection": "Audit one favorite pleasure honestly: where it begins, where it ends, and what it leaves.",
+   "background": "The teaching presses the urgency of here and now: sense-born pleasures are wombs of pain with beginnings and ends; the real strength is withstanding desire and anger before leaving the body; for the self-controlled seer, the bliss of Brahman lies close on every side."
+  },
+  {
+   "chapter": 5,
+   "verse": 23,
+   "speaker": null,
+   "devanagari": "शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् ।\nकामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः॥",
+   "transliteration": "śaknotīhaiva yaḥ soḍhuṃ prākśarīravimokṣaṇāt\nkāmakrodhodbhavaṃ vegaṃ sa yuktaḥ sa sukhī naraḥ",
+   "essence": "One who can withstand, here itself before release from the body, the surge born of desire and anger — that one is yoked, that one is a happy person.",
+   "translation": "He who is able, while still here (in this world) to withstand, before the liberation from the body, the impulse born out of desire and anger he is a Yogi, he is a happy man.",
+   "anvaya": [
+    {
+     "word": "शक्नोति इह एव यः सोढुं",
+     "meaning": "who is able, here itself, to withstand"
+    },
+    {
+     "word": "प्राक् शरीरविमोक्षणात्",
+     "meaning": "before liberation from the body"
+    },
+    {
+     "word": "कामक्रोधोद्भवं वेगं",
+     "meaning": "the surge born of desire and anger"
+    },
+    {
+     "word": "सः युक्तः सः सुखी नरः",
+     "meaning": "that one is yoked, that one is a happy person"
+    }
+   ],
+   "explanation": "The credential named vega — surge, flood-force — concedes the enemy's power: desire and anger arrive not as suggestions but as breakers. The test is soḍhum, to withstand the wave without being carried; and the deadline is sober — prāk śarīra-vimokṣaṇāt, before the body lets go, since death postponed-to is mastery never achieved. The verse ends by collapsing two words usually held apart: yukta and sukhī — the disciplined one *is* the happy one. Shaknotihaiva yah sodhum — whoever can withstand, right here, before release from the body, the surge of desire and anger: that one is yoked, that one is happy. The tradition treasures the verse's location of the test: ihaiva, in this very life, prak sharira-vimokshanat — no posthumous examinations. Liberation's evidence is asked for in the present tense.",
+   "connection": "The fitness test underlying 5.21–22's exchange: inner happiness belongs to whoever can stand in the surf.",
+   "schools_note": null,
+   "reflection": "Hold one surge of desire or anger until it passes through you unacted — that is strength, here, now.",
+   "background": "The teaching presses the urgency of here and now: sense-born pleasures are wombs of pain with beginnings and ends; the real strength is withstanding desire and anger before leaving the body; for the self-controlled seer, the bliss of Brahman lies close on every side."
+  },
+  {
+   "chapter": 5,
+   "verse": 24,
+   "speaker": null,
+   "devanagari": "योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।\nस योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति॥",
+   "transliteration": "yo'ntaḥsukho'ntarārāmastathāntarjyotireva yaḥ\nsa yogī brahmanirvāṇaṃ brahmabhūto'dhigacchati",
+   "essence": "One whose happiness is within, whose delight is within, whose light is within — that yogi, become Brahman, attains the nirvana of Brahman.",
+   "translation": "He who is happy within, who rejoices within, and who is illuminated within, that Yogi attains absolute freedom or Moksha, himself becoming Brahman.",
+   "anvaya": [
+    {
+     "word": "यः अन्तःसुखः अन्तरारामः",
+     "meaning": "who has happiness within, delight within"
+    },
+    {
+     "word": "तथा अन्तर्ज्योतिः एव यः",
+     "meaning": "and likewise whose light is within"
+    },
+    {
+     "word": "सः योगी ब्रह्मनिर्वाणं",
+     "meaning": "that yogi, the nirvana of Brahman"
+    },
+    {
+     "word": "ब्रह्मभूतः अधिगच्छति",
+     "meaning": "having become Brahman, attains"
+    }
+   ],
+   "explanation": "Three relocations complete the move: antaḥ-sukha, antar-ārāma, antar-jyotiḥ — happiness, recreation, and even illumination, all running on inner mains, the house finally off the grid of circumstance. Then the chapter's destination-word arrives: brahma-nirvāṇa, extinction *into* Brahman — not the snuffing of the person but of the person's fever, the lamp losing its flicker by merging with daylight. Brahma-bhūta: not reaching Brahman like a place, but having become what one reaches.",
+   "connection": "Gathers 5.21–23 into arrival: the withstander's inward turn completes as identity with the goal.",
+   "schools_note": null,
+   "reflection": "Locate your happiness indoors today: inner light, inner delight, inner play.",
+   "background": "The teaching presses the urgency of here and now: sense-born pleasures are wombs of pain with beginnings and ends; the real strength is withstanding desire and anger before leaving the body; for the self-controlled seer, the bliss of Brahman lies close on every side."
+  },
+  {
+   "chapter": 5,
+   "verse": 25,
+   "speaker": null,
+   "devanagari": "लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः ।\nछिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः॥",
+   "transliteration": "labhante brahmanirvāṇamṛṣayaḥ kṣīṇakalmaṣāḥ\nchinnadvaidhā yatātmānaḥ sarvabhūtahite ratāḥ",
+   "essence": "The seers whose sins are worn away, whose doubts are severed, who are self-restrained and delight in the welfare of all beings — they attain the nirvana of Brahman.",
+   "translation": "The sages (Rishis) obtain absolute freedom or Moksha they whose sins have been destroyed, whose dualities (perception of dualities or experience of the pairs of opposites) are torn asunder, who are self-controlled, and intent on the welfare of all beings.",
+   "anvaya": [
+    {
+     "word": "लभन्ते ब्रह्मनिर्वाणम्",
+     "meaning": "they attain the nirvana of Brahman"
+    },
+    {
+     "word": "ऋषयः क्षीणकल्मषाः",
+     "meaning": "the seers whose impurities are worn away"
+    },
+    {
+     "word": "छिन्नद्वैधाः यतात्मानः",
+     "meaning": "whose doubts are cut, who are self-controlled"
+    },
+    {
+     "word": "सर्वभूतहिते रताः",
+     "meaning": "who delight in the welfare of all beings"
+    }
+   ],
+   "explanation": "Lest 5.24's inwardness sound like withdrawal, the freed seer's outer life is shown: sarva-bhūta-hite ratāḥ — *delighting*, ratāḥ, in the good of all beings. Compassion here is not a duty appended to liberation but its overflow: when the boundary between self and others thins (5.7), their welfare becomes one's recreation. The liberated do not leave the world; they finally become safe for it, and useful to it.",
+   "connection": "Corrects any misreading of 5.24: the inward-lit yogi faces outward in universal benevolence.",
+   "schools_note": null,
+   "reflection": "Pair your inner work with outer kindness today — the rishis kept both hands open.",
+   "background": "The teaching presses the urgency of here and now: sense-born pleasures are wombs of pain with beginnings and ends; the real strength is withstanding desire and anger before leaving the body; for the self-controlled seer, the bliss of Brahman lies close on every side."
+  },
+  {
+   "chapter": 5,
+   "verse": 26,
+   "speaker": null,
+   "devanagari": "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।\nअभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्॥",
+   "transliteration": "kāmakrodhaviyuktānāṃ yatīnāṃ yatacetasām\nabhito brahmanirvāṇaṃ vartate viditātmanām",
+   "essence": "For the ascetics severed from desire and anger, of controlled mind, who know the Self — the nirvana of Brahman lies near, on every side.",
+   "translation": "Absolute freedom (or Brahmic bliss) exists on all sides for those self-controlled ascetics who are free from desire and anger, who have controlled their thoughts and who have realised the Self.",
+   "anvaya": [
+    {
+     "word": "कामक्रोधवियुक्तानां",
+     "meaning": "for those disjoined from desire and anger"
+    },
+    {
+     "word": "यतीनां यतचेतसाम्",
+     "meaning": "for the strivers of restrained mind"
+    },
+    {
+     "word": "अभितः ब्रह्मनिर्वाणं",
+     "meaning": "near, on both sides, is the nirvana of Brahman"
+    },
+    {
+     "word": "वर्तते विदितात्मनाम्",
+     "meaning": "it abides, for the knowers of the Self"
+    }
+   ],
+   "explanation": "One word does the work: abhitaḥ — on both sides, all around, here. For the qualified, brahma-nirvāṇa is not a posthumous reward at the end of a corridor; it surrounds them like air, available in life and in death alike. The goal was never far; it was occluded. Remove desire-anger and the unknowing of the Self, and what remains is discovered to have been the environment all along.",
+   "connection": "Intensifies 5.24–25: for the ready, liberation is not ahead but ambient.",
+   "schools_note": null,
+   "reflection": "For one hour, drop desire and anger together and notice freedom standing close on every side.",
+   "background": "The teaching presses the urgency of here and now: sense-born pleasures are wombs of pain with beginnings and ends; the real strength is withstanding desire and anger before leaving the body; for the self-controlled seer, the bliss of Brahman lies close on every side."
+  },
+  {
+   "chapter": 5,
+   "verse": 27,
+   "speaker": null,
+   "devanagari": "स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः ।\nप्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ॥",
+   "transliteration": "sparśānkṛtvā bahirbāhyāṃścakṣuścaivāntare bhruvoḥ\nprāṇāpānau samau kṛtvā nāsābhyantaracāriṇau",
+   "essence": "Shutting out external contacts, fixing the gaze between the brows, equalizing the in-breath and out-breath moving within the nostrils —",
+   "translation": "Shutting out (all) external contacts and fixing the gaze between the eyrow, ealising the outgoing and incoming breaths moving within the nostrils.",
+   "anvaya": [
+    {
+     "word": "स्पर्शान् कृत्वा बहिः बाह्यान्",
+     "meaning": "making the external contacts outside"
+    },
+    {
+     "word": "चक्षुः च एव अन्तरे भ्रुवोः",
+     "meaning": "and the gaze between the brows"
+    },
+    {
+     "word": "प्राणापानौ समौ कृत्वा",
+     "meaning": "making prana and apana equal"
+    },
+    {
+     "word": "नासाभ्यन्तरचारिणौ",
+     "meaning": "moving within the nostrils"
+    }
+   ],
+   "explanation": "The chapter suddenly hands over a technique — terse as a field manual: world set down at the door, eyes gathered to the brow-center, the two breath-currents evened until they hum at one pitch. After twenty-six verses of vision and principle, two of method: the Gita's reminder that the lotus-leaf state is also a practice with a posture, begun by closing some doors so the inner one can open.",
+   "connection": "Begins the practical coda (5.27–28): the meditation seed that chapter 6 will grow into a full discipline.",
+   "schools_note": null,
+   "reflection": "Sit briefly: gaze settled, breath evened at the doorway of the nostrils — the portable sanctuary.",
+   "background": "The chapter closes with a thumbnail of meditation — outer contacts shut out, gaze and breath steadied — and then the Gita's celebrated peace formula: knowing Krishna as the enjoyer of all sacrifice, the great Lord of all worlds, and the friend of every being, one attains peace."
+  },
+  {
+   "chapter": 5,
+   "verse": 28,
+   "speaker": null,
+   "devanagari": "यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः ।\nविगतेच्छाभयक्रोधो यः सदा मुक्त एव सः॥",
+   "transliteration": "yatendriyamanobuddhirmunirmokṣaparāyaṇaḥ\nvigatecchābhayakrodho yaḥ sadā mukta eva saḥ",
+   "essence": "— with senses, mind and understanding controlled, intent on liberation, with desire, fear and anger gone: such a sage is forever free.",
+   "translation": "With the senses, the mind and the intellect (ever) controlled, having liberation as his supreme goal, free from desire, fear and anger the sage is verily liberated for ever.",
+   "anvaya": [
+    {
+     "word": "यतेन्द्रियमनोबुद्धिः",
+     "meaning": "with senses, mind and understanding restrained"
+    },
+    {
+     "word": "मुनिः मोक्षपरायणः",
+     "meaning": "the sage, wholly intent on liberation"
+    },
+    {
+     "word": "विगतेच्छाभयक्रोधः",
+     "meaning": "with desire, fear and anger departed"
+    },
+    {
+     "word": "यः सदा मुक्तः एव सः",
+     "meaning": "who (is such) — he is verily ever free"
+    }
+   ],
+   "explanation": "The sentence completes with a tense-shift worth savoring: not 'will be freed' but sadā mukta eva — *ever free*, already. For the one in whom the triple knot (wanting, fearing, raging) has actually dissolved, liberation stops being a future event and is recognized as the standing fact it always was. The practice of 5.27 does not manufacture freedom; it removes what obscured it.",
+   "connection": "Completes 5.27's technique with its fruit — and the realization that the fruit was never absent.",
+   "schools_note": null,
+   "reflection": "Release desire, fear, and anger before one meeting today, and walk in already free.",
+   "background": "The chapter closes with a thumbnail of meditation — outer contacts shut out, gaze and breath steadied — and then the Gita's celebrated peace formula: knowing Krishna as the enjoyer of all sacrifice, the great Lord of all worlds, and the friend of every being, one attains peace."
+  },
+  {
+   "chapter": 5,
+   "verse": 29,
+   "speaker": null,
+   "devanagari": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति॥",
+   "transliteration": "bhoktāraṃ yajñatapasāṃ sarvalokamaheśvaram\nsuhṛdaṃ sarvabhūtānāṃ jñātvā māṃ śāntimṛcchati",
+   "essence": "Knowing me as the enjoyer of sacrifices and austerities, the great Lord of all worlds, the friend of every being — one attains peace.",
+   "translation": "He who knows Me as the enjoyer of sacrifices and austerities, the great Lord of all the worlds and the friend of all beings, attains to peace.",
+   "anvaya": [
+    {
+     "word": "भोक्तारं यज्ञतपसां",
+     "meaning": "as the enjoyer of sacrifices and austerities"
+    },
+    {
+     "word": "सर्वलोकमहेश्वरम्",
+     "meaning": "the great Lord of all worlds"
+    },
+    {
+     "word": "सुहृदं सर्वभूतानां",
+     "meaning": "the friend of all beings"
+    },
+    {
+     "word": "ज्ञात्वा मां शान्तिम् ऋच्छति",
+     "meaning": "knowing me, one attains peace"
+    }
+   ],
+   "explanation": "The chapter's last word is a formula for peace in three recognitions — and the third transfigures the first two. The enjoyer of all offerings: so nothing given is lost. The Lord of all worlds: so nothing is finally out of hand. And then, suhṛdaṁ sarva-bhūtānām — the *friend* of every being, the heart-companion who wishes well without being asked. Power that was merely sovereign would awe; power that is also friendship is what lets the grip finally open. Knowing the universe has a friend at its center, one rests. Suhridam sarva-bhutanam — the friend of all beings: the verse the tradition calls the Gita's peace formula. Three knowings end the fever: He receives all offerings, He owns all worlds, He is everyone's well-wisher. Commentators linger on the last — the Absolute as suhrid, the friend who needs no reason — calling it the single most consoling title in the poem.",
+   "connection": "Closes the chapter by giving its impersonal serenity a face: peace, finally, is trusting whose hands the world is in.",
+   "schools_note": null,
+   "reflection": "End the day remembering the friend of all beings — and let that friendship include you.",
+   "background": "The chapter closes with a thumbnail of meditation — outer contacts shut out, gaze and breath steadied — and then the Gita's celebrated peace formula: knowing Krishna as the enjoyer of all sacrifice, the great Lord of all worlds, and the friend of every being, one attains peace."
+  }
+ ]
+}

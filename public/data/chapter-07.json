@@ -1,0 +1,976 @@
+{
+ "chapter": 7,
+ "name": "ज्ञानविज्ञानयोग",
+ "transliteration": "Jñāna Vijñāna Yog",
+ "meaning": "The Yoga of Knowledge and Realisation",
+ "teaching": "Krishna begins to speak of himself: the taste in water, the light in the moon and sun, the thread on which all worlds are strung like pearls. The divine is not elsewhere — it is the essence inside every essence. Few seek this; of the four kinds who turn to God, the one who seeks knowing itself is dearest, for that one seeks nothing in return. The Teacher turns the lamp on Himself: two natures, one thread through all pearls, a veil divine and crossable only by refuge. Four kinds of seekers arrive; the rarest says — Vasudeva is everything.",
+ "key_verses": "७.३ · ७.७–११ · ७.१४ · ७.१६–१९",
+ "questions": [
+  "When you pray or aspire, which of the four are you — the distressed, the seeker of gain, the curious, or the one who simply wants to know?",
+  "Can you taste water today and notice what the taste itself is?",
+  "What 'deity' — career, approval, security — do you worship for limited fruit?"
+ ],
+ "verse_count": 30,
+ "verses": [
+  {
+   "chapter": 7,
+   "verse": 1,
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच ।\nमय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः ।\nअसंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु॥",
+   "transliteration": "mayyāsaktamanāḥ pārtha yogaṃ yuñjanmadāśrayaḥ\nasaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tacchṛṇu",
+   "essence": "With mind attached to me, practicing yoga with me as refuge — hear how you shall know me wholly, beyond doubt.",
+   "translation": "O Arjuna, hear how you shall without doubt know Me fully, with the mind intent on Me, practising Yoga and taking refuge in Me.",
+   "anvaya": [
+    {
+     "word": "मयि आसक्तमनाः पार्थ",
+     "meaning": "with mind attached to me, O Partha"
+    },
+    {
+     "word": "योगं युञ्जन् मदाश्रयः",
+     "meaning": "practicing yoga, with me as refuge"
+    },
+    {
+     "word": "असंशयं समग्रं मां",
+     "meaning": "without doubt, completely, me"
+    },
+    {
+     "word": "यथा ज्ञास्यसि तत् शृणु",
+     "meaning": "how you shall know — that hear"
+    }
+   ],
+   "explanation": "A new movement opens: the first six chapters taught the self; the next six will teach the One the self meets. The conditions are intimacy itself — mind attached *to me*, refuge *in me* — and the promise is audacious: samagram, knowing the Infinite *wholly*, with doubt gone. Attachment, the great enemy so far, is rehabilitated when its object is the Divine.",
+   "connection": "Picks up exactly where 6.47 left the crown — with the most-yoked lover of God — and begins teaching what the beloved is.",
+   "schools_note": null,
+   "reflection": "Practice today with mind attached to the highest and refuge actually taken — and expect to know, not guess.",
+   "background": "A new movement of the dialogue begins: Krishna turns from the discipline of the seeker to the nature of the One sought. Hear, he says, how with mind attached to Me and refuge in Me you shall know Me fully — the knowledge after which nothing remains to be known, attained by hardly one among thousands."
+  },
+  {
+   "chapter": 7,
+   "verse": 2,
+   "speaker": null,
+   "devanagari": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः ।\nयज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते॥",
+   "transliteration": "jñānaṃ te'haṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ\nyajjñātvā neha bhūyo'nyajjñātavyamavaśiṣyate",
+   "essence": "I shall teach you this knowledge together with realization, knowing which nothing further remains here to be known.",
+   "translation": "I shall declare to thee in full this knowledge combined with realisation, after knowing which nothing more here remains to be known.",
+   "anvaya": [
+    {
+     "word": "ज्ञानं ते अहं सविज्ञानम्",
+     "meaning": "knowledge, to you, I, together with realization"
+    },
+    {
+     "word": "इदं वक्ष्यामि अशेषतः",
+     "meaning": "this I shall declare without remainder"
+    },
+    {
+     "word": "यत् ज्ञात्वा न इह भूयः",
+     "meaning": "knowing which, not here, further"
+    },
+    {
+     "word": "अन्यत् ज्ञातव्यम् अवशिष्यते",
+     "meaning": "anything else to be known remains"
+    }
+   ],
+   "explanation": "Two knowings promised as a pair: jñāna, the understanding that can be taught, and vijñāna, the direct taste that can only be had. And then the largest claim in epistemology: after this, nothing else *needs* knowing — because to know the root is to implicitly hold every branch. All other knowledge is regional; this one is of the territory itself.",
+   "connection": "Sets the stakes for the chapter: not another doctrine, but the knowledge that retires the search.",
+   "schools_note": null,
+   "reflection": "Seek the knowledge that ends seeking: ask today not for more facts but for the root of facts.",
+   "background": "A new movement of the dialogue begins: Krishna turns from the discipline of the seeker to the nature of the One sought. Hear, he says, how with mind attached to Me and refuge in Me you shall know Me fully — the knowledge after which nothing remains to be known, attained by hardly one among thousands."
+  },
+  {
+   "chapter": 7,
+   "verse": 3,
+   "speaker": null,
+   "devanagari": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः॥",
+   "transliteration": "manuṣyāṇāṃ sahasreṣu kaścidyatati siddhaye\nyatatāmapi siddhānāṃ kaścinmāṃ vetti tattvataḥ",
+   "essence": "Among thousands of humans, scarcely one strives for perfection; and of those who strive and succeed, scarcely one knows me in truth.",
+   "translation": "Among thousands of men, one perchance strives for perfection; even among those successful strivers, only one perchance knows Me in essence.",
+   "anvaya": [
+    {
+     "word": "मनुष्याणां सहस्रेषु",
+     "meaning": "among thousands of humans"
+    },
+    {
+     "word": "कश्चित् यतति सिद्धये",
+     "meaning": "someone (rare) strives for perfection"
+    },
+    {
+     "word": "यतताम् अपि सिद्धानां",
+     "meaning": "even of the striving and the perfected"
+    },
+    {
+     "word": "कश्चित् मां वेत्ति तत्त्वतः",
+     "meaning": "scarcely one knows me in truth"
+    }
+   ],
+   "explanation": "A double filter, stated without flattery: rare is the one who even begins; rarer still, among the accomplished themselves, the one who knows *him* as he is. The arithmetic is not meant to discourage but to locate Arjuna: he is being handed, mid-battlefield, what the rarest seekers spend lifetimes approaching. Manushyanam sahasreshu — the funnel verse, and the tradition reads its arithmetic as encouragement wearing sternness: rarity is not exclusion. Kashchid yatati siddhaye — the striving itself already places one in the thousands' exception. Commentators note the doubled rarity — even among the perfected, few know tattvatah — to keep the knower humble and the beginner hopeful.",
+   "connection": "Prices the gift of 7.1–2 — and makes its free offering to Arjuna the more astonishing.",
+   "schools_note": null,
+   "reflection": "Let the rarity sober you sweetly: among thousands, one seeks. You are reading this — continue.",
+   "background": "A new movement of the dialogue begins: Krishna turns from the discipline of the seeker to the nature of the One sought. Hear, he says, how with mind attached to Me and refuge in Me you shall know Me fully — the knowledge after which nothing remains to be known, attained by hardly one among thousands."
+  },
+  {
+   "chapter": 7,
+   "verse": 4,
+   "speaker": null,
+   "devanagari": "भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।\nअहंकार इतीयं मे भिन्ना प्रकृतिरष्टधा॥",
+   "transliteration": "bhūmirāpo'nalo vāyuḥ khaṃ mano buddhireva ca\nahaṃkāra itīyaṃ me bhinnā prakṛtiraṣṭadhā",
+   "essence": "Earth, water, fire, air, ether, mind, understanding and ego — this is my nature, divided eightfold.",
+   "translation": "Earth, water, fire, air, ether, mind, intellect and egoism thus is My Nature divided eightfold.",
+   "anvaya": [
+    {
+     "word": "भूमिः आपः अनलः वायुः",
+     "meaning": "earth, water, fire, air"
+    },
+    {
+     "word": "खं मनः बुद्धिः एव च",
+     "meaning": "ether, mind, and understanding"
+    },
+    {
+     "word": "अहङ्कारः इति इयं मे",
+     "meaning": "and ego — this, of mine"
+    },
+    {
+     "word": "भिन्ना प्रकृतिः अष्टधा",
+     "meaning": "is the nature, divided eightfold"
+    }
+   ],
+   "explanation": "The inventory of everything science can touch: five elements ascending in subtlety, then the three instruments of inner life — mind, intellect, the very sense of 'I'. All eight, including the ego that feels most like *me*, are classed as prakṛti: his equipment, his lower nature. The self one ordinarily identifies with is here itemized as machinery.",
+   "connection": "Begins the chapter's metaphysics: the visible and mental world catalogued as the lower of two natures.",
+   "schools_note": null,
+   "reflection": "List your own eightfold kit today — body, mind, intellect, ego — and note: equipment, not owner.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 5,
+   "speaker": null,
+   "devanagari": "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।\nजीवभूतां महाबाहो ययेदं धार्यते जगत्॥",
+   "transliteration": "apareyamitastvanyāṃ prakṛtiṃ viddhi me parām\njīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat",
+   "essence": "This is the lower. Know my other, higher nature, Mahabaho — the life-element by which this universe is upheld.",
+   "translation": "This is the inferior Prakriti, O mighty-armed (Arjuna); know thou as different from it My higher Prakriti (Nature), the very life-element, by which this world is upheld.",
+   "anvaya": [
+    {
+     "word": "अपरा इयम् इतः तु अन्यां",
+     "meaning": "this is the lower; but other than this"
+    },
+    {
+     "word": "प्रकृतिं विद्धि मे पराम्",
+     "meaning": "know my higher prakriti"
+    },
+    {
+     "word": "जीवभूतां महाबाहो",
+     "meaning": "which has become the jiva, O mighty-armed"
+    },
+    {
+     "word": "यया इदं धार्यते जगत्",
+     "meaning": "by which this universe is sustained"
+    }
+   ],
+   "explanation": "The hierarchy revealed: everything in 7.4 — galaxies, thoughts, the ego itself — is aparā, lower; above it stands the parā prakṛti, the conscious life-principle, jīva-bhūtā, which has become every living soul. Matter does not hold itself up; consciousness dhāryate, carries it. Each living being is a strand of the Divine's *higher* nature — the world's true infrastructure.",
+   "connection": "Completes 7.4's picture: two natures, one Lord — and the reader belongs to the higher one.",
+   "schools_note": "The 'higher prakriti, become the jiva' is a watershed: Shankara reads para prakriti as the conscious power of the one Self; Ramanuja builds his system on it — souls as a real, eternal category, the Lord's higher nature, distinct from matter forever; the Gaudiyas call it the tatastha-shakti, the marginal energy. Whatever the school, the verse settles one thing: consciousness is never a product of the lower eight.",
+   "reflection": "Feel the higher nature in you this hour: the aliveness that uses the equipment of 7.4.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 6,
+   "speaker": null,
+   "devanagari": "एतद्योनीनि भूतानि सर्वाणीत्युपधारय ।\nअहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा॥",
+   "transliteration": "etadyonīni bhūtāni sarvāṇītyupadhāraya\nahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā",
+   "essence": "Know all beings to have these two as their womb. I am the origin of the entire universe, and likewise its dissolution.",
+   "translation": "Know that these two (Natures) are the womb of all beings. So I am the source and dissolution of the whole universe.",
+   "anvaya": [
+    {
+     "word": "एतद्योनीनि भूतानि",
+     "meaning": "beings having these two as womb"
+    },
+    {
+     "word": "सर्वाणि इति उपधारय",
+     "meaning": "all — thus understand"
+    },
+    {
+     "word": "अहं कृत्स्नस्य जगतः",
+     "meaning": "I, of the entire universe"
+    },
+    {
+     "word": "प्रभवः प्रलयः तथा",
+     "meaning": "the origin, and likewise the dissolution"
+    }
+   ],
+   "explanation": "The two natures meet, and everything alive is their child: matter the mother-stuff, conscious life the animating father-seed, both belonging to one owner. So the conclusion follows like arithmetic: prabhavaḥ pralayaḥ — I am where all this comes from and where it folds back. Source and sea, both him.",
+   "connection": "Joins 7.4–5 into a single cosmology with one proprietor at both ends.",
+   "schools_note": null,
+   "reflection": "Trace one thing today to its double origin — matter shaped, consciousness witnessing — and bow to both.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 7,
+   "speaker": null,
+   "devanagari": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव॥",
+   "transliteration": "mattaḥ parataraṃ nānyatkiñcidasti dhanañjaya\nmayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva",
+   "essence": "There is nothing whatever higher than me, Dhananjaya. All this is strung on me like pearls on a thread.",
+   "translation": "There is nothing whatsoever higher than Me, O Arjuna. All this is strung on Me, as clusters of gems on a string.",
+   "anvaya": [
+    {
+     "word": "मत्तः परतरं न अन्यत्",
+     "meaning": "than me, higher, nothing else"
+    },
+    {
+     "word": "किञ्चित् अस्ति धनञ्जय",
+     "meaning": "whatever exists, O Dhananjaya"
+    },
+    {
+     "word": "मयि सर्वम् इदं प्रोतं",
+     "meaning": "on me all this is strung"
+    },
+    {
+     "word": "सूत्रे मणिगणाः इव",
+     "meaning": "like rows of pearls on a thread"
+    }
+   ],
+   "explanation": "First the flat absolute — mattaḥ parataraṁ nānyat, nothing above me — then the image that has carried it for millennia: pearls on a thread. The thread runs through every pearl, unseen, giving the scattered beads their unity and their hang; remove it and the necklace is a handful of debris. The world's coherence *is* the hidden God within it. Mattah parataram nanyat — nothing whatever higher than Me: the Gita's flattest statement of supremacy, and then the thread-and-pearls image that softens it into intimacy. The schools read the sutra differently — Advaita as the substrate of appearance, Vishishtadvaita as the soul of the world-body — but all wear the necklace: whatever you handle, you are handling something strung on God.",
+   "connection": "Crowns 7.6's cosmology with the chapter's master-image — immanence as the invisible string.",
+   "schools_note": null,
+   "reflection": "Look along one ordinary object today until you sense the thread it is strung on.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 8,
+   "speaker": null,
+   "devanagari": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु॥",
+   "transliteration": "raso'hamapsu kaunteya prabhāsmi śaśisūryayoḥ\npraṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu",
+   "essence": "I am the taste in water, Kaunteya, the radiance of moon and sun, the Om in all the Vedas, the sound in ether, the prowess in men.",
+   "translation": "I am the sapidity in water, O Arjuna; I am the light in the moon and the sun; I am the syllable Om in all the Vedas, sound in ether and virility in men.",
+   "anvaya": [
+    {
+     "word": "रसः अहम् अप्सु कौन्तेय",
+     "meaning": "I am the taste in water, O Kaunteya"
+    },
+    {
+     "word": "प्रभा अस्मि शशिसूर्ययोः",
+     "meaning": "I am the radiance of moon and sun"
+    },
+    {
+     "word": "प्रणवः सर्ववेदेषु",
+     "meaning": "the Om in all the Vedas"
+    },
+    {
+     "word": "शब्दः खे पौरुषं नृषु",
+     "meaning": "sound in ether, manliness in men"
+    }
+   ],
+   "explanation": "The thread of 7.7 located, sense by sense: in each thing, its essence — not water but its taste, not the sun but its shining, not scripture but its seed-syllable. The hunt for God is redirected from elsewhere to *deeper here*: take any experience, find what makes it most itself, and you are touching the string.",
+   "connection": "Begins the immanence litany (7.8–11): where exactly the pearls touch the thread.",
+   "schools_note": null,
+   "reflection": "Taste water once today as taste itself — the nearest daily sacrament, hiding in the glass.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 9,
+   "speaker": null,
+   "devanagari": "पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ ।\nजीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु॥",
+   "transliteration": "puṇyo gandhaḥ pṛthivyāṃ ca tejaścāsmi vibhāvasau\njīvanaṃ sarvabhūteṣu tapaścāsmi tapasviṣu",
+   "essence": "I am the pure fragrance in earth and the brilliance in fire, the life in all beings, and the austerity in ascetics.",
+   "translation": "I am the sweet fragrance in the earth and the brilliance in the fire, the life in all beings, and I am the austerity in ascetics.",
+   "anvaya": [
+    {
+     "word": "पुण्यः गन्धः पृथिव्यां च",
+     "meaning": "and the pure fragrance in the earth"
+    },
+    {
+     "word": "तेजः च अस्मि विभावसौ",
+     "meaning": "and I am the brilliance in fire"
+    },
+    {
+     "word": "जीवनं सर्वभूतेषु",
+     "meaning": "the life in all beings"
+    },
+    {
+     "word": "तपः च अस्मि तपस्विषु",
+     "meaning": "and the austerity in ascetics"
+    }
+   ],
+   "explanation": "The litany deepens from qualities to powers: the scent that rises from rained-on earth, fire's heat-light, and then two that stop the breath — jīvanam, the sheer aliveness in everything alive, and tapas, the very intensity of the striver's striving. Even the effort to reach him is made of him.",
+   "connection": "Continues 7.8: the seeker discovers the sought inside the seeking itself.",
+   "schools_note": null,
+   "reflection": "Catch the fragrance of earth, the heat of fire, your own aliveness — and address each one correctly.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 10,
+   "speaker": null,
+   "devanagari": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्॥",
+   "transliteration": "bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam\nbuddhirbuddhimatāmasmi tejastejasvināmaham",
+   "essence": "Know me, Partha, as the eternal seed of all beings; I am the intelligence of the intelligent, the splendor of the splendid.",
+   "translation": "Know Me, O Arjuna, as the eternal seed of all beings; I am the intelligence of the intelligent; the splendour of the splendid objects am I.",
+   "anvaya": [
+    {
+     "word": "बीजं मां सर्वभूतानां",
+     "meaning": "me, the seed of all beings"
+    },
+    {
+     "word": "विद्धि पार्थ सनातनम्",
+     "meaning": "know, O Partha, eternal"
+    },
+    {
+     "word": "बुद्धिः बुद्धिमताम् अस्मि",
+     "meaning": "I am the intelligence of the intelligent"
+    },
+    {
+     "word": "तेजः तेजस्विनाम् अहम्",
+     "meaning": "the splendor of the splendid, I"
+    }
+   ],
+   "explanation": "Bīja sanātanam — the seed that is eternal: not one ancestor among others but the unspent origin present in every generation. Then the pattern sharpens into a formula the chapter will repeat: of any excellence, he is the excellence itself — the brightness *of* the bright, the sharpness *of* the sharp mind reading this.",
+   "connection": "Extends the litany from elements to capacities — God as the genius inside genius.",
+   "schools_note": null,
+   "reflection": "When you meet brilliance today, in yourself or another, silently return the loan to its source.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 11,
+   "speaker": null,
+   "devanagari": "बलं बलवतां चाहं कामरागविवर्जितम् ।\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ॥",
+   "transliteration": "balaṃ balavatāṃ cāhaṃ kāmarāgavivarjitam\ndharmāviruddho bhūteṣu kāmo'smi bharatarṣabha",
+   "essence": "I am the strength of the strong, free of craving and passion; in beings I am desire not opposed to dharma, Bharatarshabha.",
+   "translation": "Of the strong, I am the strength devoid of desire and attachment, and in (all) beings, I am the desire unopposed to Dharma, O Arjuna.",
+   "anvaya": [
+    {
+     "word": "बलं बलवताम् च अहं",
+     "meaning": "and I am the strength of the strong"
+    },
+    {
+     "word": "कामरागविवर्जितम्",
+     "meaning": "devoid of craving and passion"
+    },
+    {
+     "word": "धर्माविरुद्धः भूतेषु",
+     "meaning": "not opposed to dharma, in beings"
+    },
+    {
+     "word": "कामः अस्मि भरतर्षभ",
+     "meaning": "I am desire, O bull of the Bharatas"
+    }
+   ],
+   "explanation": "The litany's most surprising line: kāma, desire itself — the enemy of chapter 3 — claimed by God, with one qualifier: dharmāviruddha, aligned with dharma. The longing to build, to love, to create within the bounds of rightness is not a tolerated weakness but a divine presence. The Gita sanctifies wanting; it only disowns wanting gone feral.",
+   "connection": "Completes 7.8–11 by reclaiming even desire — the chapter's quiet rehabilitation of the human.",
+   "schools_note": null,
+   "reflection": "Honor one desire today that runs within dharma — wanting rightly is also His face.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 12,
+   "speaker": null,
+   "devanagari": "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।\nमत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि॥",
+   "transliteration": "ye caiva sāttvikā bhāvā rājasāstāmasāśca ye\nmatta eveti tānviddhi na tvahaṃ teṣu te mayi",
+   "essence": "Whatever states there are — of sattva, of rajas, of tamas — know them as from me alone. I am not in them; they are in me.",
+   "translation": "Whatever beings (and objects) that are pure, active and inert, know that they proceed from Me. They are in Me, yet I am not in them.",
+   "anvaya": [
+    {
+     "word": "ये च एव सात्त्विकाः भावाः",
+     "meaning": "and whatever sattvic states"
+    },
+    {
+     "word": "राजसाः तामसाः च ये",
+     "meaning": "and whatever rajasic and tamasic"
+    },
+    {
+     "word": "मत्तः एव इति तान् विद्धि",
+     "meaning": "know them as from me alone"
+    },
+    {
+     "word": "न तु अहं तेषु ते मयि",
+     "meaning": "yet I am not in them — they are in me"
+    }
+   ],
+   "explanation": "Total sourcing with a precise asymmetry: every mood and mode the three gunas weave — luminous, driven, dull — issues from him; yet he is not *contained* in them, while they are contained in him. The ocean is in every wave; no wave holds the ocean. The formula prevents both errors: a God absent from the world, and a God reducible to it.",
+   "connection": "Wraps the immanence verses with their safeguard — presence without imprisonment.",
+   "schools_note": null,
+   "reflection": "Whatever state arises in you today — bright, restless, dull — file it: from Him, contained in Him.",
+   "background": "Krishna discloses his anatomy of everything: the eightfold lower nature and the higher life-principle that sustains the universe; Himself the origin and dissolution of all, the thread on which worlds are strung like pearls — then the litany of immanence: taste in water, light in sun and moon, the seed eternal in all beings."
+  },
+  {
+   "chapter": 7,
+   "verse": 13,
+   "speaker": null,
+   "devanagari": "त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् ।\nमोहितं नाभिजानाति मामेभ्यः परमव्ययम्॥",
+   "transliteration": "tribhirguṇamayairbhāvairebhiḥ sarvamidaṃ jagat\nmohitaṃ nābhijānāti māmebhyaḥ paramavyayam",
+   "essence": "Deluded by these three states made of the gunas, this whole world does not recognize me, who am beyond them and imperishable.",
+   "translation": "Deluded by these Natures (states or things) composed of the three alities of Nature all this world does not know Me as distinct from them and immutable.",
+   "anvaya": [
+    {
+     "word": "त्रिभिः गुणमयैः भावैः",
+     "meaning": "by these three guna-made states"
+    },
+    {
+     "word": "एभिः सर्वम् इदं जगत्",
+     "meaning": "this whole world"
+    },
+    {
+     "word": "मोहितं न अभिजानाति",
+     "meaning": "deluded, does not recognize"
+    },
+    {
+     "word": "माम् एभ्यः परम् अव्ययम्",
+     "meaning": "me, beyond them, imperishable"
+    }
+   ],
+   "explanation": "The diagnosis of the world's blindness: the gunas are a weather so continuous it is mistaken for the sky. Attention, captured by the three-colored play, never asks what the play is projected on. He is not hidden far away but hidden in plain depth — param, just beyond the moods, exactly where no one looks.",
+   "connection": "Explains 7.3's rarity: the veil is woven of the very states everyone lives inside.",
+   "schools_note": null,
+   "reflection": "Notice the lens at work once today: the gunas showing you everything except what stands behind them.",
+   "background": "The teaching confronts the veil: deluded by the three strands, the world does not recognize Him; His divine maya is hard to cross — but those who take refuge in Him cross it. Four kinds of virtuous seekers come; dearest is the knower; and rarest, after many births, the soul that says Vasudeva is all."
+  },
+  {
+   "chapter": 7,
+   "verse": 14,
+   "speaker": null,
+   "devanagari": "दैवी ह्येषा गुणमयी मम माया दुरत्यया ।\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते॥",
+   "transliteration": "daivī hyeṣā guṇamayī mama māyā duratyayā\nmāmeva ye prapadyante māyāmetāṃ taranti te",
+   "essence": "For this divine maya of mine, made of the gunas, is hard to cross. Those who take refuge in me alone pass beyond this maya.",
+   "translation": "Verily, this divine illusion of Mine, made up of the (three) alities (of Nature) is difficult to cross over; those who take refuge in Me alone, cross over this illusion.",
+   "anvaya": [
+    {
+     "word": "दैवी हि एषा गुणमयी",
+     "meaning": "for divine is this guna-made"
+    },
+    {
+     "word": "मम माया दुरत्यया",
+     "meaning": "maya of mine, hard to cross"
+    },
+    {
+     "word": "माम् एव ये प्रपद्यन्ते",
+     "meaning": "those who take refuge in me alone"
+    },
+    {
+     "word": "मायाम् एतां तरन्ति ते",
+     "meaning": "they cross over this maya"
+    }
+   ],
+   "explanation": "The veil of 7.13 is named and given an owner: mama māyā — *my* maya, daivī, divine, not a cosmic accident but his own power of enchantment. Hence the futility of fighting it head-on: duratyayā, no technique unaided storms the magician's spell. The single exit is stated with surgical economy: mām eva ye prapadyante — go past the spell by going to the one who casts it. Daivi hy esha guna-mayi — the maya verse the whole later tradition orbits. Mama maya: the veil is His, divine workmanship, not a rival power — which is exactly why mam eva ye prapadyante works: the weaver can part what no one can tear. Commentators across schools converge on the verse's practical core: the exit from illusion is not analysis but allegiance.",
+   "connection": "Answers 7.13's predicament: the door through the veil is surrender to its weaver.",
+   "schools_note": "A watershed verse. Advaita reads maya as the inexplicable power of appearance that knowledge dispels; the bhakti schools stress the verse's own remedy — prapatti, refuge — making grace, not analysis, the crossing. All agree on its force: self-effort alone does not break this enchantment.",
+   "reflection": "When the veil proves uncrossable today, stop climbing and try the door: refuge, simply taken.",
+   "background": "The teaching confronts the veil: deluded by the three strands, the world does not recognize Him; His divine maya is hard to cross — but those who take refuge in Him cross it. Four kinds of virtuous seekers come; dearest is the knower; and rarest, after many births, the soul that says Vasudeva is all."
+  },
+  {
+   "chapter": 7,
+   "verse": 15,
+   "speaker": null,
+   "devanagari": "न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः ।\nमाययापहृतज्ञाना आसुरं भावमाश्रिताः॥",
+   "transliteration": "na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ\nmāyayāpahṛtajñānā āsuraṃ bhāvamāśritāḥ",
+   "essence": "Evil-doers, the deluded, the lowest of men do not take refuge in me — their discernment stolen by maya, clinging to a demonic mode of being.",
+   "translation": "The evil-doers and the deluded who are the lowest of men do not seek Me; they whose knowledge is destroyed by illusion follow the ways of demons.",
+   "anvaya": [
+    {
+     "word": "न मां दुष्कृतिनः मूढाः",
+     "meaning": "not to me do the evil-doers, the deluded"
+    },
+    {
+     "word": "प्रपद्यन्ते नराधमाः",
+     "meaning": "take refuge — the lowest of men"
+    },
+    {
+     "word": "माययापहृतज्ञानाः",
+     "meaning": "their knowledge carried off by maya"
+    },
+    {
+     "word": "आसुरं भावम् आश्रिताः",
+     "meaning": "resorting to the asuric mode of being"
+    }
+   ],
+   "explanation": "If the door is open and simple, why is it not crowded? Four declines, really one: māyayāpahṛta-jñānāḥ — the very faculty that would seek the door has been pickpocketed by the enchantment. The āsura mode is not horns and fangs; it is the settled conviction that grabbing is wiser than offering, which makes surrender look like the one absurd move.",
+   "connection": "The shadow side of 7.14's promise: who declines the crossing, and what declined in them first.",
+   "schools_note": null,
+   "reflection": "Check where cleverness in you serves the wrong master — intelligence stolen is the subtlest theft.",
+   "background": "The teaching confronts the veil: deluded by the three strands, the world does not recognize Him; His divine maya is hard to cross — but those who take refuge in Him cross it. Four kinds of virtuous seekers come; dearest is the knower; and rarest, after many births, the soul that says Vasudeva is all."
+  },
+  {
+   "chapter": 7,
+   "verse": 16,
+   "speaker": null,
+   "devanagari": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन ।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ॥",
+   "transliteration": "caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna\nārto jijñāsurarthārthī jñānī ca bharatarṣabha",
+   "essence": "Four kinds of virtuous people worship me, Arjuna: the distressed, the seeker of knowledge, the seeker of wealth, and the knower.",
+   "translation": "Four kinds of virtuous men worship Me, O Arjuna, and they are the distressed, the seekr of knowledge, the seekr of wealth and the wise, O lord of the Bharatas.",
+   "anvaya": [
+    {
+     "word": "चतुर्विधाः भजन्ते मां",
+     "meaning": "four kinds worship me"
+    },
+    {
+     "word": "जनाः सुकृतिनः अर्जुन",
+     "meaning": "virtuous people, O Arjuna"
+    },
+    {
+     "word": "आर्तः जिज्ञासुः अर्थार्थी",
+     "meaning": "the afflicted, the inquirer, the wealth-seeker"
+    },
+    {
+     "word": "ज्ञानी च भरतर्षभ",
+     "meaning": "and the knower, O bull of the Bharatas"
+    }
+   ],
+   "explanation": "A census of the world's prayers, conducted without contempt: the ārta who comes bleeding, the jijñāsu who comes wondering, the arthārthī who comes wanting — and the jñānī who comes for nothing, having found. All four are sukṛtinaḥ, *virtuous*: even the bargaining prayer turned toward him is credited as turning. Doors are graded by how far they open, not condemned for being doors. Chatur-vidha bhajante mam — the four-fold census of seekers: the hurting, the curious, the wanting, the knowing — all titled sukritinah, virtuous. The tradition reads the list as the Gita's pastoral genius: motives are graded later (7.17), but admitted now. Whatever first turns the face counts; the door does not interview the knock.",
+   "connection": "Maps who does walk through 7.14's door — every motive admitted at its own depth.",
+   "schools_note": null,
+   "reflection": "Whichever of the four you are today — hurting, curious, needing, knowing — come anyway. All four count.",
+   "background": "The teaching confronts the veil: deluded by the three strands, the world does not recognize Him; His divine maya is hard to cross — but those who take refuge in Him cross it. Four kinds of virtuous seekers come; dearest is the knower; and rarest, after many births, the soul that says Vasudeva is all."
+  },
+  {
+   "chapter": 7,
+   "verse": 17,
+   "speaker": null,
+   "devanagari": "तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते ।\nप्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः॥",
+   "transliteration": "teṣāṃ jñānī nityayukta ekabhaktirviśiṣyate\npriyo hi jñānino'tyarthamahaṃ sa ca mama priyaḥ",
+   "essence": "Of these, the knower — ever harnessed, devoted to the One alone — excels. For I am exceedingly dear to the knower, and the knower is dear to me.",
+   "translation": "Of them the wise, ever steadfast and devoted to the One, excels (is the best); for I am exceedingly dear to the wise and he is dear to Me.",
+   "anvaya": [
+    {
+     "word": "तेषां ज्ञानी नित्ययुक्तः",
+     "meaning": "of these, the knower, ever-yoked"
+    },
+    {
+     "word": "एकभक्तिः विशिष्यते",
+     "meaning": "of single devotion, excels"
+    },
+    {
+     "word": "प्रियः हि ज्ञानिनः अत्यर्थम्",
+     "meaning": "for exceedingly dear, to the knower"
+    },
+    {
+     "word": "अहं सः च मम प्रियः",
+     "meaning": "am I, and he is dear to me"
+    }
+   ],
+   "explanation": "The ranking, and its reason is not merit but love: eka-bhakti, devotion with one object only, because the jñānī has nothing left to ask the Divine *for* — the Divine has become the point. And then the line that humanizes the Absolute: priyo hi... aham, sa ca mama priyaḥ — I am dear to him; he is dear to *me*. The current runs both ways.",
+   "connection": "Crowns 7.16's four: when need falls away, what remains between soul and God is affection.",
+   "schools_note": null,
+   "reflection": "Love the highest today for no reason at all — drop one 'because' from your devotion.",
+   "background": "The teaching confronts the veil: deluded by the three strands, the world does not recognize Him; His divine maya is hard to cross — but those who take refuge in Him cross it. Four kinds of virtuous seekers come; dearest is the knower; and rarest, after many births, the soul that says Vasudeva is all."
+  },
+  {
+   "chapter": 7,
+   "verse": 18,
+   "speaker": null,
+   "devanagari": "उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ।\nआस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम्॥",
+   "transliteration": "udārāḥ sarva evaite jñānī tvātmaiva me matam\nāsthitaḥ sa hi yuktātmā māmevānuttamāṃ gatim",
+   "essence": "Noble are they all — but the knower I hold to be my very Self. For that one, harnessed, abides in me as the highest goal.",
+   "translation": "Noble indeed are all these; but I deem the wise man as My very Self; for, steadfast in mind he is established in Me alone as the supreme goal.",
+   "anvaya": [
+    {
+     "word": "उदाराः सर्वे एव एते",
+     "meaning": "noble indeed are all these"
+    },
+    {
+     "word": "ज्ञानी तु आत्मा एव मे मतम्",
+     "meaning": "but the knower is my very Self — so I hold"
+    },
+    {
+     "word": "आस्थितः सः हि युक्तात्मा",
+     "meaning": "for that one, with self yoked, abides"
+    },
+    {
+     "word": "माम् एव अनुत्तमां गतिम्",
+     "meaning": "in me alone as the unsurpassed goal"
+    }
+   ],
+   "explanation": "First the courtesy — udārāḥ sarva eva, all four are noble, none dismissed — then the staggering elevation: ātmaiva me, the knower is *my own Self*. Not servant, not even friend: the separation itself has worn through. When a being wants nothing but God, God ceases to count that being as other.",
+   "connection": "Pushes 7.17's mutual love to identity — the chapter's quiet peak of intimacy.",
+   "schools_note": null,
+   "reflection": "Hear the staggering courtesy once more: the knower is His very self. Aspire to be so absorbed.",
+   "background": "The teaching confronts the veil: deluded by the three strands, the world does not recognize Him; His divine maya is hard to cross — but those who take refuge in Him cross it. Four kinds of virtuous seekers come; dearest is the knower; and rarest, after many births, the soul that says Vasudeva is all."
+  },
+  {
+   "chapter": 7,
+   "verse": 19,
+   "speaker": null,
+   "devanagari": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः॥",
+   "transliteration": "bahūnāṃ janmanāmante jñānavānmāṃ prapadyate\nvāsudevaḥ sarvamiti sa mahātmā sudurlabhaḥ",
+   "essence": "At the end of many births, the one of knowledge takes refuge in me, realizing 'Vasudeva is all there is.' Such a great soul is exceedingly rare.",
+   "translation": "At the end of many births the wise man comes to Me, realising that all this is Vaasudeva (the innermost Self); such a great soul (Mahatma) is very hard to find.",
+   "anvaya": [
+    {
+     "word": "बहूनां जन्मनाम् अन्ते",
+     "meaning": "at the end of many births"
+    },
+    {
+     "word": "ज्ञानवान् मां प्रपद्यते",
+     "meaning": "the one possessed of knowledge takes refuge in me"
+    },
+    {
+     "word": "वासुदेवः सर्वम् इति",
+     "meaning": "'Vasudeva is everything' — thus (realizing)"
+    },
+    {
+     "word": "सः महात्मा सुदुर्लभः",
+     "meaning": "that great soul is very hard to find"
+    }
+   ],
+   "explanation": "The timeline of the jñānī's arrival: bahūnāṁ janmanām ante — lifetimes of seeking, refining, exhausting every partial answer, until the recognition that cannot be taught dawns whole: vāsudevaḥ sarvam iti, *this* — all of it — is He. Three words that end the search because they leave nowhere outside Him to search. Su-durlabhaḥ: the universe does not produce this often. Vasudevah sarvam iti — the mahavakya of the Gita's own minting: Vasudeva is all there is. Bahunam janmanam ante — the price tag is lifetimes, and the commentaries refuse to discount it: this sentence is not adopted but arrived at. Sa mahatma su-durlabhah: Chaitanya's tradition reads the verse weeping; Shankara reads it as knowledge's final form. Both call it the rarest sentence a human ever truly says.",
+   "connection": "Gives 7.17–18's knower his biography — and the mantra in which all knowing terminates.",
+   "schools_note": "'Vasudevah sarvam iti' is claimed by every school as its own summit: for Advaita, the realization of non-duality itself; for Vaishnavas, the vision that the personal Krishna pervades and owns all. The verse holds both readings without strain — which is perhaps its point.",
+   "reflection": "Practice the rare sentence once today, looking at anything: Vasudeva is all this.",
+   "background": "The teaching confronts the veil: deluded by the three strands, the world does not recognize Him; His divine maya is hard to cross — but those who take refuge in Him cross it. Four kinds of virtuous seekers come; dearest is the knower; and rarest, after many births, the soul that says Vasudeva is all."
+  },
+  {
+   "chapter": 7,
+   "verse": 20,
+   "speaker": null,
+   "devanagari": "कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः ।\nतं तं नियममास्थाय प्रकृत्या नियताः स्वया॥",
+   "transliteration": "kāmaistaistairhṛtajñānāḥ prapadyante'nyadevatāḥ\ntaṃ taṃ niyamamāsthāya prakṛtyā niyatāḥ svayā",
+   "essence": "Those whose discernment is carried off by this or that desire resort to other deities, following this or that rite, constrained by their own natures.",
+   "translation": "Those whose wisdom has been rent away by this or that desire, go to other gods, following this or that rite, led by their own nature.",
+   "anvaya": [
+    {
+     "word": "कामैः तैः तैः हृतज्ञानाः",
+     "meaning": "by various desires, their knowledge carried away"
+    },
+    {
+     "word": "प्रपद्यन्ते अन्यदेवताः",
+     "meaning": "they resort to other deities"
+    },
+    {
+     "word": "तं तं नियमम् आस्थाय",
+     "meaning": "adopting this or that observance"
+    },
+    {
+     "word": "प्रकृत्या नियताः स्वया",
+     "meaning": "constrained by their own nature"
+    }
+   ],
+   "explanation": "The mirror of 7.19: where the knower's vision gathers everything into One, desire splinters vision into many — each want hiring the deity of its department. The verdict is diagnostic, not sneering: prakṛtyā niyatāḥ svayā, steered by their own natures. People worship at the altitude their longings allow.",
+   "connection": "Returns from the rare summit to the common landscape: why most worship remains plural and transactional.",
+   "schools_note": null,
+   "reflection": "Audit your altars honestly: which of your worships were designed by your appetites?",
+   "background": "Krishna accounts for the world's many altars: desires carry people to other gods, and He Himself steadies each one's faith and grants the fruits through those very forms — but finite worship wins finite goods; the worshipers of gods go to gods; His own come to Him."
+  },
+  {
+   "chapter": 7,
+   "verse": 21,
+   "speaker": null,
+   "devanagari": "यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति ।\nतस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम्॥",
+   "transliteration": "yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitumicchati\ntasya tasyācalāṃ śraddhāṃ tāmeva vidadhāmyaham",
+   "essence": "Whatever form a devotee seeks to worship with faith, that very faith I make firm and unwavering.",
+   "translation": "Whatsoever form any devotee desires to worship with faith that (same) faith of his I make firm and unflinching.",
+   "anvaya": [
+    {
+     "word": "यः यः यां यां तनुं भक्तः",
+     "meaning": "whatever devotee, whatever form"
+    },
+    {
+     "word": "श्रद्धया अर्चितुम् इच्छति",
+     "meaning": "desires to worship with faith"
+    },
+    {
+     "word": "तस्य तस्य अचलां श्रद्धां",
+     "meaning": "of that very one, the unwavering faith"
+    },
+    {
+     "word": "ताम् एव विदधामि अहम्",
+     "meaning": "that indeed I bestow"
+    }
+   ],
+   "explanation": "A theological astonishment hiding in administrative language: when anyone, anywhere, kindles faith toward any form — that flame is steadied *by him*. He underwrites the devotions of his apparent rivals; the God people bypass is the one keeping their bypass lit. Generosity at this depth has stopped keeping score.",
+   "connection": "Deepens 4.11's 'as they approach me' — even the detour's fuel is supplied by the destination.",
+   "schools_note": "The Lord steadying faith aimed at other deities is the tradition's test-case in theology of tolerance: Shankara — all forms are the one Self, so all faith is ultimately well-placed; Ramanuja — the Lord, as inner Self of every deva, receives and rewards the worship Himself (cited with 7.22-23's finitude clause); the verse thus grounds both generosity toward all worship and the recommendation of its highest address.",
+   "reflection": "Respect every sincere faith you meet today — the steadiness in it is underwritten from above.",
+   "background": "Krishna accounts for the world's many altars: desires carry people to other gods, and He Himself steadies each one's faith and grants the fruits through those very forms — but finite worship wins finite goods; the worshipers of gods go to gods; His own come to Him."
+  },
+  {
+   "chapter": 7,
+   "verse": 22,
+   "speaker": null,
+   "devanagari": "स तया श्रद्धया युक्तस्तस्याराधनमीहते ।\nलभते च ततः कामान्मयैव विहितान्हि तान्॥",
+   "transliteration": "sa tayā śraddhayā yuktastasyārādhanamīhate\nlabhate ca tataḥ kāmānmayaivavihitānhi tān",
+   "essence": "Endowed with that faith, one worships that form and obtains one's desires from it — though in truth they are dispensed by me alone.",
+   "translation": "Endowed with that faith, he engages in the worship of that (form) and from it he obtains his desire, these being verily ordained by Me (alone).",
+   "anvaya": [
+    {
+     "word": "सः तया श्रद्धया युक्तः",
+     "meaning": "that one, endowed with that faith"
+    },
+    {
+     "word": "तस्य आराधनम् ईहते",
+     "meaning": "strives in the worship of that (form)"
+    },
+    {
+     "word": "लभते च ततः कामान्",
+     "meaning": "and obtains thence the desires"
+    },
+    {
+     "word": "मया एव विहितान् हि तान्",
+     "meaning": "which are ordained, in truth, by me alone"
+    }
+   ],
+   "explanation": "The supply chain behind every answered prayer: the worship goes to the chosen counter, the request is filled — mayaiva vihitān, from his warehouse, always. No deity is an independent vendor; all granting routes through the one Granter. The system works precisely because its many faces share a single treasury.",
+   "connection": "Completes 7.21's mechanics: faith steadied by him, fruits delivered by him — the middle gods are windows.",
+   "schools_note": null,
+   "reflection": "Receive one answered wish today knowing who the real treasurer was.",
+   "background": "Krishna accounts for the world's many altars: desires carry people to other gods, and He Himself steadies each one's faith and grants the fruits through those very forms — but finite worship wins finite goods; the worshipers of gods go to gods; His own come to Him."
+  },
+  {
+   "chapter": 7,
+   "verse": 23,
+   "speaker": null,
+   "devanagari": "अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।\nदेवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि॥",
+   "transliteration": "antavattu phalaṃ teṣāṃ tadbhavatyalpamedhasām\ndevāndevayajo yānti madbhaktā yānti māmapi",
+   "essence": "But finite is the fruit of those of small understanding. Worshipers of the gods go to the gods; my devotees come to me.",
+   "translation": "Verily the reward (fruit) that accrues to those men of small intelligence is finite. The worshippers of the gods go to them, but My devotees come to Me.",
+   "anvaya": [
+    {
+     "word": "अन्तवत् तु फलं तेषां",
+     "meaning": "but ending-bound is the fruit of those"
+    },
+    {
+     "word": "तत् भवति अल्पमेधसाम्",
+     "meaning": "it becomes, of the small-minded"
+    },
+    {
+     "word": "देवान् देवयजः यान्ति",
+     "meaning": "to the gods go the god-worshipers"
+    },
+    {
+     "word": "मद्भक्ताः यान्ति माम् अपि",
+     "meaning": "my devotees come even to me"
+    }
+   ],
+   "explanation": "The honest price-tag on 7.21–22's generosity: antavat, the lesser counters pay in perishable coin — health, wealth, heavens with expiry dates. The law beneath it is destination-by-orientation: you arrive at what you aimed at. Aim at the limited and receive it, fully; aim at the Unlimited and receive *that*. The tragedy of small prayers is not that they fail but that they succeed.",
+   "connection": "The fine print after the open-handedness: every worship works, and each delivers exactly its own size.",
+   "schools_note": null,
+   "reflection": "Aim today at the source, not the perks — finite worship buys finite goods.",
+   "background": "Krishna accounts for the world's many altars: desires carry people to other gods, and He Himself steadies each one's faith and grants the fruits through those very forms — but finite worship wins finite goods; the worshipers of gods go to gods; His own come to Him."
+  },
+  {
+   "chapter": 7,
+   "verse": 24,
+   "speaker": null,
+   "devanagari": "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः ।\nपरं भावमजानन्तो ममाव्ययमनुत्तमम्॥",
+   "transliteration": "avyaktaṃ vyaktimāpannaṃ manyante māmabuddhayaḥ\nparaṃ bhāvamajānanto mamāvyayamanuttamam",
+   "essence": "The unintelligent think of me, the unmanifest, as having come into manifestation — not knowing my higher being, imperishable and supreme.",
+   "translation": "The foolish think of Me, the Unmanifest, as having manifestation, knowing not My higher, immutable and most excellent nature.",
+   "anvaya": [
+    {
+     "word": "अव्यक्तं व्यक्तिम् आपन्नं",
+     "meaning": "the unmanifest as having entered manifestation"
+    },
+    {
+     "word": "मन्यन्ते माम् अबुद्धयः",
+     "meaning": "think me, the undiscerning"
+    },
+    {
+     "word": "परं भावम् अजानन्तः",
+     "meaning": "not knowing my higher being"
+    },
+    {
+     "word": "मम अव्ययम् अनुत्तमम्",
+     "meaning": "mine — imperishable, unsurpassed"
+    }
+   ],
+   "explanation": "The subtlest error in the chapter: taking the visible Krishna as the whole of Krishna — a man who became briefly divine, or a god shrunk to fit a body. The correction: the form is real, but behind it stands paraṁ bhāvam, an unmanifest supremacy the eyes never exhaust. The error is not seeing him; it is concluding that what is seen is all there is.",
+   "connection": "Guards 7.19's 'Vasudeva is all' from its cheap inversion — 'all of Vasudeva is this figure'.",
+   "schools_note": null,
+   "reflection": "Catch yourself shrinking the infinite to its visible form today — honor the door, seek the dwelling.",
+   "background": "The chapter closes on the hiddenness and the disclosure: the unintelligent take the unmanifest to have become merely visible; veiled by yoga-maya He is not revealed to all; He knows all beings, none know Him — yet those freed of the delusion of opposites worship Him firmly and know Him even at the hour of departure."
+  },
+  {
+   "chapter": 7,
+   "verse": 25,
+   "speaker": null,
+   "devanagari": "नाहं प्रकाशः सर्वस्य योगमायासमावृतः ।\nमूढोऽयं नाभिजानाति लोको मामजमव्ययम्॥",
+   "transliteration": "nāhaṃ prakāśaḥ sarvasya yogamāyāsamāvṛtaḥ\nmūḍho'yaṃ nābhijānāti loko māmajamavyayam",
+   "essence": "Veiled by my yoga-maya, I am not revealed to all. This deluded world does not recognize me — unborn, imperishable.",
+   "translation": "I am not manifest to all (as I am) veiled by the Yoga-Maya. This deluded world does not know Me, the unborn and imperishable.",
+   "anvaya": [
+    {
+     "word": "न अहं प्रकाशः सर्वस्य",
+     "meaning": "I am not manifest to everyone"
+    },
+    {
+     "word": "योगमायासमावृतः",
+     "meaning": "enveloped by yoga-maya"
+    },
+    {
+     "word": "मूढः अयं न अभिजानाति",
+     "meaning": "this deluded (world) does not recognize"
+    },
+    {
+     "word": "लोकः माम् अजम् अव्ययम्",
+     "meaning": "me — the world — as unborn, undecaying"
+    }
+   ],
+   "explanation": "Why the error of 7.24 is nearly universal: the concealment is active. Yoga-māyā-samāvṛtaḥ — wrapped in his own power of seeming, the way an actor's role hides the actor most perfectly from those nearest the stage. The hiddenness of God is not distance or absence; it is camouflage worn within the scene.",
+   "connection": "Explains the veil's operation: 7.13's blindness is also, from his side, a deliberate discretion.",
+   "schools_note": null,
+   "reflection": "Let the divine hiddenness be courtesy, not absence — room left for your love to choose freely.",
+   "background": "The chapter closes on the hiddenness and the disclosure: the unintelligent take the unmanifest to have become merely visible; veiled by yoga-maya He is not revealed to all; He knows all beings, none know Him — yet those freed of the delusion of opposites worship Him firmly and know Him even at the hour of departure."
+  },
+  {
+   "chapter": 7,
+   "verse": 26,
+   "speaker": null,
+   "devanagari": "वेदाहं समतीतानि वर्तमानानि चार्जुन ।\nभविष्याणि च भूतानि मां तु वेद न कश्चन॥",
+   "transliteration": "vedāhaṃ samatītāni vartamānāni cārjuna\nbhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana",
+   "essence": "I know the beings of the past, the present and the future, Arjuna — but no one knows me.",
+   "translation": "I know, O Arjuna, the beings of the past, the present and the future, but no one knows Me.",
+   "anvaya": [
+    {
+     "word": "वेद अहं समतीतानि",
+     "meaning": "I know those gone before"
+    },
+    {
+     "word": "वर्तमानानि च अर्जुन",
+     "meaning": "and the present ones, O Arjuna"
+    },
+    {
+     "word": "भविष्याणि च भूतानि",
+     "meaning": "and the beings to come"
+    },
+    {
+     "word": "मां तु वेद न कश्चन",
+     "meaning": "but me, no one knows"
+    }
+   ],
+   "explanation": "The asymmetry of knowledge, drawn absolutely: every being across all three times stands transparent before him; he stands opaque before every being. The mirror sees the room; the room cannot see into the mirror. Said by anyone else, vanity — said from the position 7.24–25 described, simple geometry.",
+   "connection": "Caps the hiddenness verses with their starkest formulation — total knower, totally unknown.",
+   "schools_note": null,
+   "reflection": "Rest in the asymmetry today: fully known by what you cannot corner. Let yourself be the known one.",
+   "background": "The chapter closes on the hiddenness and the disclosure: the unintelligent take the unmanifest to have become merely visible; veiled by yoga-maya He is not revealed to all; He knows all beings, none know Him — yet those freed of the delusion of opposites worship Him firmly and know Him even at the hour of departure."
+  },
+  {
+   "chapter": 7,
+   "verse": 27,
+   "speaker": null,
+   "devanagari": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।\nसर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप॥",
+   "transliteration": "icchādveṣasamutthena dvandvamohena bhārata\nsarvabhūtāni sammohaṃ sarge yānti parantapa",
+   "essence": "By the delusion of the pairs arising from desire and aversion, Bharata, all beings walk into bewilderment at birth itself.",
+   "translation": "By the delusion of the pairs of opposites arising from desire and aversion, O Bharata, all beings are subject to delusion at birth, O Parantapa.",
+   "anvaya": [
+    {
+     "word": "इच्छाद्वेषसमुत्थेन",
+     "meaning": "arisen from desire and aversion"
+    },
+    {
+     "word": "द्वन्द्वमोहेन भारत",
+     "meaning": "by the delusion of the pairs, O Bharata"
+    },
+    {
+     "word": "सर्वभूतानि सम्मोहं",
+     "meaning": "all beings into bewilderment"
+    },
+    {
+     "word": "सर्गे यान्ति परन्तप",
+     "meaning": "go, at creation itself, O Parantapa"
+    }
+   ],
+   "explanation": "The mechanics of the universal blindness: icchā and dveṣa — want and recoil — generate the pairs, and the pairs (pleasant-unpleasant, gain-loss, mine-yours) form the lens every newborn perceives through, sarge, from the very start. No one *falls* into delusion; everyone arrives pre-fitted with it. Which makes the next verse's exit all the more precious.",
+   "connection": "Traces 7.25–26's unknowing to its engine: the sorting reflex installed before the first memory.",
+   "schools_note": null,
+   "reflection": "Watch the pull-push trance for one hour — every like and dislike a thread of the birth-veil.",
+   "background": "The chapter closes on the hiddenness and the disclosure: the unintelligent take the unmanifest to have become merely visible; veiled by yoga-maya He is not revealed to all; He knows all beings, none know Him — yet those freed of the delusion of opposites worship Him firmly and know Him even at the hour of departure."
+  },
+  {
+   "chapter": 7,
+   "verse": 28,
+   "speaker": null,
+   "devanagari": "येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।\nते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः॥",
+   "transliteration": "yeṣāṃ tvantagataṃ pāpaṃ janānāṃ puṇyakarmaṇām\nte dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ",
+   "essence": "But those whose wrongdoing has come to an end, people of pure deeds — freed from the delusion of the pairs, they worship me with firm resolve.",
+   "translation": "But those men of virtuous deeds whose sins have come to an end, and who are freed from the delusion of the pairs of opposites, worship Me, steadfast in their vows.",
+   "anvaya": [
+    {
+     "word": "येषां तु अन्तगतं पापं",
+     "meaning": "but those whose sin has reached its end"
+    },
+    {
+     "word": "जनानां पुण्यकर्मणाम्",
+     "meaning": "of people of meritorious deeds"
+    },
+    {
+     "word": "ते द्वन्द्वमोहनिर्मुक्ताः",
+     "meaning": "they, released from the pairs' delusion"
+    },
+    {
+     "word": "भजन्ते मां दृढव्रताः",
+     "meaning": "worship me, firm in vow"
+    }
+   ],
+   "explanation": "The exit from 7.27's congenital fog, and its sequence matters: anta-gataṁ pāpam — accumulated wrong worn down by lives of clean action — *then* the lens of the pairs loosens, *then* worship becomes dṛḍha-vrata, steady. Purity is not the reward of vision; it is vision's prerequisite. Conduct clears the windshield that doctrine alone cannot.",
+   "connection": "Answers 7.27: the fog is congenital but not permanent — washed thin by lived goodness.",
+   "schools_note": null,
+   "reflection": "Do one clean deed today and feel it thin the lens — ethics is optics here.",
+   "background": "The chapter closes on the hiddenness and the disclosure: the unintelligent take the unmanifest to have become merely visible; veiled by yoga-maya He is not revealed to all; He knows all beings, none know Him — yet those freed of the delusion of opposites worship Him firmly and know Him even at the hour of departure."
+  },
+  {
+   "chapter": 7,
+   "verse": 29,
+   "speaker": null,
+   "devanagari": "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये ।\nते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम्॥",
+   "transliteration": "jarāmaraṇamokṣāya māmāśritya yatanti ye\nte brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam",
+   "essence": "Those who strive for freedom from old age and death, taking refuge in me — they know Brahman fully, the inmost self, and action entire.",
+   "translation": "Those who strive for liberation from old age and death, taking refuge in Me, realise in full ï1thatï1 Brahman, the whole knowledge of the Self and all action.",
+   "anvaya": [
+    {
+     "word": "जरामरणमोक्षाय",
+     "meaning": "for liberation from old age and death"
+    },
+    {
+     "word": "माम् आश्रित्य यतन्ति ये",
+     "meaning": "taking refuge in me, those who strive"
+    },
+    {
+     "word": "ते ब्रह्म तत् विदुः कृत्स्नम्",
+     "meaning": "they know that Brahman entirely"
+    },
+    {
+     "word": "अध्यात्मं कर्म च अखिलम्",
+     "meaning": "the inmost self, and action complete"
+    }
+   ],
+   "explanation": "The chapter begins its handover: those who flee the two unanswerables — aging and death — by fleeing *to him* are promised the whole curriculum: Brahman, adhyātma, karma, kṛtsnam, complete. Refuge turns out to be the fastest scholarship; what the mind chases for lifetimes, surrender is simply handed.",
+   "connection": "Opens the bridge to chapter 8 by naming the terms Arjuna is about to ask him to define.",
+   "schools_note": null,
+   "reflection": "Let even the plain wish not to be erased drive your practice today — that root is honored.",
+   "background": "The chapter closes on the hiddenness and the disclosure: the unintelligent take the unmanifest to have become merely visible; veiled by yoga-maya He is not revealed to all; He knows all beings, none know Him — yet those freed of the delusion of opposites worship Him firmly and know Him even at the hour of departure."
+  },
+  {
+   "chapter": 7,
+   "verse": 30,
+   "speaker": null,
+   "devanagari": "साधिभूताधिदैवं मां साधियज्ञं च ये विदुः ।\nप्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः॥",
+   "transliteration": "sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ\nprayāṇakāle'pi ca māṃ te viduryuktacetasaḥ",
+   "essence": "Those who know me together with the adhibhuta, the adhidaiva and the adhiyajna — they, of harnessed minds, know me even at the hour of departure.",
+   "translation": "Those who know Me with the Adhibhuta (pertaining to the elements), Adhidaiva (pertaining to the gods) and the Adhiyajna (pertaining to the sacrifice) know Me even at the time of death, steadfast in mind.",
+   "anvaya": [
+    {
+     "word": "साधिभूताधिदैवं मां",
+     "meaning": "me, with the adhibhuta and adhidaiva"
+    },
+    {
+     "word": "साधियज्ञं च ये विदुः",
+     "meaning": "and with the adhiyajna, those who know"
+    },
+    {
+     "word": "प्रयाणकाले अपि च मां",
+     "meaning": "even at the time of departure, me"
+    },
+    {
+     "word": "ते विदुः युक्तचेतसः",
+     "meaning": "they know, of yoked minds"
+    }
+   ],
+   "explanation": "The chapter closes mid-sentence, deliberately: three technical terms dropped without definition, and one phrase that changes the conversation's gravity — prayāṇa-kāle, at the time of going forth. To know him so thoroughly that even dying does not dislodge the knowing: that is the final examination, and chapter 8 will be its study guide.",
+   "connection": "The cliffhanger that generates chapter 8: Arjuna's next words will be exactly these undefined terms.",
+   "schools_note": null,
+   "reflection": "Hold one truth firmly enough today that you could hold it at the hour of departure.",
+   "background": "The chapter closes on the hiddenness and the disclosure: the unintelligent take the unmanifest to have become merely visible; veiled by yoga-maya He is not revealed to all; He knows all beings, none know Him — yet those freed of the delusion of opposites worship Him firmly and know Him even at the hour of departure."
+  }
+ ]
+}

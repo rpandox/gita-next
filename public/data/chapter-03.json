@@ -1,0 +1,1416 @@
+{
+ "chapter": 3,
+ "name": "कर्मयोग",
+ "transliteration": "Karm Yog",
+ "meaning": "The Yoga of Action",
+ "teaching": "Renouncing the world is not the same as renouncing the ego, and stillness of the body is not stillness of the mind. Krishna closes the escape route: no one stays actionless for even a moment, so act — fully, skillfully, as offering — and let the action itself become the discipline. Action is rescued from suspicion: the world itself runs on offered work, and the same deed that binds the grasping hand frees the open one. The chapter ends by naming the real enemy — desire — and the high ground from which it falls.",
+ "key_verses": "३.५ · ३.८–९ · ३.१९–२१ · ३.२७ · ३.३५ · ३.४२–४३",
+ "questions": [
+  "Where are you performing inaction — appearing detached while the mind churns?",
+  "Whose example are you, whether you intend it or not?",
+  "Krishna names desire as the enemy 'seated in the senses, mind and intellect.' Where is it seated most firmly in you?"
+ ],
+ "verse_count": 43,
+ "verses": [
+  {
+   "chapter": 3,
+   "verse": 1,
+   "speaker": "अर्जुन उवाच",
+   "devanagari": "ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव॥",
+   "transliteration": "jyāyasī cetkarmaṇaste matā buddhirjanārdana\ntatkiṃ karmaṇi ghore māṃ niyojayasi keśava",
+   "essence": "Arjuna asks: if you hold understanding higher than action, Krishna, why push me into this terrible deed?",
+   "translation": "If Thou thinkest that knowledge is superior to action, O Krishna, why then, O Kesava, dost Thou ask me to engage in this terrible action?",
+   "anvaya": [
+    {
+     "word": "ज्यायसी चेत् कर्मणः ते मता बुद्धिः",
+     "meaning": "if understanding is deemed by you superior to action"
+    },
+    {
+     "word": "जनार्दन",
+     "meaning": "O Janardana"
+    },
+    {
+     "word": "तत् किं कर्मणि घोरे",
+     "meaning": "then why in this dreadful action"
+    },
+    {
+     "word": "मां नियोजयसि",
+     "meaning": "do you engage me"
+    },
+    {
+     "word": "केशव",
+     "meaning": "O Keshava"
+    }
+   ],
+   "explanation": "A fair catch. Chapter 2 praised the steady buddhi above all and ended in the still ocean of the sage — and also said 'therefore fight.' Arjuna hears a contradiction and, like every good student, names it. The whole of chapter 3 exists because he refused to nod along.",
+   "connection": "Answers nothing yet — it questions the join between 2.49 ('action is far inferior') and 2.18/2.37 ('therefore fight').",
+   "schools_note": null,
+   "reflection": "When you ask for clarity, check first whether you are seeking light or seeking exit.",
+   "background": "Arjuna hears a tension and presses it: if understanding stands above action, why is he being urged into this terrible deed? He asks Krishna — whose words seem to him mixed — for one definite path to the highest good."
+  },
+  {
+   "chapter": 3,
+   "verse": 2,
+   "speaker": null,
+   "devanagari": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्॥",
+   "transliteration": "vyāmiśreṇeva vākyena buddhiṃ mohayasīva me\ntadekaṃ vada niścitya yena śreyo'hamāpnuyām",
+   "essence": "With seemingly mixed words you confuse my understanding. Tell me the one thing by which I may reach the highest good.",
+   "translation": "With this apparently perplexing speech, Thou confusest, as it were, my understanding; therefore tell me that one way for certain by which I may attain bliss.",
+   "anvaya": [
+    {
+     "word": "व्यामिश्रेण इव वाक्येन",
+     "meaning": "with words that seem contradictory"
+    },
+    {
+     "word": "बुद्धिं मोहयसि इव मे",
+     "meaning": "you seem to bewilder my understanding"
+    },
+    {
+     "word": "तत् एकं वद निश्चित्य",
+     "meaning": "tell me decisively that one thing"
+    },
+    {
+     "word": "येन श्रेयः अहम् आप्नुयाम्",
+     "meaning": "by which I may attain the highest good"
+    }
+   ],
+   "explanation": "Twice he says iva — 'as if', 'seemingly' — a student's courtesy: the confusion may be mine, not yours. But his demand is the same as in 2.7: ekam, one thing, decided. The mind in crisis wants a single rope, not a braid of paths.",
+   "connection": "Restates 2.7's plea for the decisive śreyas, now sharpened by an apparent contradiction in the answer received.",
+   "schools_note": null,
+   "reflection": "Bring your real confusion to one trusted person today, phrased as plainly as Arjuna's.",
+   "background": "Arjuna hears a tension and presses it: if understanding stands above action, why is he being urged into this terrible deed? He asks Krishna — whose words seem to him mixed — for one definite path to the highest good."
+  },
+  {
+   "chapter": 3,
+   "verse": 3,
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच ।\nलोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\nज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम्॥",
+   "transliteration": "loke'smina dvividhā niṣṭhā purā proktā mayānagha\njñānayogena sāṅkhyānāṃ karmayogena yoginām",
+   "essence": "In this world a twofold path was taught by me of old: the yoga of knowledge for the contemplative, the yoga of action for the active.",
+   "translation": "In this world there is a twofold path, as I said before, O sinless one; the path of knowledge of the Sankhyas and the path of action of the Yogins.",
+   "anvaya": [
+    {
+     "word": "लोके अस्मिन् द्विविधा निष्ठा",
+     "meaning": "in this world a twofold discipline"
+    },
+    {
+     "word": "पुरा प्रोक्ता मया",
+     "meaning": "was declared by me of old"
+    },
+    {
+     "word": "अनघ",
+     "meaning": "O sinless one"
+    },
+    {
+     "word": "ज्ञानयोगेन साङ्ख्यानाम्",
+     "meaning": "by the yoga of knowledge for the followers of Sankhya"
+    },
+    {
+     "word": "कर्मयोगेन योगिनाम्",
+     "meaning": "by the yoga of action for the yogis"
+    }
+   ],
+   "explanation": "Krishna's first move is to deny the contradiction: there were never two rival doctrines, only two entrances suited to two temperaments — the reflective and the active. Neither is ranked here; what is ranked is honesty about which kind of person one actually is. Arjuna, archer to the bone, is being quietly told which door is his.",
+   "connection": "Resolves 3.1–2: the 'mixed words' were two paths for two natures, not one teaching at war with itself.",
+   "schools_note": "The two nishthas — jnana-yoga for the contemplative, karma-yoga for the active — are read by Shankara as two stages of one path (action ripening into renunciate knowledge), by Ramanuja as two valid disciplines suited to adhikara (fitness), both culminating in devotion. The verse is the locus classicus for the Gita's refusal to prescribe one temperament for all.",
+   "reflection": "Stop comparing your path with another's for one day; both were given by the same teacher.",
+   "background": "Krishna untangles the knot from the chariot seat: two ancient paths, one goal; no one stays actionless even a moment; outward stillness with an indulging mind is hypocrisy. He gives the freeing principle — action performed as yajna, as offering, binds no one."
+  },
+  {
+   "chapter": 3,
+   "verse": 4,
+   "speaker": null,
+   "devanagari": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।\nन च संन्यसनादेव सिद्धिं समधिगच्छति॥",
+   "transliteration": "na karmaṇāmanārambhānnaiṣkarmyaṃ puruṣo'śnute\nna ca saṃnyasanādeva siddhiṃ samadhigacchati",
+   "essence": "Not by abstaining from actions does one attain actionlessness, nor by renunciation alone does one reach perfection.",
+   "translation": "Not by non-performance of actions does man reach actionlessness; nor by mere renunciation does he attain to perfection.",
+   "anvaya": [
+    {
+     "word": "न कर्मणाम् अनारम्भात्",
+     "meaning": "not by non-commencement of actions"
+    },
+    {
+     "word": "नैष्कर्म्यं पुरुषः अश्नुते",
+     "meaning": "does a person attain actionlessness"
+    },
+    {
+     "word": "न च संन्यसनात् एव",
+     "meaning": "nor by renunciation alone"
+    },
+    {
+     "word": "सिद्धिं समधिगच्छति",
+     "meaning": "does one attain perfection"
+    }
+   ],
+   "explanation": "The first demolition: naiṣkarmya, the state beyond action, is not produced by stopping. An idle body can house a frantic mind; quitting the field is not the same as quitting the fever. The goal is real — but its road runs through action, not around it.",
+   "connection": "Blocks the exit Arjuna has been eyeing since 1.46: simply not-acting achieves nothing.",
+   "schools_note": null,
+   "reflection": "Notice that resigning from action did not resign you from restlessness — the work was never the problem.",
+   "background": "Krishna untangles the knot from the chariot seat: two ancient paths, one goal; no one stays actionless even a moment; outward stillness with an indulging mind is hypocrisy. He gives the freeing principle — action performed as yajna, as offering, binds no one."
+  },
+  {
+   "chapter": 3,
+   "verse": 5,
+   "speaker": null,
+   "devanagari": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः॥",
+   "transliteration": "na hi kaścitkṣaṇamapi jātu tiṣṭhatyakarmakṛt\nkāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ",
+   "essence": "No one ever rests even a moment without acting; all are driven helplessly to act by the gunas born of nature.",
+   "translation": "Verily none can ever remain for even a moment without performing action; for everyone is made to act helplessly indeed by the alities born of Nature.",
+   "anvaya": [
+    {
+     "word": "न हि कश्चित् क्षणम् अपि",
+     "meaning": "for no one even for a moment"
+    },
+    {
+     "word": "जातु तिष्ठति अकर्मकृत्",
+     "meaning": "ever remains without doing action"
+    },
+    {
+     "word": "कार्यते हि अवशः कर्म",
+     "meaning": "for one is made to act, helplessly"
+    },
+    {
+     "word": "सर्वः प्रकृतिजैः गुणैः",
+     "meaning": "everyone, by the gunas born of prakriti"
+    }
+   ],
+   "explanation": "Deeper still: total inaction is not merely useless — it is impossible. Breath, thought, digestion, the flicker of attention: nature's three strands keep every embodied being in perpetual motion. The choice was never action versus rest; it is only conscious action versus driven action. Na hi kashchit kshanam api — not even for a moment: the verse is the Gita's refusal of the fantasy of neutrality. Prakriti-jair gunaih, the strands keep every being in motion; the only question is whether the motion is owned and aimed. Commentators cite breath and heartbeat as the standing proof: the strike against action was never honored by the strikers' own bodies.",
+   "connection": "Grounds 3.4 in physiology and physics: the renunciate's stillness is an optical illusion.",
+   "schools_note": null,
+   "reflection": "Watch yourself for five minutes: breath, blinking, thought — action never paused. Make peace with the engine.",
+   "background": "Krishna untangles the knot from the chariot seat: two ancient paths, one goal; no one stays actionless even a moment; outward stillness with an indulging mind is hypocrisy. He gives the freeing principle — action performed as yajna, as offering, binds no one."
+  },
+  {
+   "chapter": 3,
+   "verse": 6,
+   "speaker": null,
+   "devanagari": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते॥",
+   "transliteration": "karmendriyāṇi saṃyamya ya āste manasā smaran\nindriyārthānvimūḍhātmā mithyācāraḥ sa ucyate",
+   "essence": "One who restrains the organs of action but sits remembering sense-objects in the mind — that deluded one is called a hypocrite.",
+   "translation": "He who, restraining the organs of action, sits thinking of the sense-objects in mind, he of deluded understanding is called a hypocrite.",
+   "anvaya": [
+    {
+     "word": "कर्मेन्द्रियाणि संयम्य",
+     "meaning": "restraining the organs of action"
+    },
+    {
+     "word": "यः आस्ते मनसा स्मरन्",
+     "meaning": "who sits remembering with the mind"
+    },
+    {
+     "word": "इन्द्रियार्थान्",
+     "meaning": "the objects of the senses"
+    },
+    {
+     "word": "विमूढात्मा",
+     "meaning": "that deluded self"
+    },
+    {
+     "word": "मिथ्याचारः सः उच्यते",
+     "meaning": "is called a hypocrite, a false performer"
+    }
+   ],
+   "explanation": "The portrait everyone recognizes: the body in the posture of a saint, the mind running a cinema of everything renounced. The Gita's word is harsh — mithyācāra, false conduct — because the show deceives its own performer first. Repression is not renunciation; it is desire gone underground.",
+   "connection": "The dark example proving 3.4–5: outer stopping with inner churning is the worst of both paths.",
+   "schools_note": null,
+   "reflection": "Find one renunciation in your life that is really suppression — outward stillness, inward replay.",
+   "background": "Krishna untangles the knot from the chariot seat: two ancient paths, one goal; no one stays actionless even a moment; outward stillness with an indulging mind is hypocrisy. He gives the freeing principle — action performed as yajna, as offering, binds no one."
+  },
+  {
+   "chapter": 3,
+   "verse": 7,
+   "speaker": null,
+   "devanagari": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते॥",
+   "transliteration": "yastvindriyāṇi manasā niyamyārabhate'rjuna\nkarmendriyaiḥ karmayogamasaktaḥ sa viśiṣyate",
+   "essence": "But one who governs the senses by the mind and engages the organs of action in karma-yoga, unattached — that one excels.",
+   "translation": "But whosoever, controlling the senses by the mind, O Arjuna, engages himself in Karma Yoga with the organs of action, without attachment, he excels.",
+   "anvaya": [
+    {
+     "word": "यः तु इन्द्रियाणि मनसा नियम्य",
+     "meaning": "but who, governing the senses by the mind"
+    },
+    {
+     "word": "आरभते",
+     "meaning": "undertakes"
+    },
+    {
+     "word": "कर्मेन्द्रियैः कर्मयोगम्",
+     "meaning": "karma-yoga with the organs of action"
+    },
+    {
+     "word": "असक्तः",
+     "meaning": "unattached"
+    },
+    {
+     "word": "सः विशिष्यते",
+     "meaning": "that one excels"
+    }
+   ],
+   "explanation": "The mirror image: control on the inside, engagement on the outside — exactly inverted from 3.6. Mastery is proven in motion, not in posture. The unattached doer outranks the attached abstainer.",
+   "connection": "Answers 3.6 point for point and crowns the working person over the false renunciate.",
+   "schools_note": null,
+   "reflection": "Engage one task today with governed senses and an open hand, and feel the difference from grim duty.",
+   "background": "Krishna untangles the knot from the chariot seat: two ancient paths, one goal; no one stays actionless even a moment; outward stillness with an indulging mind is hypocrisy. He gives the freeing principle — action performed as yajna, as offering, binds no one."
+  },
+  {
+   "chapter": 3,
+   "verse": 8,
+   "speaker": null,
+   "devanagari": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः॥",
+   "transliteration": "niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ\nśarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ",
+   "essence": "Perform your allotted action, for action is better than inaction; even the body's journey cannot be sustained without action.",
+   "translation": "Do thou perform (thy) bounden duty, for action is superior to inaction and even the maintenance of the body would not be possible for thee by inaction.",
+   "anvaya": [
+    {
+     "word": "नियतं कुरु कर्म त्वं",
+     "meaning": "perform your prescribed action"
+    },
+    {
+     "word": "कर्म ज्यायः हि अकर्मणः",
+     "meaning": "for action is better than inaction"
+    },
+    {
+     "word": "शरीरयात्रा अपि च ते",
+     "meaning": "even the maintenance of your body"
+    },
+    {
+     "word": "न प्रसिद्ध्येत् अकर्मणः",
+     "meaning": "cannot succeed without action"
+    }
+   ],
+   "explanation": "From argument to instruction: niyataṁ kuru karma — do what is yours to do. The clinching point is humble and unanswerable: even the renunciate must eat, and eating is action. Since acting is mandatory, the only open question is its quality.",
+   "connection": "Converts 3.4–7 into the chapter's first command — and quietly answers 3.1: this is the 'one thing'.",
+   "schools_note": null,
+   "reflection": "Do the next required thing without the meeting about whether to do it.",
+   "background": "Krishna untangles the knot from the chariot seat: two ancient paths, one goal; no one stays actionless even a moment; outward stillness with an indulging mind is hypocrisy. He gives the freeing principle — action performed as yajna, as offering, binds no one."
+  },
+  {
+   "chapter": 3,
+   "verse": 9,
+   "speaker": null,
+   "devanagari": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर॥",
+   "transliteration": "yajñārthātkarmaṇo'nyatra loko'yaṃ karmabandhanaḥ\ntadarthaṃ karma kaunteya muktasaṅgaḥ samācara",
+   "essence": "Except action done as sacrifice, this world is bound by action. For that purpose, Kaunteya, act free of attachment.",
+   "translation": "The world is bound by actions other than those performed for the sake of sacrifice; do thou, therefore, O son of Kunti (Arjuna), perform action for that sake (for sacrifice alone), free from attachment.",
+   "anvaya": [
+    {
+     "word": "यज्ञार्थात् कर्मणः अन्यत्र",
+     "meaning": "other than action for the sake of yajna"
+    },
+    {
+     "word": "लोकः अयं कर्मबन्धनः",
+     "meaning": "this world is bound by action"
+    },
+    {
+     "word": "तदर्थं कर्म",
+     "meaning": "action for that purpose"
+    },
+    {
+     "word": "कौन्तेय",
+     "meaning": "O son of Kunti"
+    },
+    {
+     "word": "मुक्तसङ्गः समाचर",
+     "meaning": "perform, free from attachment"
+    }
+   ],
+   "explanation": "Here is the chapter's master-key: yajña. Action binds — except action offered, action as sacrifice. The same deed, pointed at oneself, forges a chain; pointed beyond oneself, it forges nothing. The word will widen across the next verses from ritual fire to a whole cosmology of exchange. Yajnarthat karmanah — the verse where the old ritual word is universalized: any action done as offering escapes the binding law. The Mimamsa schools read yajna literally; Vedanta reads it as Vishnu himself (a reading the Gita endorses by name later). Either way the operating principle stands: mukta-sangah samachara — act, with the grip released.",
+   "connection": "Qualifies 3.8: act, yes — but the only unbinding mode of action is the sacrificial one.",
+   "schools_note": "'Yajnarthat karmanah': the old Mimamsa world held sacrifice as the supreme act; the Gita annexes the word. Shankara reads yajna here as Vishnu (citing 'yajno vai vishnuh'), making all work done for the Lord unbinding; ritualists read it as duty performed as offering. Either way the verse universalizes the altar: any act, rightly addressed, escapes karma's bookkeeping.",
+   "reflection": "Convert one chore today into yajna: same motions, offered, and watch the binding loosen.",
+   "background": "Krishna untangles the knot from the chariot seat: two ancient paths, one goal; no one stays actionless even a moment; outward stillness with an indulging mind is hypocrisy. He gives the freeing principle — action performed as yajna, as offering, binds no one."
+  },
+  {
+   "chapter": 3,
+   "verse": 10,
+   "speaker": null,
+   "devanagari": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्॥",
+   "transliteration": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ\nanena prasaviṣyadhvameṣa vo'stviṣṭakāmadhuk",
+   "essence": "Having created beings together with sacrifice, Prajapati said of old: by this shall you multiply; let this be your wish-fulfilling cow.",
+   "translation": "The Creator, having in the beginning (of creation) created mankind together with sacrifice, said, \"By this shall ye propagate; let this be the milch cow of your desires (the cow which yields all the desired objects).\"",
+   "anvaya": [
+    {
+     "word": "सहयज्ञाः प्रजाः सृष्ट्वा",
+     "meaning": "having created beings together with yajna"
+    },
+    {
+     "word": "पुरा उवाच प्रजापतिः",
+     "meaning": "Prajapati said of old"
+    },
+    {
+     "word": "अनेन प्रसविष्यध्वम्",
+     "meaning": "by this shall you propagate"
+    },
+    {
+     "word": "एषः वः अस्तु इष्टकामधुक्",
+     "meaning": "let this be your wish-fulfilling cow"
+    }
+   ],
+   "explanation": "A creation story with a design principle: sacrifice was not added to the world, it was shipped with it — saha-yajñāḥ, beings born bundled with the mechanism of mutual offering. The cosmos is a gift economy by manufacture. Kāmadhuk, the cow of plenty, milks only for those who feed her.",
+   "connection": "Begins the cosmological backing (3.10–16) for the yajna-rule of 3.9.",
+   "schools_note": null,
+   "reflection": "Treat your work as participation in an old exchange — you were issued breath; issue something back.",
+   "background": "The teaching widens to cosmology: Krishna recounts how the Creator issued beings together with sacrifice as the engine of mutual nourishment — gods and humans sustaining one another in a turning wheel that the selfish eater of un-offered food betrays."
+  },
+  {
+   "chapter": 3,
+   "verse": 11,
+   "speaker": null,
+   "devanagari": "देवान्भावयतानेन ते देवा भावयन्तु वः ।\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ॥",
+   "transliteration": "devānbhāvayatānena te devā bhāvayantu vaḥ\nparasparaṃ bhāvayantaḥ śreyaḥ paramavāpsyatha",
+   "essence": "Nourish the gods with this, and may the gods nourish you; nourishing one another, you shall attain the highest good.",
+   "translation": "With this do ye nourish the gods and may those gods nourish you; thus nourishing one another, ye shall attain to the highest good.",
+   "anvaya": [
+    {
+     "word": "देवान् भावयत अनेन",
+     "meaning": "nourish the gods by this (yajna)"
+    },
+    {
+     "word": "ते देवाः भावयन्तु वः",
+     "meaning": "may those gods nourish you"
+    },
+    {
+     "word": "परस्परं भावयन्तः",
+     "meaning": "nourishing one another"
+    },
+    {
+     "word": "श्रेयः परम् अवाप्स्यथ",
+     "meaning": "you shall attain the highest good"
+    }
+   ],
+   "explanation": "The verb bhāvayata — cause to be, sustain, cherish — runs both directions: humans sustain the powers (rain, sun, soil, the unseen agencies of the world), and the powers sustain humans. Reality is a circulation, and parasparam — 'one another' — is its law. Śreyas, Arjuna's sought-for good, turns out to live inside the loop, not outside it.",
+   "connection": "Unpacks Prajapati's promise of 3.10 as reciprocity — the world as a two-way feeding.",
+   "schools_note": null,
+   "reflection": "Nourish one system that nourishes you — a person, a place, a practice — before withdrawing from it again.",
+   "background": "The teaching widens to cosmology: Krishna recounts how the Creator issued beings together with sacrifice as the engine of mutual nourishment — gods and humans sustaining one another in a turning wheel that the selfish eater of un-offered food betrays."
+  },
+  {
+   "chapter": 3,
+   "verse": 12,
+   "speaker": null,
+   "devanagari": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः॥",
+   "transliteration": "iṣṭānbhogānhi vo devā dāsyante yajñabhāvitāḥ\ntairdattānapradāyaibhyo yo bhuṅkte stena eva saḥ",
+   "essence": "Nourished by sacrifice, the gods will give you the enjoyments you desire. One who enjoys their gifts without offering back is simply a thief.",
+   "translation": "The gods, nourished by the sacrifice, will give you the desired objects. So, he who enjoys the objects given by the gods without offering (in return) to them, is verily a thief.",
+   "anvaya": [
+    {
+     "word": "इष्टान् भोगान् हि वः देवाः",
+     "meaning": "the desired enjoyments, indeed, the gods"
+    },
+    {
+     "word": "दास्यन्ते यज्ञभाविताः",
+     "meaning": "will give, nourished by yajna"
+    },
+    {
+     "word": "तैः दत्तान् अप्रदाय एभ्यः",
+     "meaning": "their gifts, without offering back to them"
+    },
+    {
+     "word": "यः भुङ्क्ते",
+     "meaning": "who enjoys"
+    },
+    {
+     "word": "स्तेनः एव सः",
+     "meaning": "is verily a thief"
+    }
+   ],
+   "explanation": "The strongest word yet: stena, thief. Everything consumed — air, grain, language, safety — arrived through the labor of forces and beings one did not create. To take from the circulation without returning to it is not neutrality; it is theft with extra steps. The verse turns gratitude from a sentiment into an accounting.",
+   "connection": "The shadow side of 3.11's loop: opt out of giving while continuing to take, and you have a name.",
+   "schools_note": null,
+   "reflection": "Name three things you consumed today and what you returned for them; settle one account.",
+   "background": "The teaching widens to cosmology: Krishna recounts how the Creator issued beings together with sacrifice as the engine of mutual nourishment — gods and humans sustaining one another in a turning wheel that the selfish eater of un-offered food betrays."
+  },
+  {
+   "chapter": 3,
+   "verse": 13,
+   "speaker": null,
+   "devanagari": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्॥",
+   "transliteration": "yajñaśiṣṭāśinaḥ santo mucyante sarvakilbiṣaiḥ\nbhuñjate te tvaghaṃ pāpā ye pacantyātmakāraṇāt",
+   "essence": "The good who eat the remnants of sacrifice are freed from all sins; the wicked who cook for themselves alone eat sin.",
+   "translation": "The righteous who eat the remnants of the sacrifice are freed from all sins; but those sinful ones who cook food (only) for their own sake verily eat sin.",
+   "anvaya": [
+    {
+     "word": "यज्ञशिष्टाशिनः सन्तः",
+     "meaning": "the good, eating the remnants of yajna"
+    },
+    {
+     "word": "मुच्यन्ते सर्वकिल्बिषैः",
+     "meaning": "are released from all sins"
+    },
+    {
+     "word": "भुञ्जते ते तु अघं पापाः",
+     "meaning": "but those sinful ones eat sin"
+    },
+    {
+     "word": "ये पचन्ति आत्मकारणात्",
+     "meaning": "who cook for their own sake alone"
+    }
+   ],
+   "explanation": "Two meals, identical on the plate: one is leftover from an offering, eaten last after the world has been fed; the other is cooked ātma-kāraṇāt, for me first. The food is the same — the direction of the life around it differs, and that direction is what is actually swallowed. 'They eat sin' is the Gita's most vivid sentence about consumption.",
+   "connection": "Brings 3.12's theft down to the dinner table: the daily test of whether one lives inside or outside the loop.",
+   "schools_note": null,
+   "reflection": "Before eating today, offer the meal mentally first — then notice the taste of unstolen food.",
+   "background": "The teaching widens to cosmology: Krishna recounts how the Creator issued beings together with sacrifice as the engine of mutual nourishment — gods and humans sustaining one another in a turning wheel that the selfish eater of un-offered food betrays."
+  },
+  {
+   "chapter": 3,
+   "verse": 14,
+   "speaker": null,
+   "devanagari": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः॥",
+   "transliteration": "annādbhavanti bhūtāni parjanyādannasambhavaḥ\nyajñādbhavati parjanyo yajñaḥ karmasamudbhavaḥ",
+   "essence": "From food beings arise; from rain, food; from sacrifice, rain; and sacrifice is born of action.",
+   "translation": "From food come forth beings; from rain food is produced; from sacrifice arises rain and sacrifice is born of action.",
+   "anvaya": [
+    {
+     "word": "अन्नात् भवन्ति भूतानि",
+     "meaning": "from food beings come to be"
+    },
+    {
+     "word": "पर्जन्यात् अन्नसम्भवः",
+     "meaning": "from rain is the origin of food"
+    },
+    {
+     "word": "यज्ञात् भवति पर्जन्यः",
+     "meaning": "from yajna comes rain"
+    },
+    {
+     "word": "यज्ञः कर्मसमुद्भवः",
+     "meaning": "yajna is born of action"
+    }
+   ],
+   "explanation": "The chain of the world traced backward: creatures ← food ← rain ← sacrifice ← action. Read it as ecology before the word existed: life depends on cycles, cycles depend on inputs, and human action is one of the inputs. The startling link is yajñāt parjanyaḥ — offering sustains the very weather; the moral economy and the natural economy are one system.",
+   "connection": "Supplies the supply-chain behind 3.11–13: why withholding one's action starves the whole circuit.",
+   "schools_note": null,
+   "reflection": "Trace your lunch backward: rain, soil, hands, transport. Eat one bite for everyone in the chain.",
+   "background": "The teaching widens to cosmology: Krishna recounts how the Creator issued beings together with sacrifice as the engine of mutual nourishment — gods and humans sustaining one another in a turning wheel that the selfish eater of un-offered food betrays."
+  },
+  {
+   "chapter": 3,
+   "verse": 15,
+   "speaker": null,
+   "devanagari": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्॥",
+   "transliteration": "karma brahmodbhavaṃ viddhi brahmākṣarasamudbhavam\ntasmātsarvagataṃ brahma nityaṃ yajñe pratiṣṭhitam",
+   "essence": "Know action to arise from Brahman, and Brahman from the Imperishable; therefore the all-pervading Brahman is ever established in sacrifice.",
+   "translation": "Know thou that action comes from Brahma and Brahma comes from the Imperishable. Therefore, the all-pervading (Brahma) ever rests in sacrifice.",
+   "anvaya": [
+    {
+     "word": "कर्म ब्रह्मोद्भवं विद्धि",
+     "meaning": "know action to arise from Brahman (the Veda)"
+    },
+    {
+     "word": "ब्रह्म अक्षरसमुद्भवम्",
+     "meaning": "and Brahman from the Imperishable"
+    },
+    {
+     "word": "तस्मात् सर्वगतं ब्रह्म",
+     "meaning": "therefore the all-pervading Brahman"
+    },
+    {
+     "word": "नित्यं यज्ञे प्रतिष्ठितम्",
+     "meaning": "is ever established in yajna"
+    }
+   ],
+   "explanation": "The chain's final links reach the source: right action flows from Brahman — here the Veda, the articulated order — which itself flows from the Akshara, the Imperishable. Sacrifice is therefore not a human invention bolted onto reality; it is the point where the Absolute touches the working world. To act sacrificially is to stand where the current enters.",
+   "connection": "Completes the regression of 3.14 to its origin, sanctifying the whole cycle.",
+   "schools_note": "The chain — action from Brahman, Brahman from the Imperishable — is parsed differently: Shankara reads 'brahma' here as the Veda (action rooted in revelation, revelation in the Akshara); Ramanuja as prakriti-derived embodiment grounded in the Lord. All draw the same conclusion from 'sarva-gatam brahma': the sacrificial circuit is the omnipresent divine in motion, and work is participation in it.",
+   "reflection": "Your smallest duty is plugged into the largest circuit; do it once today with that voltage in mind.",
+   "background": "The teaching widens to cosmology: Krishna recounts how the Creator issued beings together with sacrifice as the engine of mutual nourishment — gods and humans sustaining one another in a turning wheel that the selfish eater of un-offered food betrays."
+  },
+  {
+   "chapter": 3,
+   "verse": 16,
+   "speaker": null,
+   "devanagari": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति॥",
+   "transliteration": "evaṃ pravartitaṃ cakraṃ nānuvartayatīha yaḥ\naghāyurindriyārāmo moghaṃ pārtha sa jīvati",
+   "essence": "One who does not turn this turning wheel, living in sin, delighting in the senses — that one lives in vain, Partha.",
+   "translation": "He who does not follow here the wheel thus set revolving, who is of sinful life, rejoicing in the senses, he lives in vain, O Arjuna.",
+   "anvaya": [
+    {
+     "word": "एवं प्रवर्तितं चक्रं",
+     "meaning": "the wheel thus set in motion"
+    },
+    {
+     "word": "न अनुवर्तयति इह यः",
+     "meaning": "who does not follow, here"
+    },
+    {
+     "word": "अघायुः इन्द्रियारामः",
+     "meaning": "of sinful life, delighting in the senses"
+    },
+    {
+     "word": "मोघं पार्थ सः जीवति",
+     "meaning": "in vain, O Partha, that one lives"
+    }
+   ],
+   "explanation": "The cosmology gets its verdict. The wheel — beings, food, rain, offering, action — turns whether one joins it or not; the only choice is to turn with it or to free-ride. Moghaṁ jīvati: such a life is not condemned to torment so much as to pointlessness — a cog that takes the rotation and returns nothing.",
+   "connection": "Seals the yajna section (3.10–16) with its judgment, before the great exception of the next verse.",
+   "schools_note": null,
+   "reflection": "Ask honestly where you are drawing from the common wheel without turning it.",
+   "background": "The teaching widens to cosmology: Krishna recounts how the Creator issued beings together with sacrifice as the engine of mutual nourishment — gods and humans sustaining one another in a turning wheel that the selfish eater of un-offered food betrays."
+  },
+  {
+   "chapter": 3,
+   "verse": 17,
+   "speaker": null,
+   "devanagari": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते॥",
+   "transliteration": "yastvātmaratireva syādātmatṛptaśca mānavaḥ\nātmanyeva ca santuṣṭastasya kāryaṃ na vidyate",
+   "essence": "But the one who delights in the Self alone, satisfied and content in the Self — for that one no duty exists.",
+   "translation": "But for that man who rejoices only in the Self, who is satisfied with the Self and who is content in the Self alone, verily there is nothing to do.",
+   "anvaya": [
+    {
+     "word": "यः तु आत्मरतिः एव स्यात्",
+     "meaning": "but who delights in the Self alone"
+    },
+    {
+     "word": "आत्मतृप्तः च मानवः",
+     "meaning": "and is satisfied in the Self"
+    },
+    {
+     "word": "आत्मनि एव च सन्तुष्टः",
+     "meaning": "and content in the Self alone"
+    },
+    {
+     "word": "तस्य कार्यं न विद्यते",
+     "meaning": "for that one no duty exists"
+    }
+   ],
+   "explanation": "Honesty compels the exception: there exists a person beyond the wheel — one whose delight, satisfaction, and contentment have all moved house into the Self. For such a one the machinery of obligation has nothing left to leverage; duty presupposes a lack, and the lack is gone. The bar, note, is total: rati, tṛpti, santoṣa, all three, all inward.",
+   "connection": "The honest asterisk on 3.16's wheel: it binds everyone except the truly full — described in 2.55.",
+   "schools_note": null,
+   "reflection": "Glimpse the person who needs nothing from the day — then return to your day a little lighter.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 18,
+   "speaker": null,
+   "devanagari": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः॥",
+   "transliteration": "naiva tasya kṛtenārtho nākṛteneha kaścana\nna cāsya sarvabhūteṣu kaścidarthavyapāśrayaḥ",
+   "essence": "Such a one has no purpose in what is done or left undone here, nor any need to depend on any being for anything.",
+   "translation": "For him there is no interest whatever in what is done or what is not done; nor does he depend on any being for any object.",
+   "anvaya": [
+    {
+     "word": "न एव तस्य कृतेन अर्थः",
+     "meaning": "for that one there is no purpose in action done"
+    },
+    {
+     "word": "न अकृतेन इह कश्चन",
+     "meaning": "nor any in action not done, here"
+    },
+    {
+     "word": "न च अस्य सर्वभूतेषु",
+     "meaning": "nor for this one, among all beings"
+    },
+    {
+     "word": "कश्चित् अर्थव्यपाश्रयः",
+     "meaning": "any dependence for any object"
+    }
+   ],
+   "explanation": "The exception drawn to its logical edge: for the Self-content, both columns of the ledger — done and not-done — read zero, and no being holds anything they need. This is not license but diagnosis: action loses its grip exactly when nothing is wanted from it. Which raises the question the next verse must answer — then why would such a person ever act?",
+   "connection": "Completes 3.17; the freed one owes the wheel nothing — setting up the deeper reason for action in 3.19–20.",
+   "schools_note": null,
+   "reflection": "Imagine acting with nothing to gain and nothing to lose — then borrow that posture for one hour.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 19,
+   "speaker": null,
+   "devanagari": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥",
+   "transliteration": "tasmādasaktaḥ satataṃ kāryaṃ karma samācara\nasakto hyācarankarma paramāpnoti pūruṣaḥ",
+   "essence": "Therefore, unattached, ever perform the action that must be done; for acting without attachment one attains the Supreme.",
+   "translation": "Therefore without attachment, do thou always perform action which should be done; for by performing action without attachment man reaches the Supreme.",
+   "anvaya": [
+    {
+     "word": "तस्मात् असक्तः सततं",
+     "meaning": "therefore, unattached, constantly"
+    },
+    {
+     "word": "कार्यं कर्म समाचर",
+     "meaning": "perform the action that ought to be done"
+    },
+    {
+     "word": "असक्तः हि आचरन् कर्म",
+     "meaning": "for performing action unattached"
+    },
+    {
+     "word": "परम् आप्नोति पूरुषः",
+     "meaning": "a person attains the Supreme"
+    }
+   ],
+   "explanation": "The 'therefore' lands on Arjuna, who is not yet the exception of 3.17. For the climber, unattached action is itself the rope: asakto hy ācaran karma param āpnoti — detached doing reaches the very Supreme. The path and the summit use the same muscle. Tasmad asaktah satatam — therefore, unattached, always. Commentators mark the verse as the chapter's executive summary, and linger on samachara, 'perform thoroughly': detachment is paired with completeness, not with half-heartedness. The released hand, the tradition insists, grips the tool better than the anxious one.",
+   "connection": "Returns from the liberated exception (3.17–18) to the seeker's rule: act, but unhooked.",
+   "schools_note": null,
+   "reflection": "Therefore, without attachment, do the work in front of you — make this sentence your noon bell.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 20,
+   "speaker": null,
+   "devanagari": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।\nलोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि॥",
+   "transliteration": "karmaṇaiva hi saṃsiddhimāsthitā janakādayaḥ\nlokasaṃgrahamevāpi sampaśyankartumarhasi",
+   "essence": "By action alone Janaka and others attained perfection. Even considering the welfare of the world, you should act.",
+   "translation": "Janaka and others attained perfection verily by action only; even with a view to the protection of the masses thou shouldst perform action.",
+   "anvaya": [
+    {
+     "word": "कर्मणा एव हि संसिद्धिम्",
+     "meaning": "by action alone, perfection"
+    },
+    {
+     "word": "आस्थिताः जनकादयः",
+     "meaning": "attained Janaka and others"
+    },
+    {
+     "word": "लोकसङ्ग्रहम् एव अपि",
+     "meaning": "also the holding-together of the world"
+    },
+    {
+     "word": "सम्पश्यन् कर्तुम् अर्हसि",
+     "meaning": "considering, you ought to act"
+    }
+   ],
+   "explanation": "Precedent and a new word. Janaka — philosopher-king, liberated while ruling — proves the path works at the highest difficulty setting. Then the Gita coins loka-saṅgraha: the holding-together of the world, the maintenance of the common fabric. A second reason to act enters: not your liberation only, but everyone who is watching how you live.",
+   "connection": "Backs 3.19 with history and widens its motive from self-perfection to the welfare of all.",
+   "schools_note": null,
+   "reflection": "Even the perfected kept working for the world's sake; let loka-sangraha dignify your ordinary Monday.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 21,
+   "speaker": null,
+   "devanagari": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥",
+   "transliteration": "yadyadācarati śreṣṭhastattadevetaro janaḥ\nsa yatpramāṇaṃ kurute lokastadanuvartate",
+   "essence": "Whatever the best person does, others do the same; whatever standard such a one sets, the world follows.",
+   "translation": "Whatsoever a great man does, that the other men also do; whatever he sets up as the standard, that the world (mankind) follows.",
+   "anvaya": [
+    {
+     "word": "यत् यत् आचरति श्रेष्ठः",
+     "meaning": "whatever the superior person does"
+    },
+    {
+     "word": "तत् तत् एव इतरः जनः",
+     "meaning": "that very thing other people (do)"
+    },
+    {
+     "word": "सः यत् प्रमाणं कुरुते",
+     "meaning": "whatever standard that one sets"
+    },
+    {
+     "word": "लोकः तत् अनुवर्तते",
+     "meaning": "the world follows that"
+    }
+   ],
+   "explanation": "The mechanics of loka-saṅgraha in one couplet: people do not follow arguments, they follow examples. The śreṣṭha — whoever stands highest in others' eyes — legislates by behavior whether they intend to or not. Arjuna, the most watched warrior alive, cannot resign privately; his exit would be ten thousand exits. Yad yad acharati shreshthah — the leadership verse of Indian ethics, cited from royal courts to modern management. The mechanism named is lokas tad anuvartate: the world follows the deed, not the memo. Gandhi made the verse his administration: be the change, because example is the only instruction that scales.",
+   "connection": "Explains why 3.20's world-welfare clause binds Arjuna specifically: visibility is responsibility.",
+   "schools_note": null,
+   "reflection": "Someone is copying you right now without telling you. Behave accordingly.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 22,
+   "speaker": null,
+   "devanagari": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि॥",
+   "transliteration": "na me pārthāsti kartavyaṃ triṣu lokeṣu kiñcana\nnānavāptamavāptavyaṃ varta eva ca karmaṇi",
+   "essence": "For me, Partha, there is nothing to be done in the three worlds, nothing unattained to attain — yet I remain in action.",
+   "translation": "There is nothing in the three worlds, O Arjuna, that should be done by Me, nor is there anything unattained that should be attained; yet I engage Myself in action.",
+   "anvaya": [
+    {
+     "word": "न मे पार्थ अस्ति कर्तव्यं",
+     "meaning": "for me, O Partha, there is nothing to be done"
+    },
+    {
+     "word": "त्रिषु लोकेषु किञ्चन",
+     "meaning": "in the three worlds, anything"
+    },
+    {
+     "word": "न अनवाप्तम् अवाप्तव्यं",
+     "meaning": "nothing unattained to be attained"
+    },
+    {
+     "word": "वर्ते एव च कर्मणि",
+     "meaning": "and yet I engage in action"
+    }
+   ],
+   "explanation": "Krishna offers the ultimate exhibit: himself. Nothing in three worlds is missing from him, no duty can compel him — and he acts anyway, continuously. Action, in its purest case, is not driven by lack at all; it is overflow. The freed do not stop working; they stop needing the work.",
+   "connection": "Escalates Janaka's example (3.20) to the divine case: even God keeps the wheel turning.",
+   "schools_note": null,
+   "reflection": "Do one duty today that you have technically outgrown, simply because others are watching how you live.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 23,
+   "speaker": null,
+   "devanagari": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः॥",
+   "transliteration": "yadi hyahaṃ na varteyaṃ jātu karmaṇyatandritaḥ\nmama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ",
+   "essence": "For if I did not engage tirelessly in action, Partha, people would follow my path in every way.",
+   "translation": "For, should I not ever engage Myself in action, unwearied, men would in every way follow My path, O Arjuna.",
+   "anvaya": [
+    {
+     "word": "यदि हि अहं न वर्तेयं",
+     "meaning": "for if I did not engage"
+    },
+    {
+     "word": "जातु कर्मणि अतन्द्रितः",
+     "meaning": "ever in action, unwearied"
+    },
+    {
+     "word": "मम वर्त्म अनुवर्तन्ते",
+     "meaning": "my path follow"
+    },
+    {
+     "word": "मनुष्याः पार्थ सर्वशः",
+     "meaning": "human beings, O Partha, in every way"
+    }
+   ],
+   "explanation": "Even God is on display. Were Krishna to rest, the resting — not the realization behind it — is what the world would copy. Example transmits the visible, never the invisible; therefore the realized must keep their outsides exemplary for the sake of those who can only see outsides.",
+   "connection": "Applies 3.21's imitation-law to 3.22's divine actor: his ceaselessness is pedagogy.",
+   "schools_note": null,
+   "reflection": "Your slack teaches faster than your speeches; tighten one loose habit the world can see.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 24,
+   "speaker": null,
+   "devanagari": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।\nसङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः॥",
+   "transliteration": "utsīdeyurime lokā na kuryāṃ karma cedaham\nsaṅkarasya ca kartā syāmupahanyāmimāḥ prajāḥ",
+   "essence": "These worlds would fall to ruin if I did not perform action; I would be the maker of confusion and destroy these beings.",
+   "translation": "These worlds would perish if I did not perform action; I should be the author of confusion of castes and destruction of these beings.",
+   "anvaya": [
+    {
+     "word": "उत्सीदेयुः इमे लोकाः",
+     "meaning": "these worlds would perish"
+    },
+    {
+     "word": "न कुर्यां कर्म चेत् अहम्",
+     "meaning": "if I did not perform action"
+    },
+    {
+     "word": "सङ्करस्य च कर्ता स्याम्",
+     "meaning": "and I would be the maker of confusion"
+    },
+    {
+     "word": "उपहन्याम् इमाः प्रजाः",
+     "meaning": "I would destroy these beings"
+    }
+   ],
+   "explanation": "The stakes stated maximally: the divine work-stoppage would unravel worlds. Note the echo — saṅkara, 'confusion', the very word from Arjuna's lament (1.41–42). Arjuna feared that fighting would breed saṅkara; Krishna answers that abandoning one's appointed work is what truly breeds it, at every scale up to the cosmic.",
+   "connection": "Turns Arjuna's own chapter-one vocabulary against his conclusion: dereliction, not duty, is the destroyer.",
+   "schools_note": null,
+   "reflection": "Consider what unravels around you when you stop showing up — then show up.",
+   "background": "An objection is anticipated: what of the one already content in the Self? Krishna concedes such a one has no duty — and then gives the deeper reason to act anyway: loka-sangraha, holding the world together, citing King Janaka and finally his own ceaseless cosmic work as example."
+  },
+  {
+   "chapter": 3,
+   "verse": 25,
+   "speaker": null,
+   "devanagari": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।\nकुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्॥",
+   "transliteration": "saktāḥ karmaṇyavidvāṃso yathā kurvanti bhārata\nkuryādvidvāṃstathāsaktaścikīrṣurlokasaṃgraham",
+   "essence": "As the unwise act attached to action, Bharata, so should the wise act unattached, desiring the world's welfare.",
+   "translation": "As the ignorant men act from attachment to action, O Bharata (Arjuna), so should the wise act without attachment, wishing the welfare of the world.",
+   "anvaya": [
+    {
+     "word": "सक्ताः कर्मणि अविद्वांसः",
+     "meaning": "attached to action, the unwise"
+    },
+    {
+     "word": "यथा कुर्वन्ति भारत",
+     "meaning": "as they act, O Bharata"
+    },
+    {
+     "word": "कुर्यात् विद्वान् तथा असक्तः",
+     "meaning": "so should the wise act, unattached"
+    },
+    {
+     "word": "चिकीर्षुः लोकसङ्ग्रहम्",
+     "meaning": "desiring the holding-together of the world"
+    }
+   ],
+   "explanation": "A precise behavioral prescription: same intensity, different fuel. From the outside, the sage's workday should be indistinguishable from the striver's — equal diligence, equal completeness — with one invisible substitution: loka-saṅgraha where self-interest used to be. Detachment that shows up as sloppiness is not detachment.",
+   "connection": "Operationalizes 3.20–24: how the knower's action should actually look — exactly like everyone's, minus the hook.",
+   "schools_note": null,
+   "reflection": "Match the diligence of the ambitious today, minus the anxiety — same energy, different fuel.",
+   "background": "Krishna contrasts the attached and the wise in identical labor: the sage acts as diligently as the ignorant but without clinging, and is warned not to unsettle the minds of those still working from attachment — teaching by joined example, not superior speech."
+  },
+  {
+   "chapter": 3,
+   "verse": 26,
+   "speaker": null,
+   "devanagari": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन्॥",
+   "transliteration": "na buddhibhedaṃ janayedajñānāṃ karmasaṅginām\njoṣayetsarvakarmāṇi vidvānyuktaḥ samācaran",
+   "essence": "Let the wise not unsettle the minds of the ignorant attached to action, but acting with discipline, make all work attractive.",
+   "translation": "Let no wise man unsettle the mind of ignorant people who are attached to action; he should engage them in all actions, himself fulfilling them with devotion.",
+   "anvaya": [
+    {
+     "word": "न बुद्धिभेदं जनयेत्",
+     "meaning": "let one not create division of understanding"
+    },
+    {
+     "word": "अज्ञानां कर्मसङ्गिनाम्",
+     "meaning": "of the ignorant attached to action"
+    },
+    {
+     "word": "जोषयेत् सर्वकर्माणि",
+     "meaning": "let one make all actions pleasing"
+    },
+    {
+     "word": "विद्वान् युक्तः समाचरन्",
+     "meaning": "the wise one, disciplined, performing them"
+    }
+   ],
+   "explanation": "A rare ethic of teaching: do not shatter a working person's framework with truths they cannot yet carry. Buddhi-bheda — splitting someone's operating understanding — leaves them with neither their old motivation nor a new one. The wise teach by joṣayet: making good action lovely through visible practice, not by lecturing people out of the only engine they have.",
+   "connection": "The pedagogical corollary of 3.25: the sage's sameness-in-action protects, rather than disturbs, those still climbing.",
+   "schools_note": null,
+   "reflection": "Do not argue someone out of their honest practice today; work beside them instead.",
+   "background": "Krishna contrasts the attached and the wise in identical labor: the sage acts as diligently as the ignorant but without clinging, and is warned not to unsettle the minds of those still working from attachment — teaching by joined example, not superior speech."
+  },
+  {
+   "chapter": 3,
+   "verse": 27,
+   "speaker": null,
+   "devanagari": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते॥",
+   "transliteration": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ\nahaṅkāravimūḍhātmā kartāhamiti manyate",
+   "essence": "Actions are everywhere performed by the gunas of nature; deluded by ego, one thinks: I am the doer.",
+   "translation": "All actions are wrought in all cases by the alities of Nature only. He whose mind is deluded by egoism thinks, \"I am the doer.\"",
+   "anvaya": [
+    {
+     "word": "प्रकृतेः क्रियमाणानि",
+     "meaning": "being performed by prakriti's"
+    },
+    {
+     "word": "गुणैः कर्माणि सर्वशः",
+     "meaning": "gunas, actions, in every way"
+    },
+    {
+     "word": "अहङ्कारविमूढात्मा",
+     "meaning": "one whose self is deluded by the ego"
+    },
+    {
+     "word": "कर्ता अहम् इति मन्यते",
+     "meaning": "thinks: I am the doer"
+    }
+   ],
+   "explanation": "The metaphysical floor under detachment. Digestion, heartbeat, even deliberation run on nature's three strands; the machinery acts, and the ego — ahaṅkāra, the 'I-maker' — rushes in to sign the work. 'I am the doer' is not a fact but a stamp applied after the fact. Seeing this loosens the deepest knot of all: ownership of action. Prakriteh kriyamanani — nature performing, everywhere, while ahankara-vimudhatma, the ego-deluded self, signs its name to the work. Shankara reads the verse as the seed of all bondage: a single misattribution. The commentaries pair it with 13.29 and 18.16 — the Gita states this diagnosis three times, once per movement, because it considers nothing else so easily forgotten.",
+   "connection": "Supplies the inner mechanics that make 3.25's unattached action possible: the doer was always partly a fiction.",
+   "schools_note": "This is the Gita's first full statement of non-doership, and the schools calibrate it carefully: Advaita takes it absolutely — agency itself belongs to prakriti, never the Self; Vishishtadvaita reads the soul as real agent whose agency depends on the Lord and nature; Madhva keeps the soul a genuine doer under divine impulsion. All deploy it identically in practice: against the fever of 'I did this.'",
+   "reflection": "Once today, mid-action, whisper 'the gunas are moving among the gunas' — and feel the doer relax.",
+   "background": "Krishna contrasts the attached and the wise in identical labor: the sage acts as diligently as the ignorant but without clinging, and is warned not to unsettle the minds of those still working from attachment — teaching by joined example, not superior speech."
+  },
+  {
+   "chapter": 3,
+   "verse": 28,
+   "speaker": null,
+   "devanagari": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते॥",
+   "transliteration": "tattvavittu mahābāho guṇakarmavibhāgayoḥ\nguṇā guṇeṣu vartanta iti matvā na sajjate",
+   "essence": "But the knower of the truth of guna and action, Mahabaho, understands: gunas move among gunas — and is not attached.",
+   "translation": "But he who knows the Truth, O mighty-armed (Arjuna), about the divisions of the alities and (their) functions, knowing that the Gunas as senses move amidst the Gunas as the sense-objects, is not attached.",
+   "anvaya": [
+    {
+     "word": "तत्त्ववित् तु महाबाहो",
+     "meaning": "but the knower of truth, O mighty-armed"
+    },
+    {
+     "word": "गुणकर्मविभागयोः",
+     "meaning": "of the divisions of guna and action"
+    },
+    {
+     "word": "गुणाः गुणेषु वर्तन्ते",
+     "meaning": "the gunas move among the gunas"
+    },
+    {
+     "word": "इति मत्वा न सज्जते",
+     "meaning": "knowing thus, is not attached"
+    }
+   ],
+   "explanation": "The seer's formula in three words: guṇā guṇeṣu vartante — strands acting upon strands, senses (made of gunas) meeting objects (made of gunas), nature conversing with itself. Once the whole transaction is seen as nature-on-nature, there is no surface left for attachment to stick to. The witness watches the weather happen to the weather.",
+   "connection": "States positively what 3.27 stated as delusion: the same event, correctly attributed, no longer binds.",
+   "schools_note": null,
+   "reflection": "Watch one strong reaction arise and label it nature-meeting-nature; keep the witness seat.",
+   "background": "Krishna contrasts the attached and the wise in identical labor: the sage acts as diligently as the ignorant but without clinging, and is warned not to unsettle the minds of those still working from attachment — teaching by joined example, not superior speech."
+  },
+  {
+   "chapter": 3,
+   "verse": 29,
+   "speaker": null,
+   "devanagari": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्॥",
+   "transliteration": "prakṛterguṇasammūḍhāḥ sajjante guṇakarmasu\ntānakṛtsnavido mandānkṛtsnavinna vicālayet",
+   "essence": "Those deluded by nature's gunas are attached to the gunas' workings. The complete knower should not unsettle these dull, partial knowers.",
+   "translation": "Those deluded by the alities of Nature are attached to the functions of the alities. The man of perfect knowledge should not unsettle the foolish one who is of imperfect knowledge.",
+   "anvaya": [
+    {
+     "word": "प्रकृतेः गुणसम्मूढाः",
+     "meaning": "those deluded by prakriti's gunas"
+    },
+    {
+     "word": "सज्जन्ते गुणकर्मसु",
+     "meaning": "are attached to the gunas' actions"
+    },
+    {
+     "word": "तान् अकृत्स्नविदः मन्दान्",
+     "meaning": "those incomplete knowers, the dull"
+    },
+    {
+     "word": "कृत्स्नवित् न विचालयेत्",
+     "meaning": "the complete knower should not disturb"
+    }
+   ],
+   "explanation": "The teaching-ethic of 3.26 returns at the metaphysical level: the doership-illusion, too, must not be torn from people who still need it to function. Telling a struggling worker 'you were never the doer' produces paralysis, not freedom. Truths have prerequisites; the kṛtsna-vit waits for them.",
+   "connection": "Pairs with 3.26 to bracket the guna-teaching (3.27–28) in compassion: deep truths, gently held.",
+   "schools_note": null,
+   "reflection": "Be gentle with those still fully identified with their roles — you were there yesterday.",
+   "background": "Krishna contrasts the attached and the wise in identical labor: the sage acts as diligently as the ignorant but without clinging, and is warned not to unsettle the minds of those still working from attachment — teaching by joined example, not superior speech."
+  },
+  {
+   "chapter": 3,
+   "verse": 30,
+   "speaker": null,
+   "devanagari": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः॥",
+   "transliteration": "mayi sarvāṇi karmāṇi saṃnyasyādhyātmacetasā\nnirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ",
+   "essence": "Surrendering all actions to me, with mind on the Self, free of longing and 'mine', fight — with the fever gone.",
+   "translation": "Renouncing all actions in Me, with the mind centred in the Self, free from hope and egoism, and from (mental) fever, do thou fight.",
+   "anvaya": [
+    {
+     "word": "मयि सर्वाणि कर्माणि",
+     "meaning": "in me all actions"
+    },
+    {
+     "word": "संन्यस्य अध्यात्मचेतसा",
+     "meaning": "renouncing, with mind on the inmost Self"
+    },
+    {
+     "word": "निराशीः निर्ममः भूत्वा",
+     "meaning": "becoming free of longing and of mine-ness"
+    },
+    {
+     "word": "युध्यस्व विगतज्वरः",
+     "meaning": "fight, with the fever departed"
+    }
+   ],
+   "explanation": "The chapter's instructions converge into one charged sentence — and the word mayi, 'in Me', quietly changes everything: detachment finally has an address. Actions are not dropped but deposited; the self keeps working as trustee, not owner. Vigata-jvaraḥ — the fever gone — names Arjuna's actual disease: not the war, but the burning grip around it. Mayi sarvani karmani sannyasya — the first time the Gita's renunciation gets an address: deposit the acts in me. Adhyatma-chetasa, with mind in the self; nirashir nirmamah, no hoping, no 'mine'; and then — yudhyasva, fight. Commentators note the verse as karma-yoga's completion: the same battle, with the ownership transferred and the fever gone.",
+   "connection": "Gathers 3.9's yajna, 3.19's non-attachment and 3.27's non-doership into a single command — with Krishna as the receiving altar.",
+   "schools_note": null,
+   "reflection": "Place this morning's work in higher hands before beginning, and fight your day fever-free.",
+   "background": "The chapter's instruction is sealed: surrender all actions to Me and fight, free of fever. Krishna marks the fate of those who carp at this teaching, points to the helplessness of nature in all beings, and closes with the law of svadharma — one's own duty over another's, even unto death."
+  },
+  {
+   "chapter": 3,
+   "verse": 31,
+   "speaker": null,
+   "devanagari": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः॥",
+   "transliteration": "ye me matamidaṃ nityamanutiṣṭhanti mānavāḥ\nśraddhāvanto'nasūyanto mucyante te'pi karmabhiḥ",
+   "essence": "Those who constantly follow this teaching of mine, full of faith and without cavil, are released even from actions.",
+   "translation": "Those men who constantly practise this teaching of Mine with faith and without cavilling, they too are freed from actions.",
+   "anvaya": [
+    {
+     "word": "ये मे मतम् इदं नित्यम्",
+     "meaning": "those who this teaching of mine constantly"
+    },
+    {
+     "word": "अनुतिष्ठन्ति मानवाः",
+     "meaning": "follow, human beings"
+    },
+    {
+     "word": "श्रद्धावन्तः अनसूयन्तः",
+     "meaning": "full of faith, uncarping"
+    },
+    {
+     "word": "मुच्यन्ते ते अपि कर्मभिः",
+     "meaning": "they too are freed from actions"
+    }
+   ],
+   "explanation": "The promise, with two conditions worth noticing: śraddhā, trust enough to actually try it, and anasūyā, freedom from the fault-finding spirit that critiques a path as a substitute for walking it. Practice, not perfection, releases.",
+   "connection": "Closes 3.30's command with its guarantee — and the temperament it requires.",
+   "schools_note": null,
+   "reflection": "Practice this teaching one day with full faith, uncavilling, and judge it by the evening.",
+   "background": "The chapter's instruction is sealed: surrender all actions to Me and fight, free of fever. Krishna marks the fate of those who carp at this teaching, points to the helplessness of nature in all beings, and closes with the law of svadharma — one's own duty over another's, even unto death."
+  },
+  {
+   "chapter": 3,
+   "verse": 32,
+   "speaker": null,
+   "devanagari": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः॥",
+   "transliteration": "ye tvetadabhyasūyanto nānutiṣṭhanti me matam\nsarvajñānavimūḍhāṃstānviddhi naṣṭānacetasaḥ",
+   "essence": "But those who, carping, do not follow this teaching — know them, blind to all knowledge, mindless, lost.",
+   "translation": "But those who carp at My teaching and do not practise it, deluded of all knowledge, and devoid of discrimination, know them to be doomed to destruction.",
+   "anvaya": [
+    {
+     "word": "ये तु एतत् अभ्यसूयन्तः",
+     "meaning": "but those who, cavilling at this"
+    },
+    {
+     "word": "न अनुतिष्ठन्ति मे मतम्",
+     "meaning": "do not follow my teaching"
+    },
+    {
+     "word": "सर्वज्ञानविमूढान् तान्",
+     "meaning": "them, deluded about all knowledge"
+    },
+    {
+     "word": "विद्धि नष्टान् अचेतसः",
+     "meaning": "know to be lost, devoid of sense"
+    }
+   ],
+   "explanation": "The counterpart, stated without softening. Asūyā — the carping that finds reasons not to begin — does not merely delay growth; it corrodes the faculty that grows. One can disagree with a teaching and remain whole; one cannot sneer at every teaching and remain whole.",
+   "connection": "The shadow of 3.31: the same teaching, met with cavil instead of faith, and the two destinations.",
+   "schools_note": null,
+   "reflection": "Notice where you carp at wisdom you have not yet tried — critique without practice is a closed door.",
+   "background": "The chapter's instruction is sealed: surrender all actions to Me and fight, free of fever. Krishna marks the fate of those who carp at this teaching, points to the helplessness of nature in all beings, and closes with the law of svadharma — one's own duty over another's, even unto death."
+  },
+  {
+   "chapter": 3,
+   "verse": 33,
+   "speaker": null,
+   "devanagari": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति॥",
+   "transliteration": "sadṛśaṃ ceṣṭate svasyāḥ prakṛterjñānavānapi\nprakṛtiṃ yānti bhūtāni nigrahaḥ kiṃ kariṣyati",
+   "essence": "Even the knower acts according to his own nature; beings follow nature — what will repression accomplish?",
+   "translation": "Even a wise man acts in accordance with his own nature; beings will follow Nature; what can restraint do?",
+   "anvaya": [
+    {
+     "word": "सदृशं चेष्टते स्वस्याः",
+     "meaning": "acts in accordance with his own"
+    },
+    {
+     "word": "प्रकृतेः ज्ञानवान् अपि",
+     "meaning": "prakriti, even the one who knows"
+    },
+    {
+     "word": "प्रकृतिं यान्ति भूतानि",
+     "meaning": "beings follow nature"
+    },
+    {
+     "word": "निग्रहः किं करिष्यति",
+     "meaning": "what will restraint (by force) accomplish"
+    }
+   ],
+   "explanation": "A startling concession at the chapter's edge: even knowledge does not erase temperament — the wise act through their nature, not despite it. Nigraha, brute suppression, is declared nearly powerless against the current of svabhāva. The path forward is not damming the river but learning, in the next verse, where its rapids are.",
+   "connection": "Tempers the chapter's confidence: technique meets the stubborn fact of one's given nature.",
+   "schools_note": null,
+   "reflection": "Stop warring with your basic temperament today; redirect the river, do not lecture it.",
+   "background": "The chapter's instruction is sealed: surrender all actions to Me and fight, free of fever. Krishna marks the fate of those who carp at this teaching, points to the helplessness of nature in all beings, and closes with the law of svadharma — one's own duty over another's, even unto death."
+  },
+  {
+   "chapter": 3,
+   "verse": 34,
+   "speaker": null,
+   "devanagari": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ॥",
+   "transliteration": "indriyasyendriyasyārthe rāgadveṣau vyavasthitau\ntayorna vaśamāgacchettau hyasya paripanthinau",
+   "essence": "Attraction and aversion sit stationed in each sense toward its object. Come not under their sway — they are the two ambushers on the road.",
+   "translation": "Attachment and aversion for the objects of the senses abide in the senses; let none come under their sway; for, they are his foes.",
+   "anvaya": [
+    {
+     "word": "इन्द्रियस्य इन्द्रियस्य अर्थे",
+     "meaning": "in each sense, toward its object"
+    },
+    {
+     "word": "रागद्वेषौ व्यवस्थितौ",
+     "meaning": "attraction and aversion stand stationed"
+    },
+    {
+     "word": "तयोः न वशम् आगच्छेत्",
+     "meaning": "one should not come under their control"
+    },
+    {
+     "word": "तौ हि अस्य परिपन्थिनौ",
+     "meaning": "for these two are one's waylayers"
+    }
+   ],
+   "explanation": "If nature cannot be repressed (3.33), where is freedom? Here: not in the senses' contact with objects — that is nature's business — but in the pull-and-push installed at each contact point. Rāga and dveṣa are paripanthinau, highway robbers stationed along every perception. One cannot close the road; one can refuse to hand them the reins.",
+   "connection": "Answers 3.33's pessimism with the precise location of choice: between the sensation and the surrender to it.",
+   "schools_note": null,
+   "reflection": "Mark your two tripwires — the like and the dislike planted in each sense — and step over one.",
+   "background": "The chapter's instruction is sealed: surrender all actions to Me and fight, free of fever. Krishna marks the fate of those who carp at this teaching, points to the helplessness of nature in all beings, and closes with the law of svadharma — one's own duty over another's, even unto death."
+  },
+  {
+   "chapter": 3,
+   "verse": 35,
+   "speaker": null,
+   "devanagari": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥",
+   "transliteration": "śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt\nsvadharme nidhanaṃ śreyaḥ paradharmo bhayāvahaḥ",
+   "essence": "Better one's own dharma, though flawed, than another's well performed. Death in one's own dharma is better; another's dharma invites fear.",
+   "translation": "Better is one's own duty, though devoid of merit than the duty of another well discharged. Better is death in one's own duty; the duty of another is fraught with fear (is productive of danger).",
+   "anvaya": [
+    {
+     "word": "श्रेयान् स्वधर्मः विगुणः",
+     "meaning": "better one's own dharma, deficient"
+    },
+    {
+     "word": "परधर्मात् स्वनुष्ठितात्",
+     "meaning": "than another's dharma well performed"
+    },
+    {
+     "word": "स्वधर्मे निधनं श्रेयः",
+     "meaning": "death in one's own dharma is better"
+    },
+    {
+     "word": "परधर्मः भयावहः",
+     "meaning": "another's dharma brings fear"
+    }
+   ],
+   "explanation": "The chapter's most quoted and most arguable verse. Arjuna's flight would not land him in 'no role' but in someone else's role — the renunciate's, for which he has neither the nature nor the ripeness; lived falsely, even a holy part corrodes the actor. The verse defends authenticity over imitation, at the famous extreme: better to die as yourself than flourish as a copy. Svadharme nidhanam shreyah — even death in one's own dharma is better: the verse's hardest clause, and the tradition keeps it hard. Readings range from social station to soul-vocation, but all converge on the warning: para-dharma is bhayavahah, fear-bringing, because a borrowed life must be continuously defended. Authenticity, even fatal, leaves no such siege.",
+   "connection": "Caps 3.33–34: since nature cannot be escaped, align with your own — Arjuna's exit was never an exit, only a costume change.",
+   "schools_note": "Commentators read svadharma at two depths: the duty of one's station (Ramanuja — the kshatriya must not play sannyasi) and the law of one's inmost nature. Gandhi and modern readers wrestled with its conservatism; its defenders answer that the verse targets self-deception, not growth — 18.47 repeats it where svabhava, inborn nature, is explicitly the ground.",
+   "reflection": "Choose your own rough-edged path once today over a borrowed polished one, and notice the rightness.",
+   "background": "The chapter's instruction is sealed: surrender all actions to Me and fight, free of fever. Krishna marks the fate of those who carp at this teaching, points to the helplessness of nature in all beings, and closes with the law of svadharma — one's own duty over another's, even unto death."
+  },
+  {
+   "chapter": 3,
+   "verse": 36,
+   "speaker": "अर्जुन उवाच",
+   "devanagari": "अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः॥",
+   "transliteration": "atha kena prayukto'yaṃ pāpaṃ carati pūruṣaḥ\nanicchannapi vārṣṇeya balādiva niyojitaḥ",
+   "essence": "Arjuna asks: then by what is a person impelled to sin, Varshneya, even unwilling — as if engaged by force?",
+   "translation": "But impelled by what does man commit sin, though against his wishes, O Varshneya (Krishna), constrained as it were, by force?",
+   "anvaya": [
+    {
+     "word": "अथ केन प्रयुक्तः अयं",
+     "meaning": "then by what impelled does this"
+    },
+    {
+     "word": "पापं चरति पूरुषः",
+     "meaning": "person commit sin"
+    },
+    {
+     "word": "अनिच्छन् अपि वार्ष्णेय",
+     "meaning": "even unwilling, O Varshneya"
+    },
+    {
+     "word": "बलात् इव नियोजितः",
+     "meaning": "as if engaged by force"
+    }
+   ],
+   "explanation": "The question every honest person eventually asks: why do I do what I do not want to do? Anicchann api — even against the will — names the universal experience of being overridden from inside. Arjuna has stopped asking about the war; he is asking about the saboteur.",
+   "connection": "Provoked by 3.34's ambushers: if they are stationed in every sense, what exactly are they?",
+   "schools_note": null,
+   "reflection": "Ask Arjuna's question of your last regret: what pushed me, as if by force?",
+   "background": "Arjuna interrupts with the question every honest person eventually asks: what is it that drives a person to do wrong even against their own will, as if pushed by force?"
+  },
+  {
+   "chapter": 3,
+   "verse": 37,
+   "speaker": null,
+   "devanagari": "श्रीभगवानुवाच ।\nकाम एष क्रोध एष रजोगुणसमुद्भवः ।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम्॥",
+   "transliteration": "kāma eṣa krodha eṣa rajoguṇasamudbhavaḥ\nmahāśano mahāpāpmā viddhyenamiha vairiṇam",
+   "essence": "It is desire, it is anger, born of the guna of rajas — all-devouring, greatly sinful. Know this to be the enemy here.",
+   "translation": "It is desire, it is anger both of the ality of Rajas, all-devouring, all-sinful; know this as the foe here (in this world).",
+   "anvaya": [
+    {
+     "word": "कामः एषः क्रोधः एषः",
+     "meaning": "it is desire, it is anger"
+    },
+    {
+     "word": "रजोगुणसमुद्भवः",
+     "meaning": "born of the guna of rajas"
+    },
+    {
+     "word": "महाशनः महापाप्मा",
+     "meaning": "all-devouring, greatly evil"
+    },
+    {
+     "word": "विद्धि एनम् इह वैरिणम्",
+     "meaning": "know this to be the enemy here"
+    }
+   ],
+   "explanation": "The indictment names one criminal with two faces: kāma, and kāma-thwarted, which is krodha (the chain of 2.62 compressed). Its scariest title is mahāśanaḥ, the great eater — no satisfaction retires it; feeding it is how it grows. Krishna gives Arjuna at last an enemy he can fight without grief: it is not across the field. Kama esha krodha esha — desire is this, anger is this: one enemy, two faces, and the commentaries stress the identification. Anger is only desire obstructed; treat the symptom and the root re-sprouts. Mahashano maha-papma — the great devourer: Jnaneshwar pictures it as a fire that eats its own fuel-line, growing hungrier with every feeding.",
+   "connection": "Answers 3.36 by name — and quietly relocates the war from Kurukshetra to the interior.",
+   "schools_note": null,
+   "reflection": "Name the enemy precisely next time: not the person, not the situation — the wanting, and its anger.",
+   "background": "Krishna names the enemy: desire, which becomes anger — the all-devouring fire, veiling wisdom as smoke veils flame, garrisoned in senses, mind, and intellect. The chapter ends as a battle plan: govern the senses first, know what is higher than the intellect, and slay the foe from above."
+  },
+  {
+   "chapter": 3,
+   "verse": 38,
+   "speaker": null,
+   "devanagari": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्॥",
+   "transliteration": "dhūmenāvriyate vahniryathādarśo malena ca\nyatholbenāvṛto garbhastathā tenedamāvṛtam",
+   "essence": "As fire is covered by smoke, a mirror by dust, an embryo by the womb — so is this covered by that.",
+   "translation": "As fire is enveloped by smoke, as a mirror by dust, and as an embryo by the amnion, so is this enveloped by that.",
+   "anvaya": [
+    {
+     "word": "धूमेन आव्रियते वह्निः",
+     "meaning": "by smoke fire is covered"
+    },
+    {
+     "word": "यथा आदर्शः मलेन च",
+     "meaning": "as a mirror by dust"
+    },
+    {
+     "word": "यथा उल्बेन आवृतः गर्भः",
+     "meaning": "as an embryo is covered by the membrane"
+    },
+    {
+     "word": "तथा तेन इदम् आवृतम्",
+     "meaning": "so by that is this covered"
+    }
+   ],
+   "explanation": "Three veils of three thicknesses: smoke, which a breeze clears; dust, which needs wiping; the womb, which only time and birth remove. Desire obscures the inner light in all three grades — sometimes a passing haze, sometimes ground-in habit, sometimes a covering only a whole rebirth of the person dissolves. Diagnosis includes severity.",
+   "connection": "Grades the enemy of 3.37: not all coverings of knowledge are equal, nor cleared by the same effort.",
+   "schools_note": null,
+   "reflection": "Find which veil covers your clarity today — light smoke, thick dust, or full womb-darkness.",
+   "background": "Krishna names the enemy: desire, which becomes anger — the all-devouring fire, veiling wisdom as smoke veils flame, garrisoned in senses, mind, and intellect. The chapter ends as a battle plan: govern the senses first, know what is higher than the intellect, and slay the foe from above."
+  },
+  {
+   "chapter": 3,
+   "verse": 39,
+   "speaker": null,
+   "devanagari": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च॥",
+   "transliteration": "āvṛtaṃ jñānametena jñānino nityavairiṇā\nkāmarūpeṇa kaunteya duṣpūreṇānalena ca",
+   "essence": "Knowledge is covered by this eternal enemy of the knower — by desire, the insatiable fire, Kaunteya.",
+   "translation": "O Arjuna, wisdom is enveloped by this constant enemy of the wise in the form of desire, which is unappeasable as fire.",
+   "anvaya": [
+    {
+     "word": "आवृतं ज्ञानम् एतेन",
+     "meaning": "knowledge is covered by this"
+    },
+    {
+     "word": "ज्ञानिनः नित्यवैरिणा",
+     "meaning": "the knower's eternal enemy"
+    },
+    {
+     "word": "कामरूपेण कौन्तेय",
+     "meaning": "in the form of desire, O Kaunteya"
+    },
+    {
+     "word": "दुष्पूरेण अनलेन च",
+     "meaning": "and by the unfillable fire"
+    }
+   ],
+   "explanation": "Two epithets complete the profile: nitya-vairī, the *constant* enemy — it does not retire when one grows wise; it specializes in the wise — and duṣpūra anala, the fire that cannot be filled, for whom every offering is fuel. An enemy that feeds on satisfaction cannot be satisfied into peace.",
+   "connection": "Deepens 3.37–38: why appeasement fails — the covering is made of appetite itself.",
+   "schools_note": null,
+   "reflection": "Feed a craving and watch it grow; skip feeding it once and watch it complain, then quiet.",
+   "background": "Krishna names the enemy: desire, which becomes anger — the all-devouring fire, veiling wisdom as smoke veils flame, garrisoned in senses, mind, and intellect. The chapter ends as a battle plan: govern the senses first, know what is higher than the intellect, and slay the foe from above."
+  },
+  {
+   "chapter": 3,
+   "verse": 40,
+   "speaker": null,
+   "devanagari": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्॥",
+   "transliteration": "indriyāṇi mano buddhirasyādhiṣṭhānamucyate\netairvimohayatyeṣa jñānamāvṛtya dehinam",
+   "essence": "The senses, the mind and the understanding are its seat; through these it deludes the embodied, veiling knowledge.",
+   "translation": "The senses, the mind and the intellect are said to be its seat; through these it deludes the embodied by veiling his wisdom.",
+   "anvaya": [
+    {
+     "word": "इन्द्रियाणि मनः बुद्धिः",
+     "meaning": "the senses, the mind, the understanding"
+    },
+    {
+     "word": "अस्य अधिष्ठानम् उच्यते",
+     "meaning": "are called its seat"
+    },
+    {
+     "word": "एतैः विमोहयति एषः",
+     "meaning": "through these it deludes"
+    },
+    {
+     "word": "ज्ञानम् आवृत्य देहिनम्",
+     "meaning": "veiling knowledge, the embodied one"
+    }
+   ],
+   "explanation": "Intelligence on the enemy's positions: desire garrisons three strongholds in ascending depth — the sense-gates, the mind that savors, the very buddhi that is supposed to judge. The last is the alarming one: when the judge is occupied, desire issues its commands in the voice of reason.",
+   "connection": "Maps the territory before the battle-plan of 3.41: know where the enemy is quartered.",
+   "schools_note": null,
+   "reflection": "Locate where desire garrisons in you — senses, mind, or intellect — and visit the outpost.",
+   "background": "Krishna names the enemy: desire, which becomes anger — the all-devouring fire, veiling wisdom as smoke veils flame, garrisoned in senses, mind, and intellect. The chapter ends as a battle plan: govern the senses first, know what is higher than the intellect, and slay the foe from above."
+  },
+  {
+   "chapter": 3,
+   "verse": 41,
+   "speaker": null,
+   "devanagari": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्॥",
+   "transliteration": "tasmāttvamindriyāṇyādau niyamya bharatarṣabha\npāpmānaṃ prajahi hyenaṃ jñānavijñānanāśanam",
+   "essence": "Therefore, Bharatarshabha, first govern the senses and slay this evil destroyer of knowledge and discernment.",
+   "translation": "Therefore, O best of the Bharatas (Arjuna), controlling the senses first, do thou kill this sinful thing, the destroyer of knowledge and realisation.",
+   "anvaya": [
+    {
+     "word": "तस्मात् त्वम् इन्द्रियाणि आदौ",
+     "meaning": "therefore you, the senses first"
+    },
+    {
+     "word": "नियम्य भरतर्षभ",
+     "meaning": "governing, O bull of the Bharatas"
+    },
+    {
+     "word": "पाप्मानं प्रजहि हि एनं",
+     "meaning": "slay indeed this evil one"
+    },
+    {
+     "word": "ज्ञानविज्ञाननाशनम्",
+     "meaning": "the destroyer of knowledge and realization"
+    }
+   ],
+   "explanation": "Strategy follows the map: ādau, *first*, at the outermost gate — the senses — where the enemy is weakest and the fight cheapest. One does not begin the war in the citadel of buddhi; one begins at the walls. Krishna ends a teaching on desirelessness with a command to kill: even renunciation, rightly understood, is a warrior's act.",
+   "connection": "Converts 3.40's intelligence into orders: engage at the perimeter, before desire reaches the command center.",
+   "schools_note": null,
+   "reflection": "Regulate the senses first thing today; win the border before the capital is contested.",
+   "background": "Krishna names the enemy: desire, which becomes anger — the all-devouring fire, veiling wisdom as smoke veils flame, garrisoned in senses, mind, and intellect. The chapter ends as a battle plan: govern the senses first, know what is higher than the intellect, and slay the foe from above."
+  },
+  {
+   "chapter": 3,
+   "verse": 42,
+   "speaker": null,
+   "devanagari": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः॥",
+   "transliteration": "indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ\nmanasastu parā buddhiryo buddheḥ paratastu saḥ",
+   "essence": "The senses are high, they say; higher than the senses, the mind; higher than the mind, the understanding; and beyond the understanding — That.",
+   "translation": "They say that the senses are superior (to the body); superior to the senses is the mind; superior to the mind is the intellect; one who is superior even to the intellect is He (the Self).",
+   "anvaya": [
+    {
+     "word": "इन्द्रियाणि पराणि आहुः",
+     "meaning": "the senses are superior, they say"
+    },
+    {
+     "word": "इन्द्रियेभ्यः परं मनः",
+     "meaning": "higher than the senses, the mind"
+    },
+    {
+     "word": "मनसः तु परा बुद्धिः",
+     "meaning": "higher than the mind, the understanding"
+    },
+    {
+     "word": "यः बुद्धेः परतः तु सः",
+     "meaning": "but that which is beyond the understanding — That (the Self)"
+    }
+   ],
+   "explanation": "The chain of command, ascending: objects, above them the senses, above the senses the mind, above the mind the buddhi, and above all, the Self. Desire fights downhill, capturing the lower links; the seeker must fight uphill, each level disciplining the one below from the strength of the one above. The summit of the chain is the one thing desire cannot garrison — the Self that watches even the buddhi.",
+   "connection": "Supplies the architecture for 3.41's campaign: where reinforcements come from at each level.",
+   "schools_note": null,
+   "reflection": "Climb your own chain of command once: sensation, mind, intellect — and greet what stands above them all.",
+   "background": "Krishna names the enemy: desire, which becomes anger — the all-devouring fire, veiling wisdom as smoke veils flame, garrisoned in senses, mind, and intellect. The chapter ends as a battle plan: govern the senses first, know what is higher than the intellect, and slay the foe from above."
+  },
+  {
+   "chapter": 3,
+   "verse": 43,
+   "speaker": null,
+   "devanagari": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।\nजहि शत्रुं महाबाहो कामरूपं दुरासदम्॥",
+   "transliteration": "evaṃ buddheḥ paraṃ buddhvā saṃstabhyātmānamātmanā\njahi śatruṃ mahābāho kāmarūpaṃ durāsadam",
+   "essence": "Thus knowing That beyond the understanding, steadying the self by the Self, slay, Mahabaho, this enemy in the form of desire, so hard to assail.",
+   "translation": "Thus knowing Him Who is superior to the intellect and restraining the self by the Self, slay thou, O mighty-armed Arjuna, the enemy in the form of desire, hard to coner.",
+   "anvaya": [
+    {
+     "word": "एवं बुद्धेः परं बुद्ध्वा",
+     "meaning": "thus knowing what is beyond the buddhi"
+    },
+    {
+     "word": "संस्तभ्य आत्मानम् आत्मना",
+     "meaning": "steadying the self by the Self"
+    },
+    {
+     "word": "जहि शत्रुं महाबाहो",
+     "meaning": "slay the enemy, O mighty-armed"
+    },
+    {
+     "word": "कामरूपं दुरासदम्",
+     "meaning": "in the form of desire, hard to approach"
+    }
+   ],
+   "explanation": "The chapter closes its ring: it opened with Arjuna refusing to slay, and ends with Krishna commanding jahi śatrum — slay the enemy — now correctly identified. Saṁstabhya ātmānam ātmanā: steady the lower self by the higher, the only leverage that works against an enemy quartered inside. The war Arjuna must not flee was never primarily the one in front of him. Evam buddheh param buddhva — knowing what stands beyond even the intellect, slay the enemy from above. The tradition reads the strategy as the chapter's final gift: desire cannot be beaten at its own altitude; willpower fights guna with guna. Only the Self's downward authority — samstabhya atmanam atmana, steadying the self by the Self — outranks the wanting.",
+   "connection": "Seals 3.36–42 and the whole chapter: act, unattached, and turn the warrior's strength on the real adversary.",
+   "schools_note": null,
+   "reflection": "Slay one small desire today by the Self's authority, not by willpower's white knuckles.",
+   "background": "Krishna names the enemy: desire, which becomes anger — the all-devouring fire, veiling wisdom as smoke veils flame, garrisoned in senses, mind, and intellect. The chapter ends as a battle plan: govern the senses first, know what is higher than the intellect, and slay the foe from above."
+  }
+ ]
+}
